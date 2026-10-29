@@ -1,0 +1,25 @@
+{
+  "meta": {"subject": "语文", "edition": "统编版", "scope": "高中语文阅读、文言、诗歌、语用与写作", "version": "1.0"},
+  "topics": [
+    {"id":"cg-01","name":"论述类文本：论点与论据","subject":"语文","stage":"高中","grade":10,"term":1,"chapter":"现代文阅读（高中）","core":true,"desc":"区分中心论点与分论点，判断论据类型（事实/道理）与支撑关系。"},
+    {"id":"cg-02","name":"论述类文本：论证结构与方法","subject":"语文","stage":"高中","grade":10,"term":2,"chapter":"现代文阅读（高中）","core":true,"desc":"总分、并列、递进、对照结构；举例、引用、对比、比喻论证的作用。"},
+    {"id":"cg-03","name":"实用类文本：信息筛选与整合","subject":"语文","stage":"高中","grade":10,"term":2,"chapter":"现代文阅读（高中）","core":true,"desc":"多材料比对，筛选、概括、整合信息，注意偷换概念与以偏概全。"},
+    {"id":"cg-04","name":"文学类文本：情节与结构","subject":"语文","stage":"高中","grade":10,"term":1,"chapter":"现代文阅读（高中）","core":true,"desc":"情节的开端发展高潮结局，线索、伏笔、照应与叙述顺序。"},
+    {"id":"cg-05","name":"文学类文本：环境描写作用","subject":"语文","stage":"高中","grade":11,"term":1,"chapter":"现代文阅读（高中）","core":true,"desc":"交代背景、渲染气氛、烘托人物、推动情节、深化主题。"},
+    {"id":"cg-06","name":"文学类文本：人物形象与主题","subject":"语文","stage":"高中","grade":11,"term":2,"chapter":"现代文阅读（高中）","core":true,"desc":"从描写手法与情节概括性格，再由人物与事件提炼主题。"},
+    {"id":"cg-07","name":"散文：语言赏析与情感","subject":"语文","stage":"高中","grade":11,"term":2,"chapter":"现代文阅读（高中）","core":true,"desc":"从用词、句式、修辞、节奏切入，落到作者情感与主旨。"},
+    {"id":"cg-08","name":"文言实词：一词多义与古今异义","subject":"语文","stage":"高中","grade":10,"term":1,"chapter":"文言文（高中）","core":true,"desc":"常见 120 个实词的多义项；古今异义、偏义复词、通假字。"},
+    {"id":"cg-09","name":"文言虚词：而、以、于、乃","subject":"语文","stage":"高中","grade":10,"term":2,"chapter":"文言文（高中）","core":true,"desc":"18 个常见虚词的用法辨析，结合语境判断。"},
+    {"id":"cg-10","name":"文言句式与固定结构","subject":"语文","stage":"高中","grade":11,"term":1,"chapter":"文言文（高中）","core":true,"desc":"判断句、被动句、宾语前置、状语后置、定语后置、省略句；固定句式。"},
+    {"id":"cg-11","name":"文言翻译：踩点得分","subject":"语文","stage":"高中","grade":11,"term":2,"chapter":"文言文（高中）","core":true,"desc":"关键词实词、虚词、句式各占分点；直译为主，语句通顺。"},
+    {"id":"cg-12","name":"文言断句与文意概括","subject":"语文","stage":"高中","grade":12,"term":1,"chapter":"文言文（高中）","core":true,"desc":"抓名词、虚词、对称句式断句；概括题要防张冠李戴与无中生有。"},
+    {"id":"cg-13","name":"古代文化常识","subject":"语文","stage":"高中","grade":11,"term":1,"chapter":"文言文（高中）","core":false,"desc":"科举、官职、称谓、礼俗、历法等常识的积累。"},
+    {"id":"cg-14","name":"诗歌鉴赏：意象与意境","subject":"语文","stage":"高中","grade":10,"term":2,"chapter":"古代诗歌（高中）","core":true,"desc":"抓意象组合，用两到四个形容词概括意境特点。"},
+    {"id":"cg-15","name":"诗歌鉴赏：表达技巧","subject":"语文","stage":"高中","grade":11,"term":2,"chapter":"古代诗歌（高中）","core":true,"desc":"修辞、表现手法、抒情方式、结构技巧四类，答题要「手法+分析+效果」。"},
+    {"id":"cg-16","name":"诗歌鉴赏：思想感情","subject":"语文","stage":"高中","grade":12,"term":1,"chapter":"古代诗歌（高中）","core":true,"desc":"结合标题、作者、注释与关键词判断情感类型。"},
+    {"id":"cg-17","name":"名句默写（高中）","subject":"语文","stage":"高中","grade":10,"term":1,"chapter":"古代诗歌（高中）","core":true,"desc":"课标 72 篇的上下句默写，注意易错字形。"},
+    {"id":"cg-18","name":"语言文字运用：成语与病句","subject":"语文","stage":"高中","grade":10,"term":2,"chapter":"语言文字运用（高中）","core":true,"desc":"成语的感情色彩与适用对象；六类病句的快速识别。"},
+    {"id":"cg-19","name":"语言连贯与补写句子","subject":"语文","stage":"高中","grade":11,"term":2,"chapter":"语言文字运用（高中）","core":true,"desc":"看话题一致、句式对称、逻辑衔接与代词指代。"},
+    {"id":"cg-20","name":"议论文写作：结构与论证","subject":"语文","stage":"高中","grade":12,"term":2,"chapter":"写作（高中）","core":true,"desc":"引论—本论（并列/递进/对照）—结论；素材贴切、论证有层次。"}
+  ]
+}
