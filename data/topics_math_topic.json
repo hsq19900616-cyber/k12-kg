@@ -1,0 +1,13 @@
+{
+  "meta": {"subject": "数学", "edition": "人教A版（2019）", "scope": "高中数学专题与导数", "version": "1.0"},
+  "topics": [
+    {"id":"hz-01","name":"导数的概念与几何意义","stage":"高中","grade":11,"term":2,"chapter":"导数","core":true,"desc":"瞬时变化率与极限思想；f'(x₀) 是曲线在 x₀ 处切线的斜率。"},
+    {"id":"hz-02","name":"导数的运算法则","stage":"高中","grade":11,"term":2,"chapter":"导数","core":true,"desc":"(xⁿ)'=nxⁿ⁻¹、(sinx)'=cosx、(eˣ)'=eˣ、(lnx)'=1/x，和差积商法则。"},
+    {"id":"hz-03","name":"导数与单调性","stage":"高中","grade":11,"term":2,"chapter":"导数","core":true,"desc":"f'(x)>0 递增、f'(x)<0 递减；含参讨论要分级。"},
+    {"id":"hz-04","name":"导数与极值最值","stage":"高中","grade":11,"term":2,"chapter":"导数","core":true,"desc":"驻点＋导数变号判极值；闭区间最值比较端点与极值。"},
+    {"id":"hz-05","name":"数列综合","stage":"高中","grade":11,"term":2,"chapter":"专题","core":true,"desc":"递推式求通项（累加、累乘、构造），错位相减与裂项相消。"},
+    {"id":"hz-06","name":"立体几何综合（向量法）","stage":"高中","grade":11,"term":2,"chapter":"专题","core":true,"desc":"建系—求法向量—算角度与距离，是空间向量法的固定套路。"},
+    {"id":"hz-07","name":"圆锥曲线综合","stage":"高中","grade":11,"term":2,"chapter":"专题","core":true,"desc":"联立、韦达定理、弦长公式，处理定点定值与最值问题。"},
+    {"id":"hz-08","name":"概率统计综合","stage":"高中","grade":12,"term":1,"chapter":"专题","core":true,"desc":"分布列、期望方差的性质与实际决策应用。"}
+  ]
+}
