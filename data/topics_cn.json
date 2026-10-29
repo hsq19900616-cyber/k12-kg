@@ -1,0 +1,29 @@
+{
+  "meta": {"subject": "语文", "edition": "统编版", "scope": "初中语文基础知识与读写方法", "version": "1.0"},
+  "topics": [
+    {"id":"cn-01","name":"拼音与声调","subject":"语文","stage":"初中","grade":7,"term":1,"chapter":"字词与语言运用","core":true,"desc":"声母、韵母、声调与常见易错读音。"},
+    {"id":"cn-02","name":"多音字","subject":"语文","stage":"初中","grade":7,"term":2,"chapter":"字词与语言运用","core":true,"desc":"同一字形在不同词义下读音不同，如差、行、载。"},
+    {"id":"cn-03","name":"形近字与易错字","subject":"语文","stage":"初中","grade":8,"term":1,"chapter":"字词与语言运用","core":true,"desc":"即/既、藉/籍 等形近字辨析与成语正字。"},
+    {"id":"cn-04","name":"近义词辨析","subject":"语文","stage":"初中","grade":8,"term":2,"chapter":"字词与语言运用","core":true,"desc":"从词义轻重、范围、感情色彩、搭配习惯四个角度辨析。"},
+    {"id":"cn-05","name":"成语使用","subject":"语文","stage":"初中","grade":9,"term":1,"chapter":"字词与语言运用","core":true,"desc":"注意感情色彩、适用对象、语义重复与望文生义。"},
+    {"id":"cn-06","name":"病句辨析","subject":"语文","stage":"初中","grade":9,"term":1,"chapter":"字词与语言运用","core":true,"desc":"成分残缺、搭配不当、语序不当、结构混乱、表意不明、不合逻辑。"},
+    {"id":"cn-07","name":"标点符号","subject":"语文","stage":"初中","grade":8,"term":2,"chapter":"字词与语言运用","core":false,"desc":"引号与句号位置、书名号、顿号与逗号、问号的误用。"},
+    {"id":"cn-08","name":"修辞手法","subject":"语文","stage":"初中","grade":9,"term":2,"chapter":"字词与语言运用","core":true,"desc":"比喻、拟人、夸张、排比、对偶、反复、设问、反问的辨识与作用。"},
+    {"id":"cn-09","name":"文言实词一词多义","subject":"语文","stage":"初中","grade":8,"term":1,"chapter":"古诗文","core":true,"desc":"或、兵、亡、顾等常见实词在不同语境中的含义。"},
+    {"id":"cn-10","name":"文言虚词之、其、而","subject":"语文","stage":"初中","grade":8,"term":2,"chapter":"古诗文","core":true,"desc":"之（代词/助词/取消独立性）、其、而（并列/转折/修饰）的用法。"},
+    {"id":"cn-11","name":"文言特殊句式","subject":"语文","stage":"初中","grade":9,"term":1,"chapter":"古诗文","core":true,"desc":"判断句、被动句、宾语前置、定语后置、省略句。"},
+    {"id":"cn-12","name":"文言句子翻译","subject":"语文","stage":"初中","grade":9,"term":2,"chapter":"古诗文","core":true,"desc":"直译为主、意译为辅，落实关键词与句式。"},
+    {"id":"cn-13","name":"古诗意象与情感","subject":"语文","stage":"初中","grade":8,"term":1,"chapter":"古诗文","core":true,"desc":"月、柳、雁、酒等常见意象承载的情感指向。"},
+    {"id":"cn-14","name":"诗歌表现手法","subject":"语文","stage":"初中","grade":9,"term":1,"chapter":"古诗文","core":true,"desc":"借景抒情、托物言志、以动衬静、虚实结合、用典。"},
+    {"id":"cn-15","name":"名句默写","subject":"语文","stage":"初中","grade":7,"term":2,"chapter":"古诗文","core":true,"desc":"课标推荐篇目的上下句默写，注意同音字与易错字。"},
+    {"id":"cn-16","name":"文言断句","subject":"语文","stage":"初中","grade":9,"term":2,"chapter":"古诗文","core":false,"desc":"依据句意、语法结构与标志词（曰、也、矣）断句。"},
+    {"id":"cn-17","name":"概括内容要点","subject":"语文","stage":"初中","grade":7,"term":2,"chapter":"现代文阅读","core":true,"desc":"分层提取关键词，用简明完整的一句话归纳。"},
+    {"id":"cn-18","name":"赏析语言","subject":"语文","stage":"初中","grade":8,"term":1,"chapter":"现代文阅读","core":true,"desc":"从修辞、用词、句式、节奏四个角度分析表达效果。"},
+    {"id":"cn-19","name":"分析人物形象","subject":"语文","stage":"初中","grade":8,"term":2,"chapter":"现代文阅读","core":true,"desc":"结合人物的言行、心理与情节，用「性格+依据」表述。"},
+    {"id":"cn-20","name":"说明方法与作用","subject":"语文","stage":"初中","grade":8,"term":1,"chapter":"现代文阅读","core":true,"desc":"举例子、列数字、作比较、打比方、分类别及其作用。"},
+    {"id":"cn-21","name":"审题立意","subject":"语文","stage":"初中","grade":7,"term":2,"chapter":"写作","core":true,"desc":"抓题眼与关键词，立意要正确、集中、有深度。"},
+    {"id":"cn-22","name":"选材与详略","subject":"语文","stage":"初中","grade":8,"term":1,"chapter":"写作","core":true,"desc":"围绕中心选材，与中心紧密相关的详写，其余略写。"},
+    {"id":"cn-23","name":"细节描写","subject":"语文","stage":"初中","grade":8,"term":2,"chapter":"写作","core":true,"desc":"动作、语言、神态、心理、环境描写让文章有画面感。"},
+    {"id":"cn-24","name":"开头与结尾","subject":"语文","stage":"初中","grade":9,"term":1,"chapter":"写作","core":true,"desc":"开门见山、设置悬念、卒章显志、首尾呼应。"}
+  ]
+}
