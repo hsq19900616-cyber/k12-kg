@@ -1,0 +1,784 @@
+{
+  "questions": [
+    {
+      "id": "q5-cn-01",
+      "topic": "cn-01",
+      "level": 3,
+      "stem": "「酝酿」的正确读音是",
+      "options": [
+        "yùn ràng",
+        "wēn niàng",
+        "yùn niàng"
+      ],
+      "answer": 2,
+      "explain": "酝读 yùn。"
+    },
+    {
+      "id": "q5-cn-02",
+      "topic": "cn-02",
+      "level": 3,
+      "stem": "「记载」中「载」读",
+      "options": [
+        "zǎi",
+        "zài",
+        "zāi"
+      ],
+      "answer": 0,
+      "explain": "记录义读 zǎi。"
+    },
+    {
+      "id": "q5-cn-03",
+      "topic": "cn-03",
+      "level": 3,
+      "stem": "成语「迫不jí待」中，正确写法是",
+      "options": [
+        "迫不急带",
+        "迫不及待",
+        "迫不急待"
+      ],
+      "answer": 1,
+      "explain": "及＝来得及。"
+    },
+    {
+      "id": "q5-cn-04",
+      "topic": "cn-04",
+      "level": 3,
+      "stem": "形容夜晚的安静，更贴切的是",
+      "options": [
+        "安静",
+        "静悄悄",
+        "宁静"
+      ],
+      "answer": 2,
+      "explain": "宁静带情感色彩，多写环境。"
+    },
+    {
+      "id": "q5-cn-05",
+      "topic": "cn-05",
+      "level": 3,
+      "stem": "「不以为然」的意思是",
+      "options": [
+        "不认为是对的",
+        "不在意",
+        "不高兴"
+      ],
+      "answer": 0,
+      "explain": "常与「不以为意」混淆。"
+    },
+    {
+      "id": "q5-cn-06",
+      "topic": "cn-06",
+      "level": 3,
+      "stem": "下列没有语病的一项是",
+      "options": [
+        "他的写作水平明显增长了",
+        "他的写作水平明显提高了",
+        "他的写作水平明显改进了"
+      ],
+      "answer": 1,
+      "explain": "水平只能提高。"
+    },
+    {
+      "id": "q5-cn-08",
+      "topic": "cn-08",
+      "level": 3,
+      "stem": "「问君能有几多愁？恰似一江春水向东流」用了",
+      "options": [
+        "拟人",
+        "排比",
+        "设问和比喻"
+      ],
+      "answer": 2,
+      "explain": "自问自答加比喻。"
+    },
+    {
+      "id": "q5-cn-09",
+      "topic": "cn-09",
+      "level": 3,
+      "stem": "「三顾臣于草庐之中」中「顾」意为",
+      "options": [
+        "拜访",
+        "回头看",
+        "照顾"
+      ],
+      "answer": 0,
+      "explain": "三顾即三次拜访。"
+    },
+    {
+      "id": "q5-cn-10",
+      "topic": "cn-10",
+      "level": 3,
+      "stem": "「其真无马邪」中「其」表示",
+      "options": [
+        "副词，将要",
+        "反问语气",
+        "代词，他的"
+      ],
+      "answer": 1,
+      "explain": "其……邪表反问。"
+    },
+    {
+      "id": "q5-cn-11",
+      "topic": "cn-11",
+      "level": 3,
+      "stem": "「马之千里者」属于",
+      "options": [
+        "宾语前置",
+        "判断句",
+        "定语后置"
+      ],
+      "answer": 2,
+      "explain": "千里者后置修饰马。"
+    },
+    {
+      "id": "q5-cn-12",
+      "topic": "cn-12",
+      "level": 3,
+      "stem": "「先帝不以臣卑鄙」中「卑鄙」指",
+      "options": [
+        "身份低微、见识短浅",
+        "品行恶劣",
+        "为人谦虚"
+      ],
+      "answer": 0,
+      "explain": "古今异义。"
+    },
+    {
+      "id": "q5-cn-13",
+      "topic": "cn-13",
+      "level": 3,
+      "stem": "古诗中「雁」常寄托",
+      "options": [
+        "劳动之乐",
+        "书信与思乡",
+        "战争之苦"
+      ],
+      "answer": 1,
+      "explain": "鸿雁传书。"
+    },
+    {
+      "id": "q5-cn-14",
+      "topic": "cn-14",
+      "level": 3,
+      "stem": "「托物言志」属于",
+      "options": [
+        "修辞手法",
+        "说明方法",
+        "表现手法"
+      ],
+      "answer": 2,
+      "explain": "借物抒发志向。"
+    },
+    {
+      "id": "q5-cn-15",
+      "topic": "cn-15",
+      "level": 3,
+      "stem": "「___，病树前头万木春」",
+      "options": [
+        "沉舟侧畔千帆过",
+        "沉舟侧畔千帆尽",
+        "沉船侧畔千帆过"
+      ],
+      "answer": 0,
+      "explain": "刘禹锡《酬乐天扬州初逢席上见赠》。"
+    },
+    {
+      "id": "q5-cn-17",
+      "topic": "cn-17",
+      "level": 3,
+      "stem": "概括一件事常用格式是",
+      "options": [
+        "原因＋感受",
+        "人物＋事件＋结果",
+        "时间＋地点"
+      ],
+      "answer": 1,
+      "explain": "谁做了什么结果如何。"
+    },
+    {
+      "id": "q5-cn-18",
+      "topic": "cn-18",
+      "level": 3,
+      "stem": "赏析句子一般先",
+      "options": [
+        "写个人感受",
+        "抄写原句",
+        "指出所用的手法"
+      ],
+      "answer": 2,
+      "explain": "先手法后效果。"
+    },
+    {
+      "id": "q5-cn-19",
+      "topic": "cn-19",
+      "level": 3,
+      "stem": "人物形象题作答要",
+      "options": [
+        "结合原文具体语句",
+        "只写性格结论",
+        "只复述情节"
+      ],
+      "answer": 0,
+      "explain": "有据可依才得分。"
+    },
+    {
+      "id": "q5-cn-20",
+      "topic": "cn-20",
+      "level": 3,
+      "stem": "「作比较」的作用是",
+      "options": [
+        "增强感情色彩",
+        "突出说明对象的特征",
+        "使语言生动形象"
+      ],
+      "answer": 1,
+      "explain": "比较见差异。"
+    },
+    {
+      "id": "q5-cn-21",
+      "topic": "cn-21",
+      "level": 3,
+      "stem": "材料作文的立意应",
+      "options": [
+        "脱离材料自由发挥",
+        "直接照抄材料",
+        "从材料中提炼并明确表达"
+      ],
+      "answer": 2,
+      "explain": "扣材料是关键。"
+    },
+    {
+      "id": "q5-cn-22",
+      "topic": "cn-22",
+      "level": 3,
+      "stem": "一篇文章应详写的是",
+      "options": [
+        "最能表现中心的部分",
+        "开头和结尾",
+        "所有情节"
+      ],
+      "answer": 0,
+      "explain": "详略服从中心。"
+    },
+    {
+      "id": "q5-cn-23",
+      "topic": "cn-23",
+      "level": 3,
+      "stem": "细节描写要求",
+      "options": [
+        "只写心理活动",
+        "具体、有画面感",
+        "概括、抽象"
+      ],
+      "answer": 1,
+      "explain": "细节让读者看见。"
+    },
+    {
+      "id": "q5-cn-24",
+      "topic": "cn-24",
+      "level": 3,
+      "stem": "「首尾呼应」的作用是",
+      "options": [
+        "增加字数",
+        "制造悬念",
+        "结构完整、强化主旨"
+      ],
+      "answer": 2,
+      "explain": "首尾相扣。"
+    },
+    {
+      "id": "q5-e3-03",
+      "topic": "e3-03",
+      "level": 3,
+      "stem": "bus 的复数形式是",
+      "options": [
+        "buses",
+        "buss",
+        "busies"
+      ],
+      "answer": 0,
+      "explain": "以 s 结尾加 -es。"
+    },
+    {
+      "id": "q5-e3-04",
+      "topic": "e3-04",
+      "level": 3,
+      "stem": "___ hour",
+      "options": [
+        "/",
+        "an",
+        "a"
+      ],
+      "answer": 1,
+      "explain": "hour 首音是元音音素。"
+    },
+    {
+      "id": "q5-e5-02",
+      "topic": "e5-02",
+      "level": 3,
+      "stem": "watch 的第三人称单数形式是",
+      "options": [
+        "watchs",
+        "watching",
+        "watches"
+      ],
+      "answer": 2,
+      "explain": "以 ch 结尾加 -es。"
+    },
+    {
+      "id": "q5-e5-04",
+      "topic": "e5-04",
+      "level": 3,
+      "stem": "run 的现在分词是",
+      "options": [
+        "running",
+        "runing",
+        "runs"
+      ],
+      "answer": 0,
+      "explain": "双写末尾辅音字母。"
+    },
+    {
+      "id": "q5-e5-05",
+      "topic": "e5-05",
+      "level": 3,
+      "stem": "There ___ some milk in the glass.",
+      "options": [
+        "be",
+        "is",
+        "are"
+      ],
+      "answer": 1,
+      "explain": "milk 不可数用 is。"
+    },
+    {
+      "id": "q5-e6-01",
+      "topic": "e6-01",
+      "level": 3,
+      "stem": "study 的过去式是",
+      "options": [
+        "studyed",
+        "studies",
+        "studied"
+      ],
+      "answer": 2,
+      "explain": "辅音+y 变 i 加 -ed。"
+    },
+    {
+      "id": "q5-e6-03",
+      "topic": "e6-03",
+      "level": 3,
+      "stem": "big 的比较级是",
+      "options": [
+        "bigger",
+        "biger",
+        "more big"
+      ],
+      "answer": 0,
+      "explain": "双写 g 加 -er。"
+    },
+    {
+      "id": "q5-ej-13",
+      "topic": "ej-13",
+      "level": 3,
+      "stem": "good 的最高级是",
+      "options": [
+        "most good",
+        "best",
+        "goodest"
+      ],
+      "answer": 1,
+      "explain": "不规则变化。"
+    },
+    {
+      "id": "q5-ej-23",
+      "topic": "ej-23",
+      "level": 3,
+      "stem": "He ___ coffee.",
+      "options": [
+        "don't like",
+        "not likes",
+        "doesn't like"
+      ],
+      "answer": 2,
+      "explain": "三单否定用 doesn't。"
+    },
+    {
+      "id": "q5-ej-25",
+      "topic": "ej-25",
+      "level": 3,
+      "stem": "They ___ at home yesterday.",
+      "options": [
+        "were",
+        "was",
+        "are"
+      ],
+      "answer": 0,
+      "explain": "复数用 were。"
+    },
+    {
+      "id": "q5-ej-26",
+      "topic": "ej-26",
+      "level": 3,
+      "stem": "will 后面接",
+      "options": [
+        "doing",
+        "动词原形",
+        "to do"
+      ],
+      "answer": 1,
+      "explain": "情态助动词后接原形。"
+    },
+    {
+      "id": "q5-ej-27",
+      "topic": "ej-27",
+      "level": 3,
+      "stem": "since 常与哪种时态连用",
+      "options": [
+        "一般过去时",
+        "一般将来时",
+        "现在完成时"
+      ],
+      "answer": 2,
+      "explain": "since + 时间点。"
+    },
+    {
+      "id": "q5-ej-30",
+      "topic": "ej-30",
+      "level": 3,
+      "stem": "The letter ___ yesterday.",
+      "options": [
+        "was sent",
+        "sent",
+        "is sent"
+      ],
+      "answer": 0,
+      "explain": "过去被动。"
+    },
+    {
+      "id": "q5-ej-33",
+      "topic": "ej-33",
+      "level": 3,
+      "stem": "Reading 作主语时，谓语动词用",
+      "options": [
+        "任意形式",
+        "单数",
+        "复数"
+      ],
+      "answer": 1,
+      "explain": "动名词作主语视为单数。"
+    },
+    {
+      "id": "q5-ej-34",
+      "topic": "ej-34",
+      "level": 3,
+      "stem": "She hopes ___ the exam.",
+      "options": [
+        "passing",
+        "pass",
+        "to pass"
+      ],
+      "answer": 2,
+      "explain": "hope to do。"
+    },
+    {
+      "id": "q5-ej-37",
+      "topic": "ej-37",
+      "level": 3,
+      "stem": "mind 后面接",
+      "options": [
+        "doing",
+        "to do",
+        "动词原形"
+      ],
+      "answer": 0,
+      "explain": "mind doing sth。"
+    },
+    {
+      "id": "q5-ej-40",
+      "topic": "ej-40",
+      "level": 3,
+      "stem": "___ he a teacher?",
+      "options": [
+        "Do",
+        "Is",
+        "Does"
+      ],
+      "answer": 1,
+      "explain": "be 动词提前。"
+    },
+    {
+      "id": "q5-ej-41",
+      "topic": "ej-41",
+      "level": 3,
+      "stem": "___ did you go last Sunday?",
+      "options": [
+        "What",
+        "How",
+        "Where"
+      ],
+      "answer": 2,
+      "explain": "问地点。"
+    },
+    {
+      "id": "q5-ej-45",
+      "topic": "ej-45",
+      "level": 3,
+      "stem": "Could you tell me ___?",
+      "options": [
+        "where he lives",
+        "where does he live",
+        "where he live"
+      ],
+      "answer": 0,
+      "explain": "宾语从句用陈述语序。"
+    },
+    {
+      "id": "q5-ej-46",
+      "topic": "ej-46",
+      "level": 3,
+      "stem": "The girl ___ hair is long is my sister.",
+      "options": [
+        "which",
+        "whose",
+        "who"
+      ],
+      "answer": 1,
+      "explain": "表所属用 whose。"
+    },
+    {
+      "id": "q5-m7a-2-01",
+      "topic": "m7a-2-01",
+      "level": 3,
+      "stem": "(-4)+4 =",
+      "options": [
+        "-8",
+        "8",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "互为相反数相加得 0。"
+    },
+    {
+      "id": "q5-m7a-5-04",
+      "topic": "m7a-5-04",
+      "level": 3,
+      "stem": "解 3x+1=10，x =",
+      "options": [
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "3x=9。"
+    },
+    {
+      "id": "q5-m8a-2-02",
+      "topic": "m8a-2-02",
+      "level": 3,
+      "stem": "AB=AC、AD=AE、∠A 为公共角，判定 △ABE≌△ACD 的依据是",
+      "options": [
+        "ASA",
+        "SAS",
+        "SSS"
+      ],
+      "answer": 1,
+      "explain": "两边夹一角。"
+    },
+    {
+      "id": "q5-m8a-4-05",
+      "topic": "m8a-4-05",
+      "level": 3,
+      "stem": "(a+b)²-(a-b)² =",
+      "options": [
+        "2ab",
+        "4a²",
+        "4ab"
+      ],
+      "answer": 2,
+      "explain": "展开相减。"
+    },
+    {
+      "id": "q5-m9a-1-04",
+      "topic": "m9a-1-04",
+      "level": 3,
+      "stem": "x²-2x+2=0 的判别式 Δ 等于",
+      "options": [
+        "-4",
+        "0",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "4-8=-4，无实根。"
+    },
+    {
+      "id": "q5-m9b-3-01",
+      "topic": "m9b-3-01",
+      "level": 3,
+      "stem": "sin A 指的是",
+      "options": [
+        "对边比邻边",
+        "对边比斜边",
+        "邻边比斜边"
+      ],
+      "answer": 1,
+      "explain": "正弦定义。"
+    },
+    {
+      "id": "q5-sx-14-1",
+      "topic": "sx-14",
+      "level": 2,
+      "stem": "数列 1,4,9,16,… 的通项公式是",
+      "options": [
+        "aₙ=2n-1",
+        "aₙ=2ⁿ",
+        "aₙ=n²"
+      ],
+      "answer": 2,
+      "explain": "平方数数列。"
+    },
+    {
+      "id": "q5-sx-14-2",
+      "topic": "sx-14",
+      "level": 2,
+      "stem": "数列 2,4,6,8,… 的第 10 项是",
+      "options": [
+        "20",
+        "10",
+        "22"
+      ],
+      "answer": 0,
+      "explain": "aₙ=2n。"
+    },
+    {
+      "id": "q5-sx-16-1",
+      "topic": "sx-16",
+      "level": 2,
+      "stem": "等比数列 2,6,18,… 的公比是",
+      "options": [
+        "4",
+        "3",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "6÷2=3。"
+    },
+    {
+      "id": "q5-sx-16-2",
+      "topic": "sx-16",
+      "level": 2,
+      "stem": "首项 1、公比 2 的等比数列前 5 项和为",
+      "options": [
+        "32",
+        "16",
+        "31"
+      ],
+      "answer": 2,
+      "explain": "1+2+4+8+16=31。"
+    },
+    {
+      "id": "q5-sx-18-1",
+      "topic": "sx-18",
+      "level": 2,
+      "stem": "A 到 B 有 3 条路，B 到 C 有 4 条，从 A 经 B 到 C 共有",
+      "options": [
+        "12 种",
+        "7 种",
+        "4 种"
+      ],
+      "answer": 0,
+      "explain": "分步相乘。"
+    },
+    {
+      "id": "q5-sx-18-2",
+      "topic": "sx-18",
+      "level": 2,
+      "stem": "数学书 5 种、英语书 3 种，任选一本共有",
+      "options": [
+        "2 种",
+        "8 种",
+        "15 种"
+      ],
+      "answer": 1,
+      "explain": "分类相加。"
+    },
+    {
+      "id": "q5-sx-20-1",
+      "topic": "sx-20",
+      "level": 2,
+      "stem": "(1+x)³ 展开式中 x² 的系数是",
+      "options": [
+        "1",
+        "6",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "C(3,2)=3。"
+    },
+    {
+      "id": "q5-sx-20-2",
+      "topic": "sx-20",
+      "level": 2,
+      "stem": "n=4 时，二项式系数之和是",
+      "options": [
+        "16",
+        "8",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "2⁴=16。"
+    },
+    {
+      "id": "q5-sx-21-1",
+      "topic": "sx-21",
+      "level": 2,
+      "stem": "已知 P(A)=0.5、P(AB)=0.2，则 P(B|A) =",
+      "options": [
+        "0.7",
+        "0.4",
+        "0.1"
+      ],
+      "answer": 1,
+      "explain": "0.2÷0.5。"
+    },
+    {
+      "id": "q5-sx-21-2",
+      "topic": "sx-21",
+      "level": 2,
+      "stem": "全概率公式的思路是把事件",
+      "options": [
+        "取补集",
+        "开平方",
+        "按互斥情形分解后相加"
+      ],
+      "answer": 2,
+      "explain": "分类讨论再求和。"
+    },
+    {
+      "id": "q5-sx-24-1",
+      "topic": "sx-24",
+      "level": 2,
+      "stem": "回归直线一定经过",
+      "options": [
+        "样本中心点",
+        "坐标原点",
+        "最大值点"
+      ],
+      "answer": 0,
+      "explain": "过 (x̄,ȳ)。"
+    },
+    {
+      "id": "q5-sx-24-2",
+      "topic": "sx-24",
+      "level": 2,
+      "stem": "相关系数 r<0 表示",
+      "options": [
+        "无相关",
+        "负相关",
+        "正相关"
+      ],
+      "answer": 1,
+      "explain": "r 的符号表示方向。"
+    }
+  ]
+}
