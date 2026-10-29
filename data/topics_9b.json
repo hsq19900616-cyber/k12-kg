@@ -1,0 +1,19 @@
+{
+  "topics": [
+    {"id":"m9b-2-01","name":"比例线段与相似图形","stage":"初中","grade":9,"term":2,"chapter":"相似","core":true,"desc":"四条线段成比例指两两比值相等；形状相同、大小不一定相同的图形叫相似图形，对应边成比例。"},
+    {"id":"m9b-2-02","name":"相似三角形的判定","stage":"初中","grade":9,"term":2,"chapter":"相似","core":true,"desc":"两角对应相等、两边成比例且夹角相等、三边成比例，任一即可判定相似。"},
+    {"id":"m9b-2-03","name":"相似三角形的性质","stage":"初中","grade":9,"term":2,"chapter":"相似","core":true,"desc":"对应线段（高、中线、角平分线）之比等于相似比，周长比等于相似比，面积比等于相似比的平方。"},
+    {"id":"m9b-2-04","name":"位似","stage":"初中","grade":9,"term":2,"chapter":"相似","core":false,"desc":"对应点连线交于一点的相似图形叫位似图形，位似比等于相似比。"},
+
+    {"id":"m9b-3-01","name":"锐角三角函数","stage":"初中","grade":9,"term":2,"chapter":"锐角三角函数","core":true,"desc":"在直角三角形中，sinA=对边/斜边，cosA=邻边/斜边，tanA=对边/邻边。"},
+    {"id":"m9b-3-02","name":"特殊角的三角函数值","stage":"初中","grade":9,"term":2,"chapter":"锐角三角函数","core":true,"desc":"30°、45°、60° 的正弦余弦正切值需熟记，如 sin30°=1/2，sin45°=√2/2，sin60°=√3/2。"},
+    {"id":"m9b-3-03","name":"解直角三角形及其应用","stage":"初中","grade":9,"term":2,"chapter":"锐角三角函数","core":true,"desc":"已知一边一角或两边求其余元素；仰角俯角、坡度坡角问题化为直角三角形。"},
+
+    {"id":"m9b-4-01","name":"投影","stage":"初中","grade":9,"term":2,"chapter":"投影与视图","core":false,"desc":"光线照射物体在平面上留下影子叫投影，分平行投影与中心投影。"},
+    {"id":"m9b-4-02","name":"三视图","stage":"初中","grade":9,"term":2,"chapter":"投影与视图","core":true,"desc":"主视图、左视图、俯视图；长对正、高平齐、宽相等。"},
+
+    {"id":"m9a-5-01","name":"随机事件与概率","stage":"初中","grade":9,"term":2,"chapter":"概率初步","core":true,"desc":"必然事件概率为 1，不可能事件为 0，随机事件概率在 0 与 1 之间。"},
+    {"id":"m9a-5-02","name":"用列举法求概率","stage":"初中","grade":9,"term":2,"chapter":"概率初步","core":true,"desc":"等可能情形下 P=所求结果数÷总结果数；两步试验常用列表或树状图列举。"},
+    {"id":"m9a-5-03","name":"用频率估计概率","stage":"初中","grade":9,"term":2,"chapter":"概率初步","core":false,"desc":"大量重复试验中频率稳定于概率，可用频率估计概率。"}
+  ]
+}
