@@ -1,0 +1,524 @@
+{
+  "questions": [
+    {
+      "id": "qd-m7a-1-03-1",
+      "topic": "m7a-1-03",
+      "level": 2,
+      "stem": "数轴上 -1 与 3 两点间的距离是",
+      "options": [
+        "3",
+        "4",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "3-(-1)=4。"
+    },
+    {
+      "id": "qd-m7a-1-03-2",
+      "topic": "m7a-1-03",
+      "level": 2,
+      "stem": "数轴的三要素是",
+      "options": [
+        "原点、箭头、刻度",
+        "正数、负数、零",
+        "原点、正方向、单位长度"
+      ],
+      "answer": 2,
+      "explain": "缺一不可。"
+    },
+    {
+      "id": "qd-m7a-2-02-1",
+      "topic": "m7a-2-02",
+      "level": 2,
+      "stem": "(-3)+7+(-7) 用结合律先算",
+      "options": [
+        "-3",
+        "-17",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "7 与 -7 相加得 0。"
+    },
+    {
+      "id": "qd-m7a-2-02-2",
+      "topic": "m7a-2-02",
+      "level": 1,
+      "stem": "加法交换律写成",
+      "options": [
+        "a+b=ab",
+        "a+b=b+a",
+        "a+b=a-b"
+      ],
+      "answer": 1,
+      "explain": "交换加数位置和不变。"
+    },
+    {
+      "id": "qd-m7a-5-05-1",
+      "topic": "m7a-5-05",
+      "level": 2,
+      "stem": "解 2(x-1)=4，x =",
+      "options": [
+        "2",
+        "1",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "x-1=2。"
+    },
+    {
+      "id": "qd-m7a-5-05-2",
+      "topic": "m7a-5-05",
+      "level": 2,
+      "stem": "解 -3(x+2)=9，x =",
+      "options": [
+        "-5",
+        "5",
+        "-1"
+      ],
+      "answer": 0,
+      "explain": "x+2=-3。"
+    },
+    {
+      "id": "qd-m7a-6-08-1",
+      "topic": "m7a-6-08",
+      "level": 1,
+      "stem": "∠AOB=90°，OC 平分∠AOB，则∠AOC =",
+      "options": [
+        "30°",
+        "45°",
+        "90°"
+      ],
+      "answer": 1,
+      "explain": "平分即一半。"
+    },
+    {
+      "id": "qd-m7a-6-08-2",
+      "topic": "m7a-6-08",
+      "level": 1,
+      "stem": "角平分线是一条",
+      "options": [
+        "直线",
+        "线段",
+        "射线"
+      ],
+      "answer": 2,
+      "explain": "从顶点出发。"
+    },
+    {
+      "id": "qd-m7b-1-01-1",
+      "topic": "m7b-1-01",
+      "level": 2,
+      "stem": "两条直线相交形成的四个角中，对顶角有",
+      "options": [
+        "2 对",
+        "1 对",
+        "4 对"
+      ],
+      "answer": 0,
+      "explain": "两组对顶角。"
+    },
+    {
+      "id": "qd-m7b-1-01-2",
+      "topic": "m7b-1-01",
+      "level": 1,
+      "stem": "互为邻补角的两个角之和为",
+      "options": [
+        "360°",
+        "180°",
+        "90°"
+      ],
+      "answer": 1,
+      "explain": "邻补角互补。"
+    },
+    {
+      "id": "qd-m7b-5-04-1",
+      "topic": "m7b-5-04",
+      "level": 2,
+      "stem": "不等式组 x≥1 且 x≤3 的整数解有",
+      "options": [
+        "2 个",
+        "4 个",
+        "3 个"
+      ],
+      "answer": 2,
+      "explain": "1、2、3。"
+    },
+    {
+      "id": "qd-m7b-5-04-2",
+      "topic": "m7b-5-04",
+      "level": 2,
+      "stem": "不等式组 x<2 且 x>5 的解集是",
+      "options": [
+        "无解",
+        "x<2",
+        "x>5"
+      ],
+      "answer": 0,
+      "explain": "无公共部分。"
+    },
+    {
+      "id": "qd-m8a-1-03-1",
+      "topic": "m8a-1-03",
+      "level": 2,
+      "stem": "三角形的一个外角等于",
+      "options": [
+        "180°",
+        "与它不相邻的两个内角之和",
+        "两个内角之和"
+      ],
+      "answer": 1,
+      "explain": "外角定理。"
+    },
+    {
+      "id": "qd-m8a-1-03-2",
+      "topic": "m8a-1-03",
+      "level": 1,
+      "stem": "直角三角形的两个锐角",
+      "options": [
+        "互补",
+        "相等",
+        "互余"
+      ],
+      "answer": 2,
+      "explain": "和为 90°。"
+    },
+    {
+      "id": "qd-m8a-3-02-1",
+      "topic": "m8a-3-02",
+      "level": 2,
+      "stem": "线段垂直平分线上的点到线段两端点的距离",
+      "options": [
+        "相等",
+        "互补",
+        "成比例"
+      ],
+      "answer": 0,
+      "explain": "垂直平分线性质。"
+    },
+    {
+      "id": "qd-m8a-3-02-2",
+      "topic": "m8a-3-02",
+      "level": 2,
+      "stem": "三角形三边垂直平分线的交点是",
+      "options": [
+        "重心",
+        "外心",
+        "内心"
+      ],
+      "answer": 1,
+      "explain": "外接圆圆心。"
+    },
+    {
+      "id": "qd-m8b-2-02-1",
+      "topic": "m8b-2-02",
+      "level": 2,
+      "stem": "三边为 8、15、17 的三角形",
+      "options": [
+        "不是直角三角形",
+        "无法判断",
+        "是直角三角形"
+      ],
+      "answer": 2,
+      "explain": "64+225=289。"
+    },
+    {
+      "id": "qd-m8b-2-02-2",
+      "topic": "m8b-2-02",
+      "level": 2,
+      "stem": "勾股定理的逆定理用于",
+      "options": [
+        "由三边判断是否为直角三角形",
+        "求面积",
+        "求周长"
+      ],
+      "answer": 0,
+      "explain": "由边推角。"
+    },
+    {
+      "id": "qd-m9a-4-01-1",
+      "topic": "m9a-4-01",
+      "level": 3,
+      "stem": "圆 O 半径 5，弦 AB=8，则弦心距为",
+      "options": [
+        "6",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "√(25-16)=3。"
+    },
+    {
+      "id": "qd-m9a-4-01-2",
+      "topic": "m9a-4-01",
+      "level": 2,
+      "stem": "垂径定理中的直径必须",
+      "options": [
+        "平行于弦",
+        "等于弦",
+        "垂直于弦"
+      ],
+      "answer": 2,
+      "explain": "垂直于弦的直径平分弦。"
+    },
+    {
+      "id": "qd-e3-03-1",
+      "topic": "e3-03",
+      "level": 2,
+      "stem": "watch 的复数形式是",
+      "options": [
+        "watches",
+        "watchs",
+        "watchies"
+      ],
+      "answer": 0,
+      "explain": "以 ch 结尾加 -es。"
+    },
+    {
+      "id": "qd-e3-03-2",
+      "topic": "e3-03",
+      "level": 2,
+      "stem": "baby 的复数形式是",
+      "options": [
+        "babyes",
+        "babies",
+        "babys"
+      ],
+      "answer": 1,
+      "explain": "辅音+y 变 i 加 -es。"
+    },
+    {
+      "id": "qd-e5-02-1",
+      "topic": "e5-02",
+      "level": 1,
+      "stem": "do 的第三人称单数形式是",
+      "options": [
+        "dos",
+        "doing",
+        "does"
+      ],
+      "answer": 2,
+      "explain": "以 o 结尾加 -es。"
+    },
+    {
+      "id": "qd-e5-02-2",
+      "topic": "e5-02",
+      "level": 1,
+      "stem": "have 的第三人称单数形式是",
+      "options": [
+        "has",
+        "haves",
+        "having"
+      ],
+      "answer": 0,
+      "explain": "不规则变化。"
+    },
+    {
+      "id": "qd-e5-04-1",
+      "topic": "e5-04",
+      "level": 2,
+      "stem": "swim 的现在分词是",
+      "options": [
+        "swims",
+        "swimming",
+        "swiming"
+      ],
+      "answer": 1,
+      "explain": "双写 m。"
+    },
+    {
+      "id": "qd-e5-04-2",
+      "topic": "e5-04",
+      "level": 2,
+      "stem": "write 的现在分词是",
+      "options": [
+        "writeing",
+        "writes",
+        "writing"
+      ],
+      "answer": 2,
+      "explain": "去 e 加 -ing。"
+    },
+    {
+      "id": "qd-e6-02-1",
+      "topic": "e6-02",
+      "level": 1,
+      "stem": "have 的过去式是",
+      "options": [
+        "had",
+        "haved",
+        "haves"
+      ],
+      "answer": 0,
+      "explain": "不规则变化。"
+    },
+    {
+      "id": "qd-e6-02-2",
+      "topic": "e6-02",
+      "level": 1,
+      "stem": "buy 的过去式是",
+      "options": [
+        "buys",
+        "bought",
+        "buyed"
+      ],
+      "answer": 1,
+      "explain": "不规则变化。"
+    },
+    {
+      "id": "qd-ej-13-1",
+      "topic": "ej-13",
+      "level": 2,
+      "stem": "bad 的比较级是",
+      "options": [
+        "badder",
+        "more bad",
+        "worse"
+      ],
+      "answer": 2,
+      "explain": "不规则变化。"
+    },
+    {
+      "id": "qd-ej-13-2",
+      "topic": "ej-13",
+      "level": 2,
+      "stem": "many 的比较级是",
+      "options": [
+        "more",
+        "manyer",
+        "most"
+      ],
+      "answer": 0,
+      "explain": "不规则变化。"
+    },
+    {
+      "id": "qd-ej-24-1",
+      "topic": "ej-24",
+      "level": 2,
+      "stem": "He ___ a letter now.（write）",
+      "options": [
+        "write",
+        "is writing",
+        "writes"
+      ],
+      "answer": 1,
+      "explain": "now 提示进行时。"
+    },
+    {
+      "id": "qd-ej-24-2",
+      "topic": "ej-24",
+      "level": 2,
+      "stem": "Look! They ___ on the playground.（run）",
+      "options": [
+        "run",
+        "runs",
+        "are running"
+      ],
+      "answer": 2,
+      "explain": "Look! 提示进行时。"
+    },
+    {
+      "id": "qd-ej-25-1",
+      "topic": "ej-25",
+      "level": 2,
+      "stem": "We ___ him yesterday.（see）",
+      "options": [
+        "saw",
+        "see",
+        "seen"
+      ],
+      "answer": 0,
+      "explain": "yesterday 用过去式。"
+    },
+    {
+      "id": "qd-ej-25-2",
+      "topic": "ej-25",
+      "level": 2,
+      "stem": "Did she ___ home?（go）",
+      "options": [
+        "goes",
+        "go",
+        "went"
+      ],
+      "answer": 1,
+      "explain": "did 后用原形。"
+    },
+    {
+      "id": "qd-ej-30-1",
+      "topic": "ej-30",
+      "level": 2,
+      "stem": "The room ___ every day.（clean）",
+      "options": [
+        "cleans",
+        "cleaned",
+        "is cleaned"
+      ],
+      "answer": 2,
+      "explain": "房间被打扫，用被动。"
+    },
+    {
+      "id": "qd-ej-30-2",
+      "topic": "ej-30",
+      "level": 2,
+      "stem": "English ___ in this school.（speak）",
+      "options": [
+        "is spoken",
+        "speaks",
+        "spoke"
+      ],
+      "answer": 0,
+      "explain": "语言被使用。"
+    },
+    {
+      "id": "qd-ej-41-1",
+      "topic": "ej-41",
+      "level": 2,
+      "stem": "___ is your birthday?",
+      "options": [
+        "Who",
+        "When",
+        "Where"
+      ],
+      "answer": 1,
+      "explain": "问时间用 when。"
+    },
+    {
+      "id": "qd-ej-41-2",
+      "topic": "ej-41",
+      "level": 2,
+      "stem": "___ do you like it?",
+      "options": [
+        "What",
+        "When",
+        "Why"
+      ],
+      "answer": 2,
+      "explain": "问原因用 why。"
+    },
+    {
+      "id": "qd-ej-45-1",
+      "topic": "ej-45",
+      "level": 3,
+      "stem": "I don't know if he ___ tomorrow.",
+      "options": [
+        "will come",
+        "comes",
+        "came"
+      ],
+      "answer": 0,
+      "explain": "此处 if 表「是否」，按将来处理。"
+    },
+    {
+      "id": "qd-ej-45-2",
+      "topic": "ej-45",
+      "level": 3,
+      "stem": "She asked me what I ___ doing.",
+      "options": [
+        "were",
+        "was",
+        "am"
+      ],
+      "answer": 1,
+      "explain": "主句过去，从句用过去时。"
+    }
+  ]
+}
