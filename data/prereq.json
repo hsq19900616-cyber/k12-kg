@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "version": "0.1",
+    "updated": "2026-10-28",
+    "direction": "from = 先修（前置）知识点，to = 后继知识点",
+    "types": {
+      "hard": "不掌握就学不下去",
+      "soft": "有帮助但非必需"
+    }
+  },
+  "edges": [
+    {
+      "from": "s-m-01",
+      "to": "s-m-02",
+      "type": "hard"
+    },
+    {
+      "from": "s-m-03",
+      "to": "s-m-04",
+      "type": "soft"
+    },
+    {
+      "from": "s-m-05",
+      "to": "m7a-3-01",
+      "type": "hard"
+    },
+    {
+      "from": "s-m-06",
+      "to": "m7a-1-01",
+      "type": "hard"
+    },
+    {
+      "from": "s-m-07",
+      "to": "m7a-1-03",
+      "type": "soft"
+    },
+    {
+      "from": "s-m-08",
+      "to": "m7a-6-01",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-01",
+      "to": "m7a-1-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-01",
+      "to": "m7a-1-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-03",
+      "to": "m7a-1-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-03",
+      "to": "m7a-1-05",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-04",
+      "to": "m7a-1-05",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-1-03",
+      "to": "m7a-1-06",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-05",
+      "to": "m7a-1-06",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-05",
+      "to": "m7a-2-01",
+      "type": "hard"
+    },
+    {
+      "from": "s-m-02",
+      "to": "m7a-2-01",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-2-01",
+      "to": "m7a-2-02",
+      "type": "hard"
+    },
+    {
+      "from": "s-m-04",
+      "to": "m7a-2-02",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-2-01",
+      "to": "m7a-2-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-04",
+      "to": "m7a-2-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-05",
+      "to": "m7a-2-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-04",
+      "to": "m7a-2-05",
+      "type": "hard"
+    },
+    {
+      "from": "s-m-04",
+      "to": "m7a-2-05",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-2-04",
+      "to": "m7a-2-06",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-04",
+      "to": "m7a-2-07",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-06",
+      "to": "m7a-2-07",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-04",
+      "to": "m7a-2-08",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-08",
+      "to": "m7a-2-09",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-09",
+      "to": "m7a-2-11",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-2-01",
+      "to": "m7a-2-10",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-03",
+      "to": "m7a-2-10",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-07",
+      "to": "m7a-2-10",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-08",
+      "to": "m7a-2-10",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-3-01",
+      "to": "m7a-3-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-3-02",
+      "to": "m7a-3-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-3-02",
+      "to": "m7a-3-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-3-04",
+      "to": "m7a-3-05",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-3-05",
+      "to": "m7a-4-01",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-4-01",
+      "to": "m7a-4-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-05",
+      "to": "m7a-4-02",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-2-05",
+      "to": "m7a-4-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-4-02",
+      "to": "m7a-4-03",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-4-02",
+      "to": "m7a-4-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-4-03",
+      "to": "m7a-4-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-3-02",
+      "to": "m7a-5-01",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-01",
+      "to": "m7a-5-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-02",
+      "to": "m7a-5-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-03",
+      "to": "m7a-5-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-4-02",
+      "to": "m7a-5-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-04",
+      "to": "m7a-5-05",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-4-03",
+      "to": "m7a-5-05",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-05",
+      "to": "m7a-5-06",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-01",
+      "to": "m7a-5-07",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-5-06",
+      "to": "m7a-5-07",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-06",
+      "to": "m7a-5-08",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-06",
+      "to": "m7a-5-09",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-06",
+      "to": "m7a-5-10",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-01",
+      "to": "m7a-6-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-01",
+      "to": "m7a-6-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-01",
+      "to": "m7a-6-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-04",
+      "to": "m7a-6-05",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-05",
+      "to": "m7a-6-06",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-05",
+      "to": "m7a-6-07",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-07",
+      "to": "m7a-6-08",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-07",
+      "to": "m7a-6-09",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-08",
+      "to": "m7a-6-09",
+      "type": "soft"
+    },
+    {
+      "from": "sp2-09",
+      "to": "m7b-6-01",
+      "type": "soft"
+    },
+    {
+      "from": "hm2-14",
+      "to": "sx-01",
+      "type": "hard"
+    }
+  ]
+}
