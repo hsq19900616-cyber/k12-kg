@@ -1,0 +1,619 @@
+{
+  "edges": [
+    {
+      "from": "m7b-3-03",
+      "to": "m7b-3-04",
+      "type": "soft"
+    },
+    {
+      "from": "m7b-6-01",
+      "to": "m7b-6-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-6-04",
+      "to": "m7b-6-05",
+      "type": "soft"
+    },
+    {
+      "from": "m8a-4-01",
+      "to": "m8a-5-05",
+      "type": "soft"
+    },
+    {
+      "from": "m8b-4-01",
+      "to": "m8b-4-06",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-4-04",
+      "to": "m8b-4-07",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-5-01",
+      "to": "m8b-5-04",
+      "type": "soft"
+    },
+    {
+      "from": "m7b-6-02",
+      "to": "m8b-5-05",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-4-04",
+      "to": "m9a-4-08",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-1-01",
+      "to": "m7b-1-02",
+      "type": "soft"
+    },
+    {
+      "from": "m8a-2-01",
+      "to": "m8a-3-01",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-2-08",
+      "to": "m7b-2-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-6-04",
+      "to": "m9a-5-01",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-6-07",
+      "to": "m7b-1-01",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-1-01",
+      "to": "m7b-1-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-1-03",
+      "to": "m7b-1-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-1-04",
+      "to": "m7b-1-05",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-1-04",
+      "to": "m7b-1-06",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-6-05",
+      "to": "m7b-1-07",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-2-08",
+      "to": "m7b-2-01",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-2-01",
+      "to": "m7b-2-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-2-02",
+      "to": "m7b-2-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-2-03",
+      "to": "m7b-2-04",
+      "type": "soft"
+    },
+    {
+      "from": "m7b-2-04",
+      "to": "m7b-2-05",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-03",
+      "to": "m7b-3-01",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-3-01",
+      "to": "m7b-3-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-3-02",
+      "to": "m7b-3-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-04",
+      "to": "m7b-4-01",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-4-01",
+      "to": "m7b-4-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-4-01",
+      "to": "m7b-4-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-4-02",
+      "to": "m7b-4-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-4-03",
+      "to": "m7b-4-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-1-06",
+      "to": "m7b-5-01",
+      "type": "soft"
+    },
+    {
+      "from": "m7b-5-01",
+      "to": "m7b-5-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-5-02",
+      "to": "m7b-5-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-5-03",
+      "to": "m7b-5-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-6-01",
+      "to": "m7b-6-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-6-02",
+      "to": "m7b-6-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-6-01",
+      "to": "m8a-1-01",
+      "type": "soft"
+    },
+    {
+      "from": "m8a-1-01",
+      "to": "m8a-1-02",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-1-02",
+      "to": "m8a-1-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-1-03",
+      "to": "m8a-1-04",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-1-02",
+      "to": "m8a-2-01",
+      "type": "soft"
+    },
+    {
+      "from": "m8a-2-01",
+      "to": "m8a-2-02",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-2-01",
+      "to": "m8a-2-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-2-03",
+      "to": "m8a-2-04",
+      "type": "soft"
+    },
+    {
+      "from": "m8a-2-01",
+      "to": "m8a-2-05",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-3-01",
+      "to": "m8a-3-02",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-3-01",
+      "to": "m8a-3-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-3-02",
+      "to": "m8a-3-04",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-3-04",
+      "to": "m8a-3-05",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-3-02",
+      "to": "m8a-3-06",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-2-08",
+      "to": "m8a-4-01",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-4-01",
+      "to": "m8a-4-02",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-4-04",
+      "to": "m8a-4-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-4-02",
+      "to": "m8a-4-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-4-03",
+      "to": "m8a-4-04",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-4-03",
+      "to": "m8a-4-05",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-4-04",
+      "to": "m8a-4-06",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-4-05",
+      "to": "m8a-4-06",
+      "type": "hard"
+    },
+    {
+      "from": "s-m-01",
+      "to": "m8a-5-01",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-5-01",
+      "to": "m8a-5-02",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-5-02",
+      "to": "m8a-5-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-5-06",
+      "to": "m8a-5-04",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-5-03",
+      "to": "m8a-5-04",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-2-01",
+      "to": "m8b-1-01",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-1-01",
+      "to": "m8b-1-02",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-1-02",
+      "to": "m8b-1-03",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-08",
+      "to": "m8b-2-01",
+      "type": "soft"
+    },
+    {
+      "from": "m8b-2-01",
+      "to": "m8b-2-02",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-2-01",
+      "to": "m8b-2-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-2-01",
+      "to": "m8b-3-01",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-3-01",
+      "to": "m8b-3-02",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-3-02",
+      "to": "m8b-3-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-3-01",
+      "to": "m8b-3-04",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-3-01",
+      "to": "m8b-3-05",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-3-04",
+      "to": "m8b-3-06",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-3-05",
+      "to": "m8b-3-06",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-3-02",
+      "to": "m8b-4-01",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-4-01",
+      "to": "m8b-4-02",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-4-02",
+      "to": "m8b-4-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-4-03",
+      "to": "m8b-4-04",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-4-03",
+      "to": "m8b-4-05",
+      "type": "hard"
+    },
+    {
+      "from": "m7a-2-01",
+      "to": "m8b-5-01",
+      "type": "soft"
+    },
+    {
+      "from": "m8b-5-01",
+      "to": "m8b-5-02",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-5-01",
+      "to": "m8b-5-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-4-03",
+      "to": "m9a-1-01",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-1-01",
+      "to": "m9a-1-02",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-1-02",
+      "to": "m9a-1-03",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-1-03",
+      "to": "m9a-1-04",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-1-04",
+      "to": "m9a-1-05",
+      "type": "soft"
+    },
+    {
+      "from": "m9a-1-04",
+      "to": "m9a-1-06",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-4-03",
+      "to": "m9a-2-01",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-2-01",
+      "to": "m9a-2-02",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-2-02",
+      "to": "m9a-2-03",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-1-03",
+      "to": "m9a-2-03",
+      "type": "soft"
+    },
+    {
+      "from": "m9a-2-03",
+      "to": "m9a-2-04",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-1-04",
+      "to": "m9a-2-05",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-2-04",
+      "to": "m9a-2-06",
+      "type": "hard"
+    },
+    {
+      "from": "m8a-2-01",
+      "to": "m9a-3-01",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-3-01",
+      "to": "m9a-3-02",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-3-02",
+      "to": "m9a-3-03",
+      "type": "soft"
+    },
+    {
+      "from": "m8b-2-01",
+      "to": "m9a-4-01",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-4-01",
+      "to": "m9a-4-02",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-4-02",
+      "to": "m9a-4-03",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-4-01",
+      "to": "m9a-4-04",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-4-04",
+      "to": "m9a-4-05",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-4-02",
+      "to": "m9a-4-06",
+      "type": "soft"
+    },
+    {
+      "from": "m9a-4-01",
+      "to": "m9a-4-07",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-5-01",
+      "to": "m9a-5-02",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-5-02",
+      "to": "m9a-5-03",
+      "type": "soft"
+    },
+    {
+      "from": "m7b-3-02",
+      "to": "m9b-1-01",
+      "type": "soft"
+    },
+    {
+      "from": "m9b-1-01",
+      "to": "m9b-1-02",
+      "type": "hard"
+    },
+    {
+      "from": "m9b-1-02",
+      "to": "m9b-1-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-3-03",
+      "to": "m9b-2-01",
+      "type": "soft"
+    },
+    {
+      "from": "m9b-2-01",
+      "to": "m9b-2-02",
+      "type": "hard"
+    },
+    {
+      "from": "m9b-2-02",
+      "to": "m9b-2-03",
+      "type": "hard"
+    },
+    {
+      "from": "m9b-2-03",
+      "to": "m9b-2-04",
+      "type": "hard"
+    },
+    {
+      "from": "m9b-2-02",
+      "to": "m9b-3-01",
+      "type": "hard"
+    },
+    {
+      "from": "m9b-3-01",
+      "to": "m9b-3-02",
+      "type": "hard"
+    },
+    {
+      "from": "m9b-3-02",
+      "to": "m9b-3-03",
+      "type": "hard"
+    },
+    {
+      "from": "m8b-3-02",
+      "to": "m9b-4-01",
+      "type": "soft"
+    },
+    {
+      "from": "m7a-6-02",
+      "to": "m9b-4-02",
+      "type": "hard"
+    }
+  ]
+}
