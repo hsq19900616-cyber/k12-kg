@@ -1,0 +1,212 @@
+{
+  "questions": [
+    {
+      "id": "qt-01-1",
+      "topic": "hz-01",
+      "level": 2,
+      "stem": "f(x)=x² 在 x=1 处的导数是",
+      "options": [
+        "1",
+        "0",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "f'(x)=2x，代入 1。"
+    },
+    {
+      "id": "qt-01-2",
+      "topic": "hz-01",
+      "level": 2,
+      "stem": "导数的几何意义是曲线在该点处",
+      "options": [
+        "切线的斜率",
+        "函数值",
+        "与 x 轴围成的面积"
+      ],
+      "answer": 0,
+      "explain": "切线斜率即导数。"
+    },
+    {
+      "id": "qt-02-1",
+      "topic": "hz-02",
+      "level": 2,
+      "stem": "(x³)' =",
+      "options": [
+        "3x",
+        "3x²",
+        "x²"
+      ],
+      "answer": 1,
+      "explain": "幂函数求导法则。"
+    },
+    {
+      "id": "qt-02-2",
+      "topic": "hz-02",
+      "level": 2,
+      "stem": "(sinx)' =",
+      "options": [
+        "-cosx",
+        "sinx",
+        "cosx"
+      ],
+      "answer": 2,
+      "explain": "正弦的导数是余弦。"
+    },
+    {
+      "id": "qt-03-1",
+      "topic": "hz-03",
+      "level": 2,
+      "stem": "若在某区间上 f'(x)>0，则 f(x) 在该区间",
+      "options": [
+        "单调递增",
+        "单调递减",
+        "为常数"
+      ],
+      "answer": 0,
+      "explain": "导数为正即递增。"
+    },
+    {
+      "id": "qt-03-2",
+      "topic": "hz-03",
+      "level": 2,
+      "stem": "若 f'(x)<0 在区间上恒成立，则 f(x)",
+      "options": [
+        "不存在",
+        "单调递减",
+        "单调递增"
+      ],
+      "answer": 1,
+      "explain": "导数为负即递减。"
+    },
+    {
+      "id": "qt-04-1",
+      "topic": "hz-04",
+      "level": 2,
+      "stem": "极值点处导数为 0 是取得极值的",
+      "options": [
+        "充分条件",
+        "充要条件",
+        "必要条件"
+      ],
+      "answer": 2,
+      "explain": "还需导数变号。"
+    },
+    {
+      "id": "qt-04-2",
+      "topic": "hz-04",
+      "level": 2,
+      "stem": "求闭区间上最值，需要比较",
+      "options": [
+        "端点值与极值",
+        "只比极值",
+        "只比端点"
+      ],
+      "answer": 0,
+      "explain": "端点也可能取到最值。"
+    },
+    {
+      "id": "qt-05-1",
+      "topic": "hz-05",
+      "level": 2,
+      "stem": "aₙ₊₁=aₙ+2 且 a₁=1，则 a₅ =",
+      "options": [
+        "11",
+        "9",
+        "7"
+      ],
+      "answer": 1,
+      "explain": "1,3,5,7,9。"
+    },
+    {
+      "id": "qt-05-2",
+      "topic": "hz-05",
+      "level": 2,
+      "stem": "1+2+…+n =",
+      "options": [
+        "n²",
+        "n(n-1)/2",
+        "n(n+1)/2"
+      ],
+      "answer": 2,
+      "explain": "等差数列求和。"
+    },
+    {
+      "id": "qt-06-1",
+      "topic": "hz-06",
+      "level": 2,
+      "stem": "用空间向量求二面角，需要求",
+      "options": [
+        "两个平面的法向量",
+        "一条直线",
+        "圆心"
+      ],
+      "answer": 0,
+      "explain": "法向量夹角对应二面角。"
+    },
+    {
+      "id": "qt-06-2",
+      "topic": "hz-06",
+      "level": 2,
+      "stem": "求点到平面的距离，用向量在法向量上的",
+      "options": [
+        "夹角",
+        "投影长度",
+        "模长"
+      ],
+      "answer": 1,
+      "explain": "投影公式。"
+    },
+    {
+      "id": "qt-07-1",
+      "topic": "hz-07",
+      "level": 3,
+      "stem": "证明直线过定点，常用方法",
+      "options": [
+        "求导",
+        "配方",
+        "把参数分离，令各项系数为 0"
+      ],
+      "answer": 2,
+      "explain": "含参直线整理成关于参数的恒等式。"
+    },
+    {
+      "id": "qt-07-2",
+      "topic": "hz-07",
+      "level": 3,
+      "stem": "弦长公式中含有",
+      "options": [
+        "√(1+k²)·|x₁-x₂|",
+        "|x₁+x₂|",
+        "k·|x₁-x₂|"
+      ],
+      "answer": 0,
+      "explain": "斜率与横坐标差。"
+    },
+    {
+      "id": "qt-08-1",
+      "topic": "hz-08",
+      "level": 2,
+      "stem": "求离散型随机变量的期望用",
+      "options": [
+        "E(X)=max xᵢ",
+        "E(X)=Σxᵢpᵢ",
+        "E(X)=Σpᵢ"
+      ],
+      "answer": 1,
+      "explain": "加权平均。"
+    },
+    {
+      "id": "qt-08-2",
+      "topic": "hz-08",
+      "level": 2,
+      "stem": "D(aX+b) =",
+      "options": [
+        "aD(X)+b",
+        "D(X)+b",
+        "a²D(X)"
+      ],
+      "answer": 2,
+      "explain": "方差对平移不敏感。"
+    }
+  ]
+}
