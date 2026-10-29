@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {"id":"m9a-1-01","name":"一元二次方程的概念与一般形式","stage":"初中","grade":9,"term":1,"chapter":"一元二次方程","core":true,"desc":"只含一个未知数、最高次数为 2 的整式方程；一般形式 ax²+bx+c=0（a≠0）。"},
+    {"id":"m9a-1-02","name":"直接开平方法与因式分解法","stage":"初中","grade":9,"term":1,"chapter":"一元二次方程","core":true,"desc":"形如 (x+m)²=n（n≥0）直接开平方；一边能分解为两个一次因式积且另一边为 0 时，令各因式为 0。"},
+    {"id":"m9a-1-03","name":"配方法","stage":"初中","grade":9,"term":1,"chapter":"一元二次方程","core":true,"desc":"把方程化为 (x+m)²=n 的形式：二次项系数化 1，加上一次项系数一半的平方。"},
+    {"id":"m9a-1-04","name":"公式法与根的判别式","stage":"初中","grade":9,"term":1,"chapter":"一元二次方程","core":true,"desc":"x=[-b±√(b²-4ac)]/(2a)；Δ=b²-4ac>0 两不等实根，=0 两等根，<0 无实根。"},
+    {"id":"m9a-1-05","name":"根与系数的关系","stage":"初中","grade":9,"term":1,"chapter":"一元二次方程","core":false,"desc":"x₁+x₂=-b/a，x₁x₂=c/a；使用前须保证 Δ≥0。"},
+    {"id":"m9a-1-06","name":"一元二次方程的应用","stage":"初中","grade":9,"term":1,"chapter":"一元二次方程","core":true,"desc":"增长率、面积、销售利润等问题的等量关系列方程，解后舍去不合题意的根。"},
+
+    {"id":"m9a-2-01","name":"二次函数的概念","stage":"初中","grade":9,"term":1,"chapter":"二次函数","core":true,"desc":"形如 y=ax²+bx+c（a≠0）的函数，自变量最高次数为 2。"},
+    {"id":"m9a-2-02","name":"y=ax² 的图象与性质","stage":"初中","grade":9,"term":1,"chapter":"二次函数","core":true,"desc":"图象是抛物线，顶点在原点，对称轴是 y 轴；a>0 开口向上，a<0 开口向下，|a| 越大开口越窄。"},
+    {"id":"m9a-2-03","name":"顶点式与图象平移","stage":"初中","grade":9,"term":1,"chapter":"二次函数","core":true,"desc":"y=a(x-h)²+k 的顶点是 (h,k)；由 y=ax² 左右 h、上下 k 平移得到。"},
+    {"id":"m9a-2-04","name":"一般式的图象与性质","stage":"初中","grade":9,"term":1,"chapter":"二次函数","core":true,"desc":"对称轴 x=-b/(2a)，顶点纵坐标由配方求得；a 定开口，c 是与 y 轴交点纵坐标。"},
+    {"id":"m9a-2-05","name":"二次函数与一元二次方程","stage":"初中","grade":9,"term":1,"chapter":"二次函数","core":true,"desc":"抛物线与 x 轴交点个数由 Δ 决定：两个、一个、没有。"},
+    {"id":"m9a-2-06","name":"二次函数的最值与应用","stage":"初中","grade":9,"term":1,"chapter":"二次函数","core":true,"desc":"a>0 时顶点处取最小值，a<0 取最大值；实际问题要注意自变量取值范围，端点也可能取到最值。"},
+
+    {"id":"m9b-1-01","name":"反比例函数的概念","stage":"初中","grade":9,"term":1,"chapter":"反比例函数","core":true,"desc":"形如 y=k/x（k≠0）的函数，自变量 x 不能为 0。按新版教材归入九上第二十七章。"},
+    {"id":"m9b-1-02","name":"反比例函数的图象与性质","stage":"初中","grade":9,"term":1,"chapter":"反比例函数","core":true,"desc":"图象是双曲线；k>0 时两支在第一、三象限，每个象限内 y 随 x 增大而减小。"},
+    {"id":"m9b-1-03","name":"实际问题与反比例函数","stage":"初中","grade":9,"term":1,"chapter":"反比例函数","core":false,"desc":"面积、速度与时间、压强等成反比关系的问题用 y=k/x 建模。"},
+
+    {"id":"m9a-3-01","name":"旋转的性质","stage":"初中","grade":9,"term":1,"chapter":"旋转","core":true,"desc":"旋转前后图形全等，对应点到旋转中心距离相等，对应点与中心连线的夹角等于旋转角。"},
+    {"id":"m9a-3-02","name":"中心对称与中心对称图形","stage":"初中","grade":9,"term":1,"chapter":"旋转","core":true,"desc":"绕某点旋转 180° 后重合的两个图形关于该点中心对称；对称点连线被对称中心平分。"},
+    {"id":"m9a-3-03","name":"关于原点对称的点的坐标","stage":"初中","grade":9,"term":1,"chapter":"旋转","core":false,"desc":"点 (x,y) 关于原点对称的点是 (-x,-y)。"},
+
+    {"id":"m9a-4-01","name":"圆的概念与垂径定理","stage":"初中","grade":9,"term":1,"chapter":"圆","core":true,"desc":"到定点距离等于定长的点组成圆；垂直于弦的直径平分弦，并且平分弦所对的两条弧。"},
+    {"id":"m9a-4-02","name":"圆心角、弧、弦的关系","stage":"初中","grade":9,"term":1,"chapter":"圆","core":true,"desc":"同圆或等圆中，相等的圆心角所对的弧相等、弦相等；反之也成立。"},
+    {"id":"m9a-4-03","name":"圆周角定理","stage":"初中","grade":9,"term":1,"chapter":"圆","core":true,"desc":"同弧所对的圆周角等于圆心角的一半；直径所对的圆周角是直角。"},
+    {"id":"m9a-4-04","name":"点与圆、直线与圆的位置关系","stage":"初中","grade":9,"term":1,"chapter":"直线与圆的位置关系","core":true,"desc":"用 d 与 r 比较判定：d<r 相交（点在圆内），d=r 相切，d>r 相离。"},
+    {"id":"m9a-4-05","name":"切线的判定与性质","stage":"初中","grade":9,"term":1,"chapter":"直线与圆的位置关系","core":true,"desc":"过半径外端且垂直于半径的直线是切线；切线垂直于过切点的半径。"},
+    {"id":"m9a-4-06","name":"正多边形与圆","stage":"初中","grade":9,"term":1,"chapter":"直线与圆的位置关系","core":false,"desc":"把圆 n 等分可作正 n 边形；中心角等于 360°/n。"},
+    {"id":"m9a-4-07","name":"弧长与扇形面积","stage":"初中","grade":9,"term":1,"chapter":"圆","core":true,"desc":"弧长 l=nπR/180，扇形面积 S=nπR²/360=½lR。"},
+    {"id":"m9a-4-08","name":"三角形的内切圆","stage":"初中","grade":9,"term":1,"chapter":"直线与圆的位置关系","core":false,"desc":"与三角形三边都相切的圆叫内切圆，圆心是三条角平分线的交点（内心），到三边距离相等。"}
+  ]
+}
