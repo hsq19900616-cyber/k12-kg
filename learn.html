@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>知识点讲解</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2563eb">
+</head>
+<body>
+<header>
+  <a class="brand" href="index.html">中小学知识图谱</a>
+  <nav><a href="diagnose.html">诊断</a><a href="explore.html">图谱</a><a href="review.html">复习</a><a href="lab.html">3D 实验</a><a href="wrong.html">错题本</a></nav>
+</header>
+<main>
+  <h1>知识点讲解</h1>
+  <p class="sub">先看概念和例题，再去诊断验证。三类内容：概念一句话、先修自查、例题带解析。</p>
+  <div id="learn">加载中…</div>
+</main>
+<script src="app.js"></script>
+<script>
+loadAll().then(renderLearn).catch(e => {
+  document.getElementById('learn').textContent = '数据加载失败：' + e.message;
+});
+</script>
+</body>
+</html>
