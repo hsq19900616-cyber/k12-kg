@@ -1,0 +1,316 @@
+{
+  "questions": [
+    {
+      "id": "ql-01-1",
+      "topic": "el-01",
+      "level": 1,
+      "stem": "做「听句子选图」题，第一步应",
+      "options": [
+        "先背单词",
+        "直接写答案",
+        "先看图片预测内容"
+      ],
+      "answer": 2,
+      "explain": "带着预期听更准。"
+    },
+    {
+      "id": "ql-01-2",
+      "topic": "el-01",
+      "level": 1,
+      "stem": "看图时重点关注",
+      "options": [
+        "人物动作与场景",
+        "图片颜色",
+        "图片大小"
+      ],
+      "answer": 0,
+      "explain": "动作场景是考点。"
+    },
+    {
+      "id": "ql-02-1",
+      "topic": "el-02",
+      "level": 2,
+      "stem": "听对话选答案，常考",
+      "options": [
+        "语法术语",
+        "时间、地点、人物关系",
+        "单词拼写规则"
+      ],
+      "answer": 1,
+      "explain": "以信息为主。"
+    },
+    {
+      "id": "ql-02-2",
+      "topic": "el-02",
+      "level": 2,
+      "stem": "某句没听清时，应该",
+      "options": [
+        "放弃整段",
+        "逐词翻译",
+        "根据题干抓后面的关键词"
+      ],
+      "answer": 2,
+      "explain": "抓关键信息。"
+    },
+    {
+      "id": "ql-03-1",
+      "topic": "el-03",
+      "level": 2,
+      "stem": "听短文填空要注意",
+      "options": [
+        "单词拼写与大小写",
+        "只写中文",
+        "写长句"
+      ],
+      "answer": 0,
+      "explain": "填词题对拼写要求高。"
+    },
+    {
+      "id": "ql-03-2",
+      "topic": "el-03",
+      "level": 2,
+      "stem": "短文填空前最好",
+      "options": [
+        "只看选项",
+        "预读空格前后的词，判断词性",
+        "先写答案"
+      ],
+      "answer": 1,
+      "explain": "预测降低难度。"
+    },
+    {
+      "id": "ql-04-1",
+      "topic": "el-04",
+      "level": 2,
+      "stem": "$4.50 读作",
+      "options": [
+        "four point fifty dollars",
+        "fourty-five dollars",
+        "four dollars fifty"
+      ],
+      "answer": 2,
+      "explain": "价格读法。"
+    },
+    {
+      "id": "ql-04-2",
+      "topic": "el-04",
+      "level": 2,
+      "stem": "区分 15 与 50 主要靠",
+      "options": [
+        "-teen 与 -ty 的重音和元音",
+        "首字母",
+        "拼写长度"
+      ],
+      "answer": 0,
+      "explain": "fifTEEN / FIFty。"
+    },
+    {
+      "id": "ql-05-1",
+      "topic": "el-05",
+      "level": 1,
+      "stem": "Wednesday 是",
+      "options": [
+        "星期四",
+        "星期三",
+        "星期二"
+      ],
+      "answer": 1,
+      "explain": "周一 Monday 起算。"
+    },
+    {
+      "id": "ql-05-2",
+      "topic": "el-05",
+      "level": 1,
+      "stem": "the day after tomorrow 指",
+      "options": [
+        "昨天",
+        "明天",
+        "后天"
+      ],
+      "answer": 2,
+      "explain": "after tomorrow 即后天。"
+    },
+    {
+      "id": "ql-06-1",
+      "topic": "el-06",
+      "level": 2,
+      "stem": "连读常出现在",
+      "options": [
+        "前词以辅音结尾、后词以元音开头时",
+        "两个元音之间",
+        "句末"
+      ],
+      "answer": 0,
+      "explain": "辅元相连。"
+    },
+    {
+      "id": "ql-06-2",
+      "topic": "el-06",
+      "level": 2,
+      "stem": "an apple 常连读为",
+      "options": [
+        "/eɪn eɪpl/",
+        "/ənæpl/",
+        "/æn æpl/"
+      ],
+      "answer": 1,
+      "explain": "n 与 æ 连读。"
+    },
+    {
+      "id": "ql-07-1",
+      "topic": "el-07",
+      "level": 1,
+      "stem": "一般疑问句通常用",
+      "options": [
+        "降调",
+        "平调",
+        "升调"
+      ],
+      "answer": 2,
+      "explain": "Yes/No 问句升调。"
+    },
+    {
+      "id": "ql-07-2",
+      "topic": "el-07",
+      "level": 1,
+      "stem": "特殊疑问句通常用",
+      "options": [
+        "降调",
+        "升调",
+        "平调"
+      ],
+      "answer": 0,
+      "explain": "wh- 问句降调。"
+    },
+    {
+      "id": "ql-08-1",
+      "topic": "el-08",
+      "level": 1,
+      "stem": "自我介绍通常先",
+      "options": [
+        "先说再见",
+        "问候并说出姓名",
+        "直接讲爱好"
+      ],
+      "answer": 1,
+      "explain": "先打招呼。"
+    },
+    {
+      "id": "ql-08-2",
+      "topic": "el-08",
+      "level": 1,
+      "stem": "自我介绍应包含",
+      "options": [
+        "只写成绩",
+        "只写住址",
+        "姓名、年龄、爱好"
+      ],
+      "answer": 2,
+      "explain": "基本信息最实用。"
+    },
+    {
+      "id": "ql-09-1",
+      "topic": "el-09",
+      "level": 2,
+      "stem": "看图说话应先",
+      "options": [
+        "描述图中人物与动作",
+        "评价图片好坏",
+        "猜作者是谁"
+      ],
+      "answer": 0,
+      "explain": "先描述事实。"
+    },
+    {
+      "id": "ql-09-2",
+      "topic": "el-09",
+      "level": 2,
+      "stem": "说话时可用什么衔接",
+      "options": [
+        "重复同一句",
+        "first、then、finally",
+        "只用一个词"
+      ],
+      "answer": 1,
+      "explain": "顺序词让表达连贯。"
+    },
+    {
+      "id": "ql-10-1",
+      "topic": "el-10",
+      "level": 2,
+      "stem": "表达观点常用的开头是",
+      "options": [
+        "By the way",
+        "Never mind",
+        "In my opinion"
+      ],
+      "answer": 2,
+      "explain": "By the way 表顺便说。"
+    },
+    {
+      "id": "ql-10-2",
+      "topic": "el-10",
+      "level": 2,
+      "stem": "话题表达的结构是",
+      "options": [
+        "观点＋理由＋例子",
+        "只有结论",
+        "只讲故事"
+      ],
+      "answer": 0,
+      "explain": "有支撑才站得住。"
+    },
+    {
+      "id": "ql-11-1",
+      "topic": "el-11",
+      "level": 2,
+      "stem": "回答问路时，应给出",
+      "options": [
+        "只微笑",
+        "方向与距离",
+        "只说不知道"
+      ],
+      "answer": 1,
+      "explain": "功能句要完整。"
+    },
+    {
+      "id": "ql-11-2",
+      "topic": "el-11",
+      "level": 1,
+      "stem": "没听清时，礼貌的说法是",
+      "options": [
+        "Shut up",
+        "Goodbye",
+        "Pardon?"
+      ],
+      "answer": 2,
+      "explain": "请对方重复。"
+    },
+    {
+      "id": "ql-12-1",
+      "topic": "el-12",
+      "level": 2,
+      "stem": "朗读评分主要看",
+      "options": [
+        "语音语调与流利度",
+        "字数多少",
+        "字体好坏"
+      ],
+      "answer": 0,
+      "explain": "口语评分维度。"
+    },
+    {
+      "id": "ql-12-2",
+      "topic": "el-12",
+      "level": 2,
+      "stem": "提高流利度最有效的练习是",
+      "options": [
+        "只看不听",
+        "跟读模仿",
+        "逐字翻译"
+      ],
+      "answer": 1,
+      "explain": "模仿语音语调。"
+    }
+  ]
+}
