@@ -1,0 +1,17 @@
+{
+  "meta": {"subject": "英语", "edition": "人教版", "scope": "英语听力与口语策略", "version": "1.0"},
+  "topics": [
+    {"id":"el-01","name":"听力：听句子选图","subject":"英语","stage":"初中","grade":7,"term":1,"chapter":"听力与口语","core":true,"desc":"先看图预测场景与动作，再抓句中的关键词。"},
+    {"id":"el-02","name":"听力：听对话选答案","subject":"英语","stage":"初中","grade":7,"term":2,"chapter":"听力与口语","core":true,"desc":"常考时间、地点、人物关系与数字，听前读题干选项。"},
+    {"id":"el-03","name":"听力：听短文填信息","subject":"英语","stage":"初中","grade":8,"term":1,"chapter":"听力与口语","core":true,"desc":"预读空格前后词性，注意拼写与大小写。"},
+    {"id":"el-04","name":"听力：数字与价格","subject":"英语","stage":"初中","grade":8,"term":2,"chapter":"听力与口语","core":true,"desc":"区分 -teen/-ty，价格读法 four dollars fifty。"},
+    {"id":"el-05","name":"听力：日期与星期","subject":"英语","stage":"初中","grade":8,"term":2,"chapter":"听力与口语","core":false,"desc":"月份、星期、序数词与「后天/前天」等表达。"},
+    {"id":"el-06","name":"连读与弱读","subject":"英语","stage":"初中","grade":8,"term":1,"chapter":"听力与口语","core":true,"desc":"辅音结尾接元音开头常连读；功能词弱读。"},
+    {"id":"el-07","name":"语调与重音","subject":"英语","stage":"初中","grade":9,"term":1,"chapter":"听力与口语","core":true,"desc":"一般疑问句升调，特殊疑问句降调；强调词重读。"},
+    {"id":"el-08","name":"口语：自我介绍","subject":"英语","stage":"初中","grade":7,"term":1,"chapter":"听力与口语","core":true,"desc":"问候—姓名年龄—学校—爱好—期待，30 秒模板。"},
+    {"id":"el-09","name":"口语：看图说话","subject":"英语","stage":"初中","grade":7,"term":2,"chapter":"听力与口语","core":true,"desc":"先说人物场景，再说动作，用 first/then/finally 衔接。"},
+    {"id":"el-10","name":"口语：话题表达","subject":"英语","stage":"初中","grade":9,"term":2,"chapter":"听力与口语","core":true,"desc":"观点＋两条理由＋例子，用 In my opinion、What's more。"},
+    {"id":"el-11","name":"口语：情景问答","subject":"英语","stage":"初中","grade":9,"term":1,"chapter":"听力与口语","core":true,"desc":"问路、购物、预约等场景的功能句；没听清用 Pardon?"},
+    {"id":"el-12","name":"朗读与流利度","subject":"英语","stage":"初中","grade":9,"term":2,"chapter":"听力与口语","core":true,"desc":"语音语调、连读、语速与停顿决定朗读分。"}
+  ]
+}
