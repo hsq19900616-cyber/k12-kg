@@ -1,0 +1,21 @@
+{
+  "meta": {"subject": "英语", "edition": "人教版 Go for it!", "scope": "英语句型与写作模板", "version": "1.0"},
+  "topics": [
+    {"id":"ew-01","name":"书面表达审题与要点","subject":"英语","stage":"初中","grade":9,"term":1,"chapter":"写作模板","core":true,"desc":"看清体裁、人称、时态与要点数量，缺要点会直接扣分。"},
+    {"id":"ew-02","name":"书信与邮件格式","subject":"英语","stage":"初中","grade":9,"term":1,"chapter":"写作模板","core":true,"desc":"称呼 Dear ...、正文分段、结尾 Yours,、署名；邮件可加主题行。"},
+    {"id":"ew-03","name":"通知与告示","subject":"英语","stage":"初中","grade":9,"term":2,"chapter":"写作模板","core":true,"desc":"标题、时间地点、活动内容、参加方式，多用祈使句与被动句。"},
+    {"id":"ew-04","name":"日记与记叙文","subject":"英语","stage":"初中","grade":8,"term":2,"chapter":"写作模板","core":true,"desc":"按时间顺序写清 who/what/when/where/how，用一般过去时。"},
+    {"id":"ew-05","name":"说明文：介绍地点","subject":"英语","stage":"初中","grade":8,"term":1,"chapter":"写作模板","core":true,"desc":"位置、历史、特色、活动四要素，配合 there be 与定语从句。"},
+    {"id":"ew-06","name":"议论文：观点与理由","subject":"英语","stage":"初中","grade":9,"term":2,"chapter":"写作模板","core":true,"desc":"亮明观点 + 2~3 条理由 + 总结，用 First/What's more/In short。"},
+    {"id":"ew-07","name":"图表与数据描述","subject":"英语","stage":"初中","grade":9,"term":2,"chapter":"写作模板","core":false,"desc":"描述趋势用 increase/decrease/remain，注意比较级与百分比表达。"},
+    {"id":"ew-08","name":"段落结构：主题句","subject":"英语","stage":"初中","grade":8,"term":1,"chapter":"写作模板","core":true,"desc":"每段首句点明要点，后接支撑细节，一段一个中心。"},
+    {"id":"ew-09","name":"连接词与过渡","subject":"英语","stage":"初中","grade":8,"term":2,"chapter":"写作模板","core":true,"desc":"并列、递进、转折、因果、总结各备 2 个连接词。"},
+    {"id":"ew-10","name":"常用句型：There be / It is ... to do","subject":"英语","stage":"初中","grade":7,"term":2,"chapter":"写作模板","core":true,"desc":"There is/are ... 表存在；It is + adj. + for sb + to do 表评价。"},
+    {"id":"ew-11","name":"常用句型：not only ... but also / so ... that","subject":"英语","stage":"初中","grade":9,"term":1,"chapter":"写作模板","core":true,"desc":"not only 置于句首时前半句倒装；so + adj. + that 表结果。"},
+    {"id":"ew-12","name":"时态一致性检查","subject":"英语","stage":"初中","grade":9,"term":1,"chapter":"写作模板","core":true,"desc":"全文时态统一；叙事用过去时，观点与事实用现在时。"},
+    {"id":"ew-13","name":"主谓一致与单复数检查","subject":"英语","stage":"初中","grade":8,"term":2,"chapter":"写作模板","core":true,"desc":"写完逐句核对主语与谓语、名词单复数、冠词。"},
+    {"id":"ew-14","name":"拼写与大小写规范","subject":"英语","stage":"初中","grade":7,"term":1,"chapter":"写作模板","core":false,"desc":"句首、专有名词、I 大写；常见拼写错误清单。"},
+    {"id":"ew-15","name":"字数与卷面","subject":"英语","stage":"初中","grade":9,"term":1,"chapter":"写作模板","core":false,"desc":"按题目字数上下浮动 10%，分 3 段，避免涂改。"},
+    {"id":"ew-16","name":"常见中式英语纠正","subject":"英语","stage":"初中","grade":9,"term":2,"chapter":"写作模板","core":true,"desc":"如 very like → like ... very much、open the light → turn on the light。"}
+  ]
+}
