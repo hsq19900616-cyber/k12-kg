@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>中小学知识图谱 · 数学</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2563eb">
+</head>
+<body>
+<header>
+  <a class="brand" href="index.html">中小学知识图谱</a>
+  <nav><a href="diagnose.html">诊断</a><a href="explore.html">图谱</a><a href="review.html">复习</a><a href="lab.html">3D 实验</a><a href="wrong.html">错题本</a></nav>
+</header>
+<main>
+  <section class="hero">
+    <h1>先找到真正没学会的那一步</h1>
+    <p class="sub" id="scope">加载中…</p>
+    <div class="cta">
+      <a class="btn big" href="diagnose.html">开始诊断</a>
+      <a class="btn ghost" href="explore.html">看知识图谱</a>
+    </div>
+  </section>
+
+  <div id="mastery"></div>
+  <div id="reviewtip"></div>
+  <div class="entries" id="entries"></div>
+
+  <details class="fold">
+    <summary>学习档案与备份</summary>
+    <div id="datatools"></div>
+  </details>
+</main>
+<script src="app.js"></script>
+<script>
+loadAll().then(() => renderIndex()).catch(e => {
+  document.getElementById('scope').textContent = '数据加载失败：' + e.message + '（请用 启动.bat 以本地服务器打开，不要双击 html）';
+});
+</script>
+</body>
+</html>
