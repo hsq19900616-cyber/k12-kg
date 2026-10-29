@@ -1,0 +1,5739 @@
+{
+ "version": "1.0",
+ "subject": "英语",
+ "questions": [
+  {
+   "id": "qe3-01-1",
+   "topic": "e3-01",
+   "level": 1,
+   "stem": "字母 B 的小写是",
+   "options": [
+    "p",
+    "b",
+    "d"
+   ],
+   "answer": 1,
+   "explain": "注意与 d、p 的书写区别。"
+  },
+  {
+   "id": "qe3-01-2",
+   "topic": "e3-01",
+   "level": 1,
+   "stem": "字母表中第一个字母是",
+   "options": [
+    "B",
+    "Z",
+    "A"
+   ],
+   "answer": 2,
+   "explain": "字母表以 A 开头。"
+  },
+  {
+   "id": "qe3-02-1",
+   "topic": "e3-02",
+   "level": 1,
+   "stem": "下列全是元音字母的一组是",
+   "options": [
+    "a e i o u",
+    "a b c d e",
+    "b c d f g"
+   ],
+   "answer": 0,
+   "explain": "英语有 5 个元音字母。"
+  },
+  {
+   "id": "qe3-02-2",
+   "topic": "e3-02",
+   "level": 1,
+   "stem": "bag 中 a 的读音与 cake 中 a 的读音",
+   "options": [
+    "都是 /eɪ/",
+    "不同",
+    "相同"
+   ],
+   "answer": 1,
+   "explain": "bag 是短音 /æ/，cake 是 /eɪ/。"
+  },
+  {
+   "id": "qe3-03-1",
+   "topic": "e3-03",
+   "level": 1,
+   "stem": "book 的复数形式是",
+   "options": [
+    "bookes",
+    "book",
+    "books"
+   ],
+   "answer": 2,
+   "explain": "一般直接加 -s。"
+  },
+  {
+   "id": "qe3-03-2",
+   "topic": "e3-03",
+   "level": 1,
+   "stem": "box 的复数形式是",
+   "options": [
+    "boxes",
+    "boxs",
+    "boxies"
+   ],
+   "answer": 0,
+   "explain": "以 x 结尾加 -es。"
+  },
+  {
+   "id": "qe3-04-1",
+   "topic": "e3-04",
+   "level": 1,
+   "stem": "This is ___ apple.",
+   "options": [
+    "the",
+    "an",
+    "a"
+   ],
+   "answer": 1,
+   "explain": "apple 以元音音素开头。"
+  },
+  {
+   "id": "qe3-04-2",
+   "topic": "e3-04",
+   "level": 1,
+   "stem": "This is ___ book.",
+   "options": [
+    "an",
+    "/",
+    "a"
+   ],
+   "answer": 2,
+   "explain": "book 以辅音音素开头。"
+  },
+  {
+   "id": "qe3-05-1",
+   "topic": "e3-05",
+   "level": 1,
+   "stem": "ship 中 sh 的读音是",
+   "options": [
+    "/ʃ/",
+    "/s/",
+    "/tʃ/"
+   ],
+   "answer": 0,
+   "explain": "sh 通常读 /ʃ/。"
+  },
+  {
+   "id": "qe3-05-2",
+   "topic": "e3-05",
+   "level": 1,
+   "stem": "see 中 ee 的读音是",
+   "options": [
+    "/eɪ/",
+    "/iː/",
+    "/e/"
+   ],
+   "answer": 1,
+   "explain": "ee 常读长音 /iː/。"
+  },
+  {
+   "id": "qe4-01-1",
+   "topic": "e4-01",
+   "level": 1,
+   "stem": "___ am a student.",
+   "options": [
+    "He",
+    "They",
+    "I"
+   ],
+   "answer": 2,
+   "explain": "am 只能与 I 搭配。"
+  },
+  {
+   "id": "qe4-01-2",
+   "topic": "e4-01",
+   "level": 1,
+   "stem": "___ is my sister.",
+   "options": [
+    "She",
+    "They",
+    "We"
+   ],
+   "answer": 0,
+   "explain": "单数女性用 she。"
+  },
+  {
+   "id": "qe4-02-1",
+   "topic": "e4-02",
+   "level": 1,
+   "stem": "They ___ my friends.",
+   "options": [
+    "am",
+    "are",
+    "is"
+   ],
+   "answer": 1,
+   "explain": "复数主语用 are。"
+  },
+  {
+   "id": "qe4-02-2",
+   "topic": "e4-02",
+   "level": 1,
+   "stem": "He ___ ten.",
+   "options": [
+    "are",
+    "am",
+    "is"
+   ],
+   "answer": 2,
+   "explain": "第三人称单数用 is。"
+  },
+  {
+   "id": "qe4-03-1",
+   "topic": "e4-03",
+   "level": 1,
+   "stem": "This is ___ book.（我的）",
+   "options": [
+    "my",
+    "I",
+    "me"
+   ],
+   "answer": 0,
+   "explain": "名词前用形容词性物主代词。"
+  },
+  {
+   "id": "qe4-03-2",
+   "topic": "e4-03",
+   "level": 1,
+   "stem": "___ name is Lily.（她的）",
+   "options": [
+    "Hers",
+    "Her",
+    "She"
+   ],
+   "answer": 1,
+   "explain": "后接名词用 her。"
+  },
+  {
+   "id": "qe4-04-1",
+   "topic": "e4-04",
+   "level": 1,
+   "stem": "___ are my pens.（这些）",
+   "options": [
+    "This",
+    "That",
+    "These"
+   ],
+   "answer": 2,
+   "explain": "复数近指用 these。"
+  },
+  {
+   "id": "qe4-04-2",
+   "topic": "e4-04",
+   "level": 1,
+   "stem": "___ is a cat.（那个）",
+   "options": [
+    "That",
+    "These",
+    "Those"
+   ],
+   "answer": 0,
+   "explain": "单数远指用 that。"
+  },
+  {
+   "id": "qe4-05-1",
+   "topic": "e4-05",
+   "level": 1,
+   "stem": "30 的英文是",
+   "options": [
+    "three",
+    "thirty",
+    "thirteen"
+   ],
+   "answer": 1,
+   "explain": "13 是 thirteen。"
+  },
+  {
+   "id": "qe4-05-2",
+   "topic": "e4-05",
+   "level": 1,
+   "stem": "45 的正确写法是",
+   "options": [
+    "forty five",
+    "fourty-five",
+    "forty-five"
+   ],
+   "answer": 2,
+   "explain": "forty 没有 u，中间加连字符。"
+  },
+  {
+   "id": "qe4-06-1",
+   "topic": "e4-06",
+   "level": 1,
+   "stem": "The cat is ___ the box.（在盒子里）",
+   "options": [
+    "in",
+    "on",
+    "under"
+   ],
+   "answer": 0,
+   "explain": "在内部用 in。"
+  },
+  {
+   "id": "qe4-06-2",
+   "topic": "e4-06",
+   "level": 1,
+   "stem": "The book is ___ the desk.（在桌面上）",
+   "options": [
+    "under",
+    "on",
+    "in"
+   ],
+   "answer": 1,
+   "explain": "接触表面用 on。"
+  },
+  {
+   "id": "qe4-07-1",
+   "topic": "e4-07",
+   "level": 1,
+   "stem": "下列名词中，属于不可数名词的是",
+   "options": [
+    "apple",
+    "book",
+    "water"
+   ],
+   "answer": 2,
+   "explain": "water 不能直接加 -s。"
+  },
+  {
+   "id": "qe4-07-2",
+   "topic": "e4-07",
+   "level": 1,
+   "stem": "two ___ of milk",
+   "options": [
+    "glasses",
+    "glass",
+    "glasss"
+   ],
+   "answer": 0,
+   "explain": "不可数名词借用量词复数。"
+  },
+  {
+   "id": "qe5-01-1",
+   "topic": "e5-01",
+   "level": 1,
+   "stem": "I ___ to school every day.",
+   "options": [
+    "going",
+    "go",
+    "goes"
+   ],
+   "answer": 1,
+   "explain": "主语 I 用原形。"
+  },
+  {
+   "id": "qe5-01-2",
+   "topic": "e5-01",
+   "level": 1,
+   "stem": "They ___ football.",
+   "options": [
+    "plays",
+    "playing",
+    "play"
+   ],
+   "answer": 2,
+   "explain": "复数主语用原形。"
+  },
+  {
+   "id": "qe5-02-1",
+   "topic": "e5-02",
+   "level": 2,
+   "stem": "She ___ music.（like）",
+   "options": [
+    "likes",
+    "like",
+    "liking"
+   ],
+   "answer": 0,
+   "explain": "第三人称单数加 -s。"
+  },
+  {
+   "id": "qe5-02-2",
+   "topic": "e5-02",
+   "level": 2,
+   "stem": "He ___ home.（go）",
+   "options": [
+    "going",
+    "goes",
+    "gos"
+   ],
+   "answer": 1,
+   "explain": "以 o 结尾加 -es。"
+  },
+  {
+   "id": "qe5-03-1",
+   "topic": "e5-03",
+   "level": 1,
+   "stem": "I can ___ English.",
+   "options": [
+    "speaks",
+    "speaking",
+    "speak"
+   ],
+   "answer": 2,
+   "explain": "情态动词后接原形。"
+  },
+  {
+   "id": "qe5-03-2",
+   "topic": "e5-03",
+   "level": 1,
+   "stem": "She can't ___.",
+   "options": [
+    "swim",
+    "swims",
+    "swimming"
+   ],
+   "answer": 0,
+   "explain": "can't 后接原形。"
+  },
+  {
+   "id": "qe5-04-1",
+   "topic": "e5-04",
+   "level": 1,
+   "stem": "Look! He ___.",
+   "options": [
+    "run",
+    "is running",
+    "runs"
+   ],
+   "answer": 1,
+   "explain": "正在进行用 be + doing。"
+  },
+  {
+   "id": "qe5-04-2",
+   "topic": "e5-04",
+   "level": 1,
+   "stem": "They ___ now.",
+   "options": [
+    "sing",
+    "sings",
+    "are singing"
+   ],
+   "answer": 2,
+   "explain": "复数主语用 are + doing。"
+  },
+  {
+   "id": "qe5-05-1",
+   "topic": "e5-05",
+   "level": 1,
+   "stem": "There ___ a book on the desk.",
+   "options": [
+    "is",
+    "are",
+    "be"
+   ],
+   "answer": 0,
+   "explain": "单数用 is。"
+  },
+  {
+   "id": "qe5-05-2",
+   "topic": "e5-05",
+   "level": 1,
+   "stem": "There ___ two cats.",
+   "options": [
+    "be",
+    "are",
+    "is"
+   ],
+   "answer": 1,
+   "explain": "复数用 are。"
+  },
+  {
+   "id": "qe5-06-1",
+   "topic": "e5-06",
+   "level": 1,
+   "stem": "___ is your name?",
+   "options": [
+    "Where",
+    "Who",
+    "What"
+   ],
+   "answer": 2,
+   "explain": "问名字用 what。"
+  },
+  {
+   "id": "qe5-06-2",
+   "topic": "e5-06",
+   "level": 1,
+   "stem": "___ are you from?",
+   "options": [
+    "Where",
+    "What",
+    "Who"
+   ],
+   "answer": 0,
+   "explain": "问地点用 where。"
+  },
+  {
+   "id": "qe5-07-1",
+   "topic": "e5-07",
+   "level": 2,
+   "stem": "child 的复数形式是",
+   "options": [
+    "childes",
+    "children",
+    "childs"
+   ],
+   "answer": 1,
+   "explain": "不规则变化。"
+  },
+  {
+   "id": "qe5-07-2",
+   "topic": "e5-07",
+   "level": 2,
+   "stem": "foot 的复数形式是",
+   "options": [
+    "foots",
+    "feets",
+    "feet"
+   ],
+   "answer": 2,
+   "explain": "oo 变 ee。"
+  },
+  {
+   "id": "qe5-08-1",
+   "topic": "e5-08",
+   "level": 1,
+   "stem": "Tom 的书，正确写法是",
+   "options": [
+    "Tom's book",
+    "Toms book",
+    "Tom book"
+   ],
+   "answer": 0,
+   "explain": "单数名词加 's。"
+  },
+  {
+   "id": "qe5-08-2",
+   "topic": "e5-08",
+   "level": 2,
+   "stem": "the students 的所有格是",
+   "options": [
+    "the students's books",
+    "the students' books",
+    "the student's books"
+   ],
+   "answer": 1,
+   "explain": "以 s 结尾的复数只加 '。"
+  },
+  {
+   "id": "qe5-09-1",
+   "topic": "e5-09",
+   "level": 1,
+   "stem": "___ apples do you have?",
+   "options": [
+    "How much",
+    "How old",
+    "How many"
+   ],
+   "answer": 2,
+   "explain": "可数名词复数用 how many。"
+  },
+  {
+   "id": "qe5-09-2",
+   "topic": "e5-09",
+   "level": 1,
+   "stem": "___ water is there?",
+   "options": [
+    "How much",
+    "How many",
+    "How long"
+   ],
+   "answer": 0,
+   "explain": "不可数名词用 how much。"
+  },
+  {
+   "id": "qe6-01-1",
+   "topic": "e6-01",
+   "level": 1,
+   "stem": "He ___ football yesterday.（play）",
+   "options": [
+    "play",
+    "played",
+    "plays"
+   ],
+   "answer": 1,
+   "explain": "过去时加 -ed。"
+  },
+  {
+   "id": "qe6-01-2",
+   "topic": "e6-01",
+   "level": 2,
+   "stem": "Did you ___ TV?（watch）",
+   "options": [
+    "watched",
+    "watching",
+    "watch"
+   ],
+   "answer": 2,
+   "explain": "did 后用原形。"
+  },
+  {
+   "id": "qe6-02-1",
+   "topic": "e6-02",
+   "level": 1,
+   "stem": "I ___ to Beijing last year.（go）",
+   "options": [
+    "went",
+    "goed",
+    "go"
+   ],
+   "answer": 0,
+   "explain": "go 的过去式是 went。"
+  },
+  {
+   "id": "qe6-02-2",
+   "topic": "e6-02",
+   "level": 1,
+   "stem": "She ___ a film yesterday.（see）",
+   "options": [
+    "sees",
+    "saw",
+    "seed"
+   ],
+   "answer": 1,
+   "explain": "see 的过去式是 saw。"
+  },
+  {
+   "id": "qe6-03-1",
+   "topic": "e6-03",
+   "level": 1,
+   "stem": "Tom is ___ than Jim.",
+   "options": [
+    "tall",
+    "tallest",
+    "taller"
+   ],
+   "answer": 2,
+   "explain": "比较级加 -er。"
+  },
+  {
+   "id": "qe6-03-2",
+   "topic": "e6-03",
+   "level": 2,
+   "stem": "This book is ___ than that one.",
+   "options": [
+    "more interesting",
+    "interestinger",
+    "most interesting"
+   ],
+   "answer": 0,
+   "explain": "多音节词前加 more。"
+  },
+  {
+   "id": "qe6-04-1",
+   "topic": "e6-04",
+   "level": 1,
+   "stem": "I ___ visit my grandma tomorrow.",
+   "options": [
+    "going to",
+    "am going to",
+    "is going to"
+   ],
+   "answer": 1,
+   "explain": "I 搭配 am。"
+  },
+  {
+   "id": "qe6-04-2",
+   "topic": "e6-04",
+   "level": 1,
+   "stem": "They ___ play basketball.",
+   "options": [
+    "is going to",
+    "am going to",
+    "are going to"
+   ],
+   "answer": 2,
+   "explain": "复数主语搭配 are。"
+  },
+  {
+   "id": "qe6-05-1",
+   "topic": "e6-05",
+   "level": 1,
+   "stem": "___ the door, please.",
+   "options": [
+    "Open",
+    "Opens",
+    "Opening"
+   ],
+   "answer": 0,
+   "explain": "祈使句以原形开头。"
+  },
+  {
+   "id": "qe6-05-2",
+   "topic": "e6-05",
+   "level": 1,
+   "stem": "___ be late.",
+   "options": [
+    "No",
+    "Don't",
+    "Not"
+   ],
+   "answer": 1,
+   "explain": "否定祈使句用 Don't。"
+  },
+  {
+   "id": "qe6-06-1",
+   "topic": "e6-06",
+   "level": 1,
+   "stem": "I get up ___ 7:00.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ],
+   "answer": 2,
+   "explain": "具体时刻用 at。"
+  },
+  {
+   "id": "qe6-06-2",
+   "topic": "e6-06",
+   "level": 1,
+   "stem": "We go to school ___ Monday.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ],
+   "answer": 0,
+   "explain": "具体某天用 on。"
+  },
+  {
+   "id": "qe6-07-1",
+   "topic": "e6-07",
+   "level": 1,
+   "stem": "___ you like apples?",
+   "options": [
+    "Are",
+    "Do",
+    "Does"
+   ],
+   "answer": 1,
+   "explain": "主语 you 用 do。"
+  },
+  {
+   "id": "qe6-07-2",
+   "topic": "e6-07",
+   "level": 1,
+   "stem": "___ he play football?",
+   "options": [
+    "Do",
+    "Is",
+    "Does"
+   ],
+   "answer": 2,
+   "explain": "第三人称单数用 does。"
+  },
+  {
+   "id": "qe6-08-1",
+   "topic": "e6-08",
+   "level": 1,
+   "stem": "You ___ finish your homework first.",
+   "options": [
+    "must",
+    "can to",
+    "should to"
+   ],
+   "answer": 0,
+   "explain": "情态动词后直接接原形。"
+  },
+  {
+   "id": "qe6-08-2",
+   "topic": "e6-08",
+   "level": 1,
+   "stem": "You look ill. You ___ see a doctor.",
+   "options": [
+    "should to",
+    "should",
+    "shoulds"
+   ],
+   "answer": 1,
+   "explain": "should 表建议，无词形变化。"
+  },
+  {
+   "id": "qe6-09-1",
+   "topic": "e6-09",
+   "level": 1,
+   "stem": "I like tea ___ coffee.",
+   "options": [
+    "but",
+    "or",
+    "and"
+   ],
+   "answer": 2,
+   "explain": "并列用 and。"
+  },
+  {
+   "id": "qe6-09-2",
+   "topic": "e6-09",
+   "level": 1,
+   "stem": "He is old, ___ he is strong.",
+   "options": [
+    "but",
+    "and",
+    "or"
+   ],
+   "answer": 0,
+   "explain": "转折用 but。"
+  },
+  {
+   "id": "qej-01-1",
+   "topic": "ej-01",
+   "level": 1,
+   "stem": "下面哪个是 child 的正确复数形式",
+   "options": [
+    "childes",
+    "children",
+    "childs"
+   ],
+   "answer": 1,
+   "explain": "不规则变化。"
+  },
+  {
+   "id": "qej-01-2",
+   "topic": "ej-01",
+   "level": 2,
+   "stem": "photo 的复数形式是",
+   "options": [
+    "photoes",
+    "photo",
+    "photos"
+   ],
+   "answer": 2,
+   "explain": "以 o 结尾但属例外，只加 -s。"
+  },
+  {
+   "id": "qej-02-1",
+   "topic": "ej-02",
+   "level": 1,
+   "stem": "two ___ of bread",
+   "options": [
+    "pieces",
+    "piece",
+    "pieceses"
+   ],
+   "answer": 0,
+   "explain": "复数体现在量词上。"
+  },
+  {
+   "id": "qej-02-2",
+   "topic": "ej-02",
+   "level": 1,
+   "stem": "下列哪个名词不能直接用数字修饰、属于不可数名词",
+   "options": [
+    "desk",
+    "information",
+    "apple"
+   ],
+   "answer": 1,
+   "explain": "information 不可数。"
+  },
+  {
+   "id": "qej-03-1",
+   "topic": "ej-03",
+   "level": 1,
+   "stem": "He plays ___ piano very well.",
+   "options": [
+    "a",
+    "/",
+    "the"
+   ],
+   "answer": 2,
+   "explain": "乐器前用 the。"
+  },
+  {
+   "id": "qej-03-2",
+   "topic": "ej-03",
+   "level": 1,
+   "stem": "___ sun rises in the east.",
+   "options": [
+    "The",
+    "A",
+    "/"
+   ],
+   "answer": 0,
+   "explain": "独一无二的事物用 the。"
+  },
+  {
+   "id": "qej-04-1",
+   "topic": "ej-04",
+   "level": 1,
+   "stem": "We have ___ breakfast at seven.",
+   "options": [
+    "the",
+    "/",
+    "a"
+   ],
+   "answer": 1,
+   "explain": "三餐前不用冠词。"
+  },
+  {
+   "id": "qej-04-2",
+   "topic": "ej-04",
+   "level": 1,
+   "stem": "I go to school ___ bus.",
+   "options": [
+    "by a",
+    "by the",
+    "by"
+   ],
+   "answer": 2,
+   "explain": "by + 交通工具不加冠词。"
+  },
+  {
+   "id": "qej-05-1",
+   "topic": "ej-05",
+   "level": 1,
+   "stem": "Please help ___.（我）",
+   "options": [
+    "me",
+    "I",
+    "my"
+   ],
+   "answer": 0,
+   "explain": "动词后用宾格。"
+  },
+  {
+   "id": "qej-05-2",
+   "topic": "ej-05",
+   "level": 1,
+   "stem": "I like ___.（她）",
+   "options": [
+    "hers",
+    "her",
+    "she"
+   ],
+   "answer": 1,
+   "explain": "宾语位置用宾格。"
+  },
+  {
+   "id": "qej-06-1",
+   "topic": "ej-06",
+   "level": 1,
+   "stem": "This book is ___.（我的）",
+   "options": [
+    "my",
+    "me",
+    "mine"
+   ],
+   "answer": 2,
+   "explain": "句末不接名词用名词性物主代词。"
+  },
+  {
+   "id": "qej-06-2",
+   "topic": "ej-06",
+   "level": 2,
+   "stem": "___ is bigger than mine.",
+   "options": [
+    "Yours",
+    "Your",
+    "You"
+   ],
+   "answer": 0,
+   "explain": "作主语用名词性物主代词。"
+  },
+  {
+   "id": "qej-07-1",
+   "topic": "ej-07",
+   "level": 2,
+   "stem": "Enjoy ___!（你们自己）",
+   "options": [
+    "you",
+    "yourselves",
+    "yourself"
+   ],
+   "answer": 1,
+   "explain": "复数用 yourselves。"
+  },
+  {
+   "id": "qej-07-2",
+   "topic": "ej-07",
+   "level": 2,
+   "stem": "He taught ___ English.",
+   "options": [
+    "him",
+    "his",
+    "himself"
+   ],
+   "answer": 2,
+   "explain": "teach oneself 自学。"
+  },
+  {
+   "id": "qej-08-1",
+   "topic": "ej-08",
+   "level": 1,
+   "stem": "There aren't ___ apples in the basket.",
+   "options": [
+    "any",
+    "some",
+    "a"
+   ],
+   "answer": 0,
+   "explain": "否定句用 any。"
+  },
+  {
+   "id": "qej-08-2",
+   "topic": "ej-08",
+   "level": 2,
+   "stem": "Would you like ___ tea?",
+   "options": [
+    "a",
+    "some",
+    "any"
+   ],
+   "answer": 1,
+   "explain": "表请求的疑问句用 some。"
+  },
+  {
+   "id": "qej-09-1",
+   "topic": "ej-09",
+   "level": 2,
+   "stem": "There is ___ wrong with my bike.",
+   "options": [
+    "anything",
+    "some thing",
+    "something"
+   ],
+   "answer": 2,
+   "explain": "肯定句用 something。"
+  },
+  {
+   "id": "qej-09-2",
+   "topic": "ej-09",
+   "level": 2,
+   "stem": "___ can stop him.",
+   "options": [
+    "Nobody",
+    "Nobody not",
+    "Not anybody"
+   ],
+   "answer": 0,
+   "explain": "nobody 本身即否定。"
+  },
+  {
+   "id": "qej-10-1",
+   "topic": "ej-10",
+   "level": 1,
+   "stem": "「第四个」的英文是",
+   "options": [
+    "fourth",
+    "the fourth",
+    "the forth"
+   ],
+   "answer": 1,
+   "explain": "序数词前加 the。"
+  },
+  {
+   "id": "qej-10-2",
+   "topic": "ej-10",
+   "level": 2,
+   "stem": "September is the ___ month of the year.",
+   "options": [
+    "nineth",
+    "nine",
+    "ninth"
+   ],
+   "answer": 2,
+   "explain": "nine 去 e 加 -th。"
+  },
+  {
+   "id": "qej-11-1",
+   "topic": "ej-11",
+   "level": 1,
+   "stem": "two ___ students",
+   "options": [
+    "hundred",
+    "hundreds",
+    "hundreds of"
+   ],
+   "answer": 0,
+   "explain": "有具体数字时用单数。"
+  },
+  {
+   "id": "qej-11-2",
+   "topic": "ej-11",
+   "level": 2,
+   "stem": "___ people came to the show.",
+   "options": [
+    "Hundreds",
+    "Hundreds of",
+    "Hundred of"
+   ],
+   "answer": 1,
+   "explain": "约数用 hundreds of。"
+  },
+  {
+   "id": "qej-12-1",
+   "topic": "ej-12",
+   "level": 1,
+   "stem": "a pair of ___",
+   "options": [
+    "shoe",
+    "shoeses",
+    "shoes"
+   ],
+   "answer": 2,
+   "explain": "成对物品用复数。"
+  },
+  {
+   "id": "qej-12-2",
+   "topic": "ej-12",
+   "level": 1,
+   "stem": "three ___ of water",
+   "options": [
+    "bottles",
+    "bottle",
+    "bottlees"
+   ],
+   "answer": 0,
+   "explain": "量词变复数。"
+  },
+  {
+   "id": "qej-13-1",
+   "topic": "ej-13",
+   "level": 1,
+   "stem": "This is the ___ film I have ever seen.",
+   "options": [
+    "good",
+    "best",
+    "better"
+   ],
+   "answer": 1,
+   "explain": "最高级前加 the。"
+  },
+  {
+   "id": "qej-13-2",
+   "topic": "ej-13",
+   "level": 1,
+   "stem": "He runs ___ than me.",
+   "options": [
+    "fast",
+    "fastest",
+    "faster"
+   ],
+   "answer": 2,
+   "explain": "than 前用比较级。"
+  },
+  {
+   "id": "qej-14-1",
+   "topic": "ej-14",
+   "level": 1,
+   "stem": "Tom is as ___ as Jim.",
+   "options": [
+    "tall",
+    "taller",
+    "tallest"
+   ],
+   "answer": 0,
+   "explain": "as...as 中间用原级。"
+  },
+  {
+   "id": "qej-14-2",
+   "topic": "ej-14",
+   "level": 2,
+   "stem": "This box isn't as ___ as that one.",
+   "options": [
+    "heaviest",
+    "heavy",
+    "heavier"
+   ],
+   "answer": 1,
+   "explain": "not as ... as 仍用原级。"
+  },
+  {
+   "id": "qej-15-1",
+   "topic": "ej-15",
+   "level": 2,
+   "stem": "This book is ___ more interesting than that one.",
+   "options": [
+    "very",
+    "more",
+    "much"
+   ],
+   "answer": 2,
+   "explain": "much 修饰比较级。"
+  },
+  {
+   "id": "qej-15-2",
+   "topic": "ej-15",
+   "level": 2,
+   "stem": "He is ___ taller than me.",
+   "options": [
+    "a little",
+    "very",
+    "too"
+   ],
+   "answer": 0,
+   "explain": "a little 可修饰比较级。"
+  },
+  {
+   "id": "qej-16-1",
+   "topic": "ej-16",
+   "level": 1,
+   "stem": "The film is ___.",
+   "options": [
+    "bore",
+    "boring",
+    "bored"
+   ],
+   "answer": 1,
+   "explain": "修饰物用 -ing。"
+  },
+  {
+   "id": "qej-16-2",
+   "topic": "ej-16",
+   "level": 1,
+   "stem": "I am ___ in music.",
+   "options": [
+    "interesting",
+    "interest",
+    "interested"
+   ],
+   "answer": 2,
+   "explain": "人感到用 -ed。"
+  },
+  {
+   "id": "qej-17-1",
+   "topic": "ej-17",
+   "level": 1,
+   "stem": "I was born ___ 2012.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": 0,
+   "explain": "年份前用 in。"
+  },
+  {
+   "id": "qej-17-2",
+   "topic": "ej-17",
+   "level": 1,
+   "stem": "We'll meet ___ Friday morning.",
+   "options": [
+    "at",
+    "on",
+    "in"
+   ],
+   "answer": 1,
+   "explain": "具体某天的上午用 on。"
+  },
+  {
+   "id": "qej-18-1",
+   "topic": "ej-18",
+   "level": 1,
+   "stem": "The bank is ___ the post office and the school.",
+   "options": [
+    "among",
+    "in",
+    "between"
+   ],
+   "answer": 2,
+   "explain": "两者之间用 between。"
+  },
+  {
+   "id": "qej-18-2",
+   "topic": "ej-18",
+   "level": 1,
+   "stem": "The cat is ___ the table.（在下面）",
+   "options": [
+    "under",
+    "on",
+    "in"
+   ],
+   "answer": 0,
+   "explain": "下方用 under。"
+  },
+  {
+   "id": "qej-19-1",
+   "topic": "ej-19",
+   "level": 2,
+   "stem": "___ he is young, he knows a lot.",
+   "options": [
+    "Because",
+    "Although",
+    "But"
+   ],
+   "answer": 1,
+   "explain": "让步用 although，不与 but 连用。"
+  },
+  {
+   "id": "qej-19-2",
+   "topic": "ej-19",
+   "level": 2,
+   "stem": "He was ill, ___ he didn't come.",
+   "options": [
+    "because",
+    "although",
+    "so"
+   ],
+   "answer": 2,
+   "explain": "结果用 so，不与 because 连用。"
+  },
+  {
+   "id": "qej-20-1",
+   "topic": "ej-20",
+   "level": 2,
+   "stem": "He ___ be at home. The light is on.",
+   "options": [
+    "must",
+    "can't",
+    "needn't"
+   ],
+   "answer": 0,
+   "explain": "肯定推测用 must。"
+  },
+  {
+   "id": "qej-20-2",
+   "topic": "ej-20",
+   "level": 2,
+   "stem": "It ___ be true. I don't believe it.",
+   "options": [
+    "should",
+    "can't",
+    "must"
+   ],
+   "answer": 1,
+   "explain": "否定推测用 can't。"
+  },
+  {
+   "id": "qej-21-1",
+   "topic": "ej-21",
+   "level": 2,
+   "stem": "You'd better ___ now.",
+   "options": [
+    "to go",
+    "going",
+    "go"
+   ],
+   "answer": 2,
+   "explain": "had better 后接原形。"
+  },
+  {
+   "id": "qej-21-2",
+   "topic": "ej-21",
+   "level": 2,
+   "stem": "You'd better ___ late.",
+   "options": [
+    "not be",
+    "not to be",
+    "don't be"
+   ],
+   "answer": 0,
+   "explain": "否定式 had better not do。"
+  },
+  {
+   "id": "qej-22-1",
+   "topic": "ej-22",
+   "level": 2,
+   "stem": "He ___ smoke, but now he doesn't.",
+   "options": [
+    "use to",
+    "used to",
+    "is used to"
+   ],
+   "answer": 1,
+   "explain": "过去常常用 used to do。"
+  },
+  {
+   "id": "qej-22-2",
+   "topic": "ej-22",
+   "level": 3,
+   "stem": "She is used to ___ early.",
+   "options": [
+    "get up",
+    "got up",
+    "getting up"
+   ],
+   "answer": 2,
+   "explain": "be used to doing 习惯于。"
+  },
+  {
+   "id": "qej-23-1",
+   "topic": "ej-23",
+   "level": 1,
+   "stem": "My father ___ TV every evening.",
+   "options": [
+    "watches",
+    "watch",
+    "watching"
+   ],
+   "answer": 0,
+   "explain": "第三人称单数加 -es。"
+  },
+  {
+   "id": "qej-23-2",
+   "topic": "ej-23",
+   "level": 1,
+   "stem": "___ she like music?",
+   "options": [
+    "Is",
+    "Does",
+    "Do"
+   ],
+   "answer": 1,
+   "explain": "三单疑问用 does。"
+  },
+  {
+   "id": "qej-24-1",
+   "topic": "ej-24",
+   "level": 1,
+   "stem": "Look! They ___ football.",
+   "options": [
+    "play",
+    "plays",
+    "are playing"
+   ],
+   "answer": 2,
+   "explain": "正在发生用进行时。"
+  },
+  {
+   "id": "qej-24-2",
+   "topic": "ej-24",
+   "level": 1,
+   "stem": "He ___ now.",
+   "options": [
+    "is reading",
+    "reads",
+    "read"
+   ],
+   "answer": 0,
+   "explain": "now 提示进行时。"
+  },
+  {
+   "id": "qej-25-1",
+   "topic": "ej-25",
+   "level": 1,
+   "stem": "We ___ to the park last Sunday.",
+   "options": [
+    "goes",
+    "went",
+    "go"
+   ],
+   "answer": 1,
+   "explain": "过去时间用过去式。"
+  },
+  {
+   "id": "qej-25-2",
+   "topic": "ej-25",
+   "level": 1,
+   "stem": "Did he ___ it yesterday?（buy）",
+   "options": [
+    "bought",
+    "buys",
+    "buy"
+   ],
+   "answer": 2,
+   "explain": "did 后接原形。"
+  },
+  {
+   "id": "qej-26-1",
+   "topic": "ej-26",
+   "level": 1,
+   "stem": "I ___ call you tomorrow.",
+   "options": [
+    "will",
+    "am",
+    "would"
+   ],
+   "answer": 0,
+   "explain": "将来用 will。"
+  },
+  {
+   "id": "qej-26-2",
+   "topic": "ej-26",
+   "level": 1,
+   "stem": "She ___ be ten next year.",
+   "options": [
+    "was",
+    "will",
+    "is"
+   ],
+   "answer": 1,
+   "explain": "next year 提示将来。"
+  },
+  {
+   "id": "qej-27-1",
+   "topic": "ej-27",
+   "level": 1,
+   "stem": "I ___ finished my homework.",
+   "options": [
+    "has",
+    "had",
+    "have"
+   ],
+   "answer": 2,
+   "explain": "I 搭配 have。"
+  },
+  {
+   "id": "qej-27-2",
+   "topic": "ej-27",
+   "level": 2,
+   "stem": "He ___ lived here for five years.",
+   "options": [
+    "has",
+    "have",
+    "is"
+   ],
+   "answer": 0,
+   "explain": "三单用 has。"
+  },
+  {
+   "id": "qej-28-1",
+   "topic": "ej-28",
+   "level": 2,
+   "stem": "I ___ reading when he came in.",
+   "options": [
+    "am",
+    "was",
+    "were"
+   ],
+   "answer": 1,
+   "explain": "I 用 was + doing。"
+  },
+  {
+   "id": "qej-28-2",
+   "topic": "ej-28",
+   "level": 2,
+   "stem": "They ___ playing at eight last night.",
+   "options": [
+    "was",
+    "are",
+    "were"
+   ],
+   "answer": 2,
+   "explain": "复数用 were。"
+  },
+  {
+   "id": "qej-29-1",
+   "topic": "ej-29",
+   "level": 3,
+   "stem": "By the time I arrived, he ___ left.",
+   "options": [
+    "had",
+    "has",
+    "was"
+   ],
+   "answer": 0,
+   "explain": "过去的过去用过去完成时。"
+  },
+  {
+   "id": "qej-29-2",
+   "topic": "ej-29",
+   "level": 3,
+   "stem": "She said she ___ seen the film.",
+   "options": [
+    "have",
+    "had",
+    "has"
+   ],
+   "answer": 1,
+   "explain": "主句过去，从句用过去完成。"
+  },
+  {
+   "id": "qej-30-1",
+   "topic": "ej-30",
+   "level": 1,
+   "stem": "English ___ in many countries.",
+   "options": [
+    "speaks",
+    "is speaking",
+    "is spoken"
+   ],
+   "answer": 2,
+   "explain": "语言被使用，用被动。"
+  },
+  {
+   "id": "qej-30-2",
+   "topic": "ej-30",
+   "level": 1,
+   "stem": "The room ___ every day.",
+   "options": [
+    "is cleaned",
+    "cleans",
+    "cleaning"
+   ],
+   "answer": 0,
+   "explain": "房间被打扫。"
+  },
+  {
+   "id": "qej-31-1",
+   "topic": "ej-31",
+   "level": 2,
+   "stem": "The bridge ___ in 1990.",
+   "options": [
+    "is built",
+    "was built",
+    "built"
+   ],
+   "answer": 1,
+   "explain": "过去被动用 was + 过去分词。"
+  },
+  {
+   "id": "qej-31-2",
+   "topic": "ej-31",
+   "level": 2,
+   "stem": "These books ___ last year.",
+   "options": [
+    "printed",
+    "are printed",
+    "were printed"
+   ],
+   "answer": 2,
+   "explain": "复数主语用 were。"
+  },
+  {
+   "id": "qej-32-1",
+   "topic": "ej-32",
+   "level": 2,
+   "stem": "The work must ___ today.",
+   "options": [
+    "be finished",
+    "finish",
+    "finished"
+   ],
+   "answer": 0,
+   "explain": "情态动词 + be + 过去分词。"
+  },
+  {
+   "id": "qej-32-2",
+   "topic": "ej-32",
+   "level": 2,
+   "stem": "Trees should ___ every year.",
+   "options": [
+    "planted",
+    "be planted",
+    "plant"
+   ],
+   "answer": 1,
+   "explain": "含情态动词的被动。"
+  },
+  {
+   "id": "qej-33-1",
+   "topic": "ej-33",
+   "level": 2,
+   "stem": "___ is good for health.",
+   "options": [
+    "Swim",
+    "Swims",
+    "Swimming"
+   ],
+   "answer": 2,
+   "explain": "动名词作主语。"
+  },
+  {
+   "id": "qej-33-2",
+   "topic": "ej-33",
+   "level": 2,
+   "stem": "I enjoy ___ music.",
+   "options": [
+    "listening to",
+    "listen to",
+    "listen"
+   ],
+   "answer": 0,
+   "explain": "enjoy 后接 doing。"
+  },
+  {
+   "id": "qej-34-1",
+   "topic": "ej-34",
+   "level": 1,
+   "stem": "I want ___ a doctor.",
+   "options": [
+    "being",
+    "to be",
+    "be"
+   ],
+   "answer": 1,
+   "explain": "want to do。"
+  },
+  {
+   "id": "qej-34-2",
+   "topic": "ej-34",
+   "level": 1,
+   "stem": "She decided ___ hard.",
+   "options": [
+    "study",
+    "studying",
+    "to study"
+   ],
+   "answer": 2,
+   "explain": "decide to do。"
+  },
+  {
+   "id": "qej-35-1",
+   "topic": "ej-35",
+   "level": 2,
+   "stem": "He went to Beijing ___ his uncle.",
+   "options": [
+    "to visit",
+    "visit",
+    "visiting"
+   ],
+   "answer": 0,
+   "explain": "不定式表目的。"
+  },
+  {
+   "id": "qej-35-2",
+   "topic": "ej-35",
+   "level": 2,
+   "stem": "___ English well, she practises every day.",
+   "options": [
+    "Learning",
+    "To learn",
+    "Learn"
+   ],
+   "answer": 1,
+   "explain": "句首目的状语用不定式。"
+  },
+  {
+   "id": "qej-36-1",
+   "topic": "ej-36",
+   "level": 2,
+   "stem": "I saw him ___ the room.（全过程）",
+   "options": [
+    "to enter",
+    "enters",
+    "enter"
+   ],
+   "answer": 2,
+   "explain": "感官动词后接原形表全过程。"
+  },
+  {
+   "id": "qej-36-2",
+   "topic": "ej-36",
+   "level": 2,
+   "stem": "I saw him ___ when I passed by.",
+   "options": [
+    "reading",
+    "read",
+    "to read"
+   ],
+   "answer": 0,
+   "explain": "进行中用 doing。"
+  },
+  {
+   "id": "qej-37-1",
+   "topic": "ej-37",
+   "level": 2,
+   "stem": "He finished ___ the letter.",
+   "options": [
+    "write",
+    "writing",
+    "to write"
+   ],
+   "answer": 1,
+   "explain": "finish doing。"
+  },
+  {
+   "id": "qej-37-2",
+   "topic": "ej-37",
+   "level": 2,
+   "stem": "They hope ___ soon.",
+   "options": [
+    "leaving",
+    "leave",
+    "to leave"
+   ],
+   "answer": 2,
+   "explain": "hope to do。"
+  },
+  {
+   "id": "qej-38-1",
+   "topic": "ej-38",
+   "level": 1,
+   "stem": "在 Tom runs fast. 中，主语是",
+   "options": [
+    "Tom",
+    "runs",
+    "fast"
+   ],
+   "answer": 0,
+   "explain": "动作的发出者为主语。"
+  },
+  {
+   "id": "qej-38-2",
+   "topic": "ej-38",
+   "level": 2,
+   "stem": "在 She gave me a book. 中，me 是",
+   "options": [
+    "表语",
+    "间接宾语",
+    "直接宾语"
+   ],
+   "answer": 1,
+   "explain": "人作间接宾语。"
+  },
+  {
+   "id": "qej-39-1",
+   "topic": "ej-39",
+   "level": 1,
+   "stem": "He is a teacher. 属于",
+   "options": [
+    "主谓宾",
+    "主谓",
+    "主系表"
+   ],
+   "answer": 2,
+   "explain": "be + 表语。"
+  },
+  {
+   "id": "qej-39-2",
+   "topic": "ej-39",
+   "level": 2,
+   "stem": "She gave him a pen. 属于",
+   "options": [
+    "主谓双宾",
+    "主系表",
+    "主谓宾补"
+   ],
+   "answer": 0,
+   "explain": "两个宾语。"
+  },
+  {
+   "id": "qej-40-1",
+   "topic": "ej-40",
+   "level": 1,
+   "stem": "___ you a student?",
+   "options": [
+    "Is",
+    "Are",
+    "Do"
+   ],
+   "answer": 1,
+   "explain": "be 动词提前。"
+  },
+  {
+   "id": "qej-40-2",
+   "topic": "ej-40",
+   "level": 1,
+   "stem": "___ she like apples?",
+   "options": [
+    "Do",
+    "Is",
+    "Does"
+   ],
+   "answer": 2,
+   "explain": "实义动词借助 does。"
+  },
+  {
+   "id": "qej-41-1",
+   "topic": "ej-41",
+   "level": 1,
+   "stem": "— ___ do you go to school? — By bus.",
+   "options": [
+    "How",
+    "What",
+    "Where"
+   ],
+   "answer": 0,
+   "explain": "问方式用 how。"
+  },
+  {
+   "id": "qej-41-2",
+   "topic": "ej-41",
+   "level": 1,
+   "stem": "— ___ is your father? — He is a doctor.",
+   "options": [
+    "Where",
+    "What",
+    "Who"
+   ],
+   "answer": 1,
+   "explain": "问职业用 what。"
+  },
+  {
+   "id": "qej-42-1",
+   "topic": "ej-42",
+   "level": 2,
+   "stem": "You are a student, ___?",
+   "options": [
+    "are you",
+    "don't you",
+    "aren't you"
+   ],
+   "answer": 2,
+   "explain": "前肯后否。"
+  },
+  {
+   "id": "qej-42-2",
+   "topic": "ej-42",
+   "level": 2,
+   "stem": "He can't swim, ___?",
+   "options": [
+    "can he",
+    "can't he",
+    "does he"
+   ],
+   "answer": 0,
+   "explain": "前否后肯。"
+  },
+  {
+   "id": "qej-43-1",
+   "topic": "ej-43",
+   "level": 1,
+   "stem": "___ beautiful the flower is!",
+   "options": [
+    "What a",
+    "How",
+    "What"
+   ],
+   "answer": 1,
+   "explain": "修饰形容词用 how。"
+  },
+  {
+   "id": "qej-43-2",
+   "topic": "ej-43",
+   "level": 1,
+   "stem": "___ a good boy he is!",
+   "options": [
+    "How",
+    "What an",
+    "What"
+   ],
+   "answer": 2,
+   "explain": "修饰名词用 what。"
+  },
+  {
+   "id": "qej-44-1",
+   "topic": "ej-44",
+   "level": 2,
+   "stem": "Each of them ___ a book.",
+   "options": [
+    "has",
+    "have",
+    "are"
+   ],
+   "answer": 0,
+   "explain": "each 作主语用单数。"
+  },
+  {
+   "id": "qej-44-2",
+   "topic": "ej-44",
+   "level": 2,
+   "stem": "Both of them ___ here now.",
+   "options": [
+    "was",
+    "are",
+    "is"
+   ],
+   "answer": 1,
+   "explain": "both 表复数。"
+  },
+  {
+   "id": "qej-45-1",
+   "topic": "ej-45",
+   "level": 2,
+   "stem": "Do you know where he ___?",
+   "options": [
+    "does he live",
+    "live",
+    "lives"
+   ],
+   "answer": 2,
+   "explain": "宾语从句用陈述语序。"
+  },
+  {
+   "id": "qej-45-2",
+   "topic": "ej-45",
+   "level": 2,
+   "stem": "He said he ___ busy then.",
+   "options": [
+    "was",
+    "is",
+    "were"
+   ],
+   "answer": 0,
+   "explain": "主句过去，从句相应过去。"
+  },
+  {
+   "id": "qej-46-1",
+   "topic": "ej-46",
+   "level": 2,
+   "stem": "The man ___ is talking is my uncle.",
+   "options": [
+    "whose",
+    "who",
+    "which"
+   ],
+   "answer": 1,
+   "explain": "先行词是人。"
+  },
+  {
+   "id": "qej-46-2",
+   "topic": "ej-46",
+   "level": 2,
+   "stem": "The book ___ I bought is new.",
+   "options": [
+    "who",
+    "what",
+    "that"
+   ],
+   "answer": 2,
+   "explain": "先行词是物。"
+  },
+  {
+   "id": "qej-47-1",
+   "topic": "ej-47",
+   "level": 2,
+   "stem": "I'll call you when I ___ home.",
+   "options": [
+    "get",
+    "will get",
+    "got"
+   ],
+   "answer": 0,
+   "explain": "主将从现。"
+  },
+  {
+   "id": "qej-47-2",
+   "topic": "ej-47",
+   "level": 2,
+   "stem": "If it ___ tomorrow, we'll stay at home.",
+   "options": [
+    "rained",
+    "rains",
+    "will rain"
+   ],
+   "answer": 1,
+   "explain": "条件从句用现在时。"
+  },
+  {
+   "id": "qej-48-1",
+   "topic": "ej-48",
+   "level": 3,
+   "stem": "He got up early ___ he could catch the bus.",
+   "options": [
+    "because",
+    "although",
+    "so that"
+   ],
+   "answer": 2,
+   "explain": "目的用 so that。"
+  },
+  {
+   "id": "qej-49-1",
+   "topic": "ej-49",
+   "level": 3,
+   "stem": "He said, \"I am tired.\" → He said he ___ tired.",
+   "options": [
+    "was",
+    "is",
+    "were"
+   ],
+   "answer": 0,
+   "explain": "时态后移一步。"
+  },
+  {
+   "id": "qej-49-2",
+   "topic": "ej-49",
+   "level": 3,
+   "stem": "She asked me where I ___.",
+   "options": [
+    "do live",
+    "lived",
+    "live"
+   ],
+   "answer": 1,
+   "explain": "宾语从句用陈述语序并后移时态。"
+  },
+  {
+   "id": "qej-50-1",
+   "topic": "ej-50",
+   "level": 3,
+   "stem": "___ is important to learn English.",
+   "options": [
+    "That",
+    "This",
+    "It"
+   ],
+   "answer": 2,
+   "explain": "it 作形式主语。"
+  },
+  {
+   "id": "qej-50-2",
+   "topic": "ej-50",
+   "level": 3,
+   "stem": "It is easy ___ this problem.",
+   "options": [
+    "to solve",
+    "solve",
+    "solving"
+   ],
+   "answer": 0,
+   "explain": "真正主语是不定式。"
+  },
+  {
+   "id": "qv-01-1",
+   "topic": "ev-01",
+   "level": 1,
+   "stem": "father 的意思是",
+   "options": [
+    "哥哥",
+    "爸爸",
+    "妈妈"
+   ],
+   "answer": 1,
+   "explain": "mother 是妈妈。"
+  },
+  {
+   "id": "qv-01-2",
+   "topic": "ev-01",
+   "level": 1,
+   "stem": "This is my ___.（妈妈）",
+   "options": [
+    "father",
+    "brother",
+    "mother"
+   ],
+   "answer": 2,
+   "explain": "介绍家人用 This is my ..."
+  },
+  {
+   "id": "qv-02-1",
+   "topic": "ev-02",
+   "level": 1,
+   "stem": "「铅笔」的英文是",
+   "options": [
+    "pencil",
+    "pen",
+    "ruler"
+   ],
+   "answer": 0,
+   "explain": "pen 是钢笔，ruler 是尺子。"
+  },
+  {
+   "id": "qv-02-2",
+   "topic": "ev-02",
+   "level": 1,
+   "stem": "「教室」的英文是",
+   "options": [
+    "book",
+    "classroom",
+    "desk"
+   ],
+   "answer": 1,
+   "explain": "class + room。"
+  },
+  {
+   "id": "qv-03-1",
+   "topic": "ev-03",
+   "level": 1,
+   "stem": "「蓝色」的英文是",
+   "options": [
+    "black",
+    "brown",
+    "blue"
+   ],
+   "answer": 2,
+   "explain": "black 黑，brown 棕。"
+  },
+  {
+   "id": "qv-03-2",
+   "topic": "ev-03",
+   "level": 1,
+   "stem": "「红色」的英文是",
+   "options": [
+    "red",
+    "green",
+    "yellow"
+   ],
+   "answer": 0,
+   "explain": "green 绿，yellow 黄。"
+  },
+  {
+   "id": "qv-04-1",
+   "topic": "ev-04",
+   "level": 1,
+   "stem": "「牛奶」的英文是",
+   "options": [
+    "bread",
+    "milk",
+    "rice"
+   ],
+   "answer": 1,
+   "explain": "rice 米饭，bread 面包。"
+  },
+  {
+   "id": "qv-04-2",
+   "topic": "ev-04",
+   "level": 1,
+   "stem": "「面包」的英文是",
+   "options": [
+    "egg",
+    "juice",
+    "bread"
+   ],
+   "answer": 2,
+   "explain": "egg 蛋，juice 果汁。"
+  },
+  {
+   "id": "qv-05-1",
+   "topic": "ev-05",
+   "level": 1,
+   "stem": "「熊猫」的英文是",
+   "options": [
+    "panda",
+    "tiger",
+    "monkey"
+   ],
+   "answer": 0,
+   "explain": "tiger 老虎，monkey 猴子。"
+  },
+  {
+   "id": "qv-05-2",
+   "topic": "ev-05",
+   "level": 1,
+   "stem": "「鸟」的英文是",
+   "options": [
+    "dog",
+    "bird",
+    "fish"
+   ],
+   "answer": 1,
+   "explain": "fish 鱼，dog 狗。"
+  },
+  {
+   "id": "qv-06-1",
+   "topic": "ev-06",
+   "level": 1,
+   "stem": "「手」的英文是",
+   "options": [
+    "head",
+    "eye",
+    "hand"
+   ],
+   "answer": 2,
+   "explain": "head 头，eye 眼睛。"
+  },
+  {
+   "id": "qv-06-2",
+   "topic": "ev-06",
+   "level": 1,
+   "stem": "「鞋」的英文是",
+   "options": [
+    "shoes",
+    "shirt",
+    "coat"
+   ],
+   "answer": 0,
+   "explain": "shirt 衬衫，coat 外套。"
+  },
+  {
+   "id": "qv-07-1",
+   "topic": "ev-07",
+   "level": 1,
+   "stem": "「下雨的」的英文是",
+   "options": [
+    "windy",
+    "rainy",
+    "sunny"
+   ],
+   "answer": 1,
+   "explain": "sunny 晴朗，windy 有风。"
+  },
+  {
+   "id": "qv-07-2",
+   "topic": "ev-07",
+   "level": 1,
+   "stem": "「多云的」的英文是",
+   "options": [
+    "snowy",
+    "hot",
+    "cloudy"
+   ],
+   "answer": 2,
+   "explain": "snowy 下雪，hot 热。"
+  },
+  {
+   "id": "qv-08-1",
+   "topic": "ev-08",
+   "level": 1,
+   "stem": "「起床」的英文是",
+   "options": [
+    "get up",
+    "go to bed",
+    "have lunch"
+   ],
+   "answer": 0,
+   "explain": "go to bed 是睡觉。"
+  },
+  {
+   "id": "qv-08-2",
+   "topic": "ev-08",
+   "level": 1,
+   "stem": "「做作业」的英文是",
+   "options": [
+    "get up",
+    "do homework",
+    "have lunch"
+   ],
+   "answer": 1,
+   "explain": "have lunch 吃午饭。"
+  },
+  {
+   "id": "qv-09-1",
+   "topic": "ev-09",
+   "level": 1,
+   "stem": "「游泳」的英文是",
+   "options": [
+    "sing",
+    "draw",
+    "swim"
+   ],
+   "answer": 2,
+   "explain": "sing 唱歌，draw 画画。"
+  },
+  {
+   "id": "qv-09-2",
+   "topic": "ev-09",
+   "level": 1,
+   "stem": "「踢足球」的英文是",
+   "options": [
+    "play football",
+    "play basketball",
+    "dance"
+   ],
+   "answer": 0,
+   "explain": "注意搭配 play + 球类。"
+  },
+  {
+   "id": "qv-10-1",
+   "topic": "ev-10",
+   "level": 1,
+   "stem": "「医生」的英文是",
+   "options": [
+    "farmer",
+    "doctor",
+    "driver"
+   ],
+   "answer": 1,
+   "explain": "driver 司机，farmer 农民。"
+  },
+  {
+   "id": "qv-10-2",
+   "topic": "ev-10",
+   "level": 2,
+   "stem": "— What does he do? — He is a ___.（老师）",
+   "options": [
+    "teach",
+    "teaching",
+    "teacher"
+   ],
+   "answer": 2,
+   "explain": "问职业，答名词。"
+  },
+  {
+   "id": "qv-11-1",
+   "topic": "ev-11",
+   "level": 1,
+   "stem": "「骑自行车去」的英文是",
+   "options": [
+    "by bike",
+    "by bus",
+    "on foot"
+   ],
+   "answer": 0,
+   "explain": "by + 交通工具。"
+  },
+  {
+   "id": "qv-11-2",
+   "topic": "ev-11",
+   "level": 1,
+   "stem": "「步行」的英文是",
+   "options": [
+    "by bus",
+    "on foot",
+    "by car"
+   ],
+   "answer": 1,
+   "explain": "固定搭配 on foot。"
+  },
+  {
+   "id": "qv-12-1",
+   "topic": "ev-12",
+   "level": 1,
+   "stem": "「春节」的英文是",
+   "options": [
+    "Christmas",
+    "birthday",
+    "Spring Festival"
+   ],
+   "answer": 2,
+   "explain": "Christmas 圣诞节。"
+  },
+  {
+   "id": "qv-12-2",
+   "topic": "ev-12",
+   "level": 1,
+   "stem": "「生日」的英文是",
+   "options": [
+    "birthday",
+    "party",
+    "present"
+   ],
+   "answer": 0,
+   "explain": "party 聚会，present 礼物。"
+  },
+  {
+   "id": "qv-13-1",
+   "topic": "ev-13",
+   "level": 2,
+   "stem": "「戴眼镜」的英文是",
+   "options": [
+    "have long hair",
+    "wear glasses",
+    "wear a hat"
+   ],
+   "answer": 1,
+   "explain": "wear + 饰品。"
+  },
+  {
+   "id": "qv-13-2",
+   "topic": "ev-13",
+   "level": 2,
+   "stem": "「卷发」的英文是",
+   "options": [
+    "straight hair",
+    "short hair",
+    "curly hair"
+   ],
+   "answer": 2,
+   "explain": "straight 直发。"
+  },
+  {
+   "id": "qv-14-1",
+   "topic": "ev-14",
+   "level": 2,
+   "stem": "「外向的」的英文是",
+   "options": [
+    "outgoing",
+    "quiet",
+    "shy"
+   ],
+   "answer": 0,
+   "explain": "quiet 安静，shy 害羞。"
+  },
+  {
+   "id": "qv-14-2",
+   "topic": "ev-14",
+   "level": 2,
+   "stem": "「勤奋的」的英文是",
+   "options": [
+    "friendly",
+    "hard-working",
+    "funny"
+   ],
+   "answer": 1,
+   "explain": "funny 有趣，friendly 友好。"
+  },
+  {
+   "id": "qv-15-1",
+   "topic": "ev-15",
+   "level": 2,
+   "stem": "「科目」的英文是",
+   "options": [
+    "exam",
+    "homework",
+    "subject"
+   ],
+   "answer": 2,
+   "explain": "exam 考试，homework 作业。"
+  },
+  {
+   "id": "qv-15-2",
+   "topic": "ev-15",
+   "level": 2,
+   "stem": "「历史」的英文是",
+   "options": [
+    "history",
+    "science",
+    "math"
+   ],
+   "answer": 0,
+   "explain": "science 科学，math 数学。"
+  },
+  {
+   "id": "qv-16-1",
+   "topic": "ev-16",
+   "level": 2,
+   "stem": "表示「几乎不」的频率副词是",
+   "options": [
+    "usually",
+    "hardly ever",
+    "always"
+   ],
+   "answer": 1,
+   "explain": "always 总是，usually 通常。"
+  },
+  {
+   "id": "qv-16-2",
+   "topic": "ev-16",
+   "level": 2,
+   "stem": "表示「从不」的频率副词是",
+   "options": [
+    "often",
+    "sometimes",
+    "never"
+   ],
+   "answer": 2,
+   "explain": "often 经常，sometimes 有时。"
+  },
+  {
+   "id": "qv-17-1",
+   "topic": "ev-17",
+   "level": 2,
+   "stem": "「垃圾食品」的英文是",
+   "options": [
+    "junk food",
+    "vegetable",
+    "fruit"
+   ],
+   "answer": 0,
+   "explain": "junk food 指高糖高油食品。"
+  },
+  {
+   "id": "qv-17-2",
+   "topic": "ev-17",
+   "level": 2,
+   "stem": "给他提建议，用",
+   "options": [
+    "can to",
+    "should",
+    "must to"
+   ],
+   "answer": 1,
+   "explain": "情态动词后不接 to。"
+  },
+  {
+   "id": "qv-18-1",
+   "topic": "ev-18",
+   "level": 2,
+   "stem": "「便宜的」的英文是",
+   "options": [
+    "expensive",
+    "price",
+    "cheap"
+   ],
+   "answer": 2,
+   "explain": "expensive 昂贵，price 价格。"
+  },
+  {
+   "id": "qv-18-2",
+   "topic": "ev-18",
+   "level": 2,
+   "stem": "询问价格用",
+   "options": [
+    "How much",
+    "How many",
+    "How long"
+   ],
+   "answer": 0,
+   "explain": "how many 问数量，how long 问时长。"
+  },
+  {
+   "id": "qv-19-1",
+   "topic": "ev-19",
+   "level": 2,
+   "stem": "「地铁」的英文是",
+   "options": [
+    "journey",
+    "subway",
+    "flight"
+   ],
+   "answer": 1,
+   "explain": "flight 航班，journey 旅程。"
+  },
+  {
+   "id": "qv-19-2",
+   "topic": "ev-19",
+   "level": 2,
+   "stem": "「订票」的英文是",
+   "options": [
+    "take a train",
+    "by plane",
+    "book a ticket"
+   ],
+   "answer": 2,
+   "explain": "book 作动词表预订。"
+  },
+  {
+   "id": "qv-20-1",
+   "topic": "ev-20",
+   "level": 2,
+   "stem": "「污染」的英文是",
+   "options": [
+    "pollution",
+    "climate",
+    "environment"
+   ],
+   "answer": 0,
+   "explain": "climate 气候，environment 环境。"
+  },
+  {
+   "id": "qv-20-2",
+   "topic": "ev-20",
+   "level": 2,
+   "stem": "「回收利用」的英文是",
+   "options": [
+    "waste",
+    "recycle",
+    "save"
+   ],
+   "answer": 1,
+   "explain": "waste 浪费。"
+  },
+  {
+   "id": "qv-21-1",
+   "topic": "ev-21",
+   "level": 2,
+   "stem": "「应用程序」的英文是",
+   "options": [
+    "website",
+    "Internet",
+    "app"
+   ],
+   "answer": 2,
+   "explain": "website 网站，Internet 互联网。"
+  },
+  {
+   "id": "qv-21-2",
+   "topic": "ev-21",
+   "level": 2,
+   "stem": "「下载」的英文是",
+   "options": [
+    "download",
+    "open",
+    "click"
+   ],
+   "answer": 0,
+   "explain": "open 打开，click 点击。"
+  },
+  {
+   "id": "qv-22-1",
+   "topic": "ev-22",
+   "level": 2,
+   "stem": "「志愿者」的英文是",
+   "options": [
+    "community",
+    "volunteer",
+    "charity"
+   ],
+   "answer": 1,
+   "explain": "charity 慈善，community 社区。"
+  },
+  {
+   "id": "qv-22-2",
+   "topic": "ev-22",
+   "level": 2,
+   "stem": "「捐款」的英文是",
+   "options": [
+    "help",
+    "celebrate",
+    "donate"
+   ],
+   "answer": 2,
+   "explain": "help 帮助，celebrate 庆祝。"
+  },
+  {
+   "id": "qv-23-1",
+   "topic": "ev-23",
+   "level": 2,
+   "stem": "「紧张的」的英文是",
+   "options": [
+    "nervous",
+    "confident",
+    "proud"
+   ],
+   "answer": 0,
+   "explain": "confident 自信，proud 自豪。"
+  },
+  {
+   "id": "qv-23-2",
+   "topic": "ev-23",
+   "level": 2,
+   "stem": "「自信的」的英文是",
+   "options": [
+    "worried",
+    "confident",
+    "nervous"
+   ],
+   "answer": 1,
+   "explain": "worried 担心。"
+  },
+  {
+   "id": "qv-24-1",
+   "topic": "ev-24",
+   "level": 2,
+   "stem": "「庆祝」的英文是",
+   "options": [
+    "donate",
+    "recycle",
+    "celebrate"
+   ],
+   "answer": 2,
+   "explain": "donate 捐赠，recycle 回收。"
+  },
+  {
+   "id": "qv-24-2",
+   "topic": "ev-24",
+   "level": 2,
+   "stem": "「问候语」的英文是",
+   "options": [
+    "greeting",
+    "custom",
+    "tradition"
+   ],
+   "answer": 0,
+   "explain": "custom 习俗，tradition 传统。"
+  },
+  {
+   "id": "qv-25-1",
+   "topic": "ev-25",
+   "level": 2,
+   "stem": "做听力前最该先做的事是",
+   "options": [
+    "先看答案",
+    "读题预测",
+    "逐词翻译"
+   ],
+   "answer": 1,
+   "explain": "带着预期去听效率更高。"
+  },
+  {
+   "id": "qv-25-2",
+   "topic": "ev-25",
+   "level": 2,
+   "stem": "遇到没听清的词，正确做法是",
+   "options": [
+    "停下来反复回想",
+    "整段重听",
+    "跳过，抓后面的关键词"
+   ],
+   "answer": 2,
+   "explain": "不要因一个词丢失整段。"
+  },
+  {
+   "id": "qv-26-1",
+   "topic": "ev-26",
+   "level": 2,
+   "stem": "数字 15 读作",
+   "options": [
+    "fifteen",
+    "fifty",
+    "fiveteen"
+   ],
+   "answer": 0,
+   "explain": "-teen 是十几，-ty 是几十。"
+  },
+  {
+   "id": "qv-26-2",
+   "topic": "ev-26",
+   "level": 2,
+   "stem": "8:45 可以说",
+   "options": [
+    "half past eight",
+    "a quarter to nine",
+    "a quarter past eight"
+   ],
+   "answer": 1,
+   "explain": "to 表示差几分到。"
+  },
+  {
+   "id": "qv-27-1",
+   "topic": "ev-27",
+   "level": 2,
+   "stem": "文章主旨常出现在",
+   "options": [
+    "中间段落",
+    "生词旁",
+    "首段和末段"
+   ],
+   "answer": 2,
+   "explain": "总分总结构最常见。"
+  },
+  {
+   "id": "qv-27-2",
+   "topic": "ev-27",
+   "level": 2,
+   "stem": "主旨题问的是",
+   "options": [
+    "文章主要讲什么",
+    "某个词的意思",
+    "作者的年龄"
+   ],
+   "answer": 0,
+   "explain": "主旨≠细节。"
+  },
+  {
+   "id": "qv-28-1",
+   "topic": "ev-28",
+   "level": 2,
+   "stem": "猜测生词含义，最有效的是",
+   "options": [
+    "跳过整篇文章",
+    "用定义、举例和上下文线索",
+    "立刻查词典"
+   ],
+   "answer": 1,
+   "explain": "考试中无法查词。"
+  },
+  {
+   "id": "qv-28-2",
+   "topic": "ev-28",
+   "level": 2,
+   "stem": "看到生词应先",
+   "options": [
+    "放弃这句",
+    "逐字翻译",
+    "找上下文线索"
+   ],
+   "answer": 2,
+   "explain": "语境决定词义。"
+  },
+  {
+   "id": "qv-29-1",
+   "topic": "ev-29",
+   "level": 3,
+   "stem": "判断作者态度，主要看",
+   "options": [
+    "措辞与评价性词语",
+    "文章长度",
+    "生词数量"
+   ],
+   "answer": 0,
+   "explain": "形容词和副词透露态度。"
+  },
+  {
+   "id": "qv-29-2",
+   "topic": "ev-29",
+   "level": 3,
+   "stem": "推理题的正确答案应该",
+   "options": [
+    "选最长的选项",
+    "能由原文推出",
+    "凭常识判断"
+   ],
+   "answer": 1,
+   "explain": "推理要有文本依据。"
+  },
+  {
+   "id": "qv-30-1",
+   "topic": "ev-30",
+   "level": 3,
+   "stem": "段落衔接中，表示转折的连接词是",
+   "options": [
+    "first",
+    "then",
+    "however"
+   ],
+   "answer": 2,
+   "explain": "first/then 表顺序。"
+  },
+  {
+   "id": "qv-30-2",
+   "topic": "ev-30",
+   "level": 3,
+   "stem": "写段落时表示顺序，常用",
+   "options": [
+    "first",
+    "in short",
+    "however"
+   ],
+   "answer": 0,
+   "explain": "in short 表总结。"
+  },
+  {
+   "id": "qw-01-1",
+   "topic": "ew-01",
+   "level": 2,
+   "stem": "写书面表达，第一步应该",
+   "options": [
+    "先凑够字数",
+    "审题并列出要点",
+    "先写开头句"
+   ],
+   "answer": 1,
+   "explain": "要点决定得分骨架。"
+  },
+  {
+   "id": "qw-01-2",
+   "topic": "ew-01",
+   "level": 2,
+   "stem": "漏掉题目要求的要点，后果是",
+   "options": [
+    "没有影响",
+    "反而加分",
+    "直接扣分"
+   ],
+   "answer": 2,
+   "explain": "要点分是硬指标。"
+  },
+  {
+   "id": "qw-02-1",
+   "topic": "ew-02",
+   "level": 1,
+   "stem": "英文书信的称呼通常用",
+   "options": [
+    "Dear ...",
+    "Hello ...",
+    "Hi, sir"
+   ],
+   "answer": 0,
+   "explain": "Dear + 姓名/称谓。"
+  },
+  {
+   "id": "qw-02-2",
+   "topic": "ew-02",
+   "level": 1,
+   "stem": "英文书信结尾常用",
+   "options": [
+    "Thanks you",
+    "Yours,",
+    "Bye"
+   ],
+   "answer": 1,
+   "explain": "Yours/Best wishes 后署名。"
+  },
+  {
+   "id": "qw-03-1",
+   "topic": "ew-03",
+   "level": 2,
+   "stem": "英文通知的标题常用",
+   "options": [
+    "Dear",
+    "Yours",
+    "Notice"
+   ],
+   "answer": 2,
+   "explain": "标题居中写 Notice。"
+  },
+  {
+   "id": "qw-03-2",
+   "topic": "ew-03",
+   "level": 2,
+   "stem": "说明活动将举办，常用",
+   "options": [
+    "will be held",
+    "hold",
+    "holding"
+   ],
+   "answer": 0,
+   "explain": "被动语态更正式。"
+  },
+  {
+   "id": "qw-04-1",
+   "topic": "ew-04",
+   "level": 1,
+   "stem": "写日记记录昨天的事，时态用",
+   "options": [
+    "一般将来时",
+    "一般过去时",
+    "一般现在时"
+   ],
+   "answer": 1,
+   "explain": "已发生的事用过去时。"
+  },
+  {
+   "id": "qw-04-2",
+   "topic": "ew-04",
+   "level": 2,
+   "stem": "记叙文一般应交代的要素不包括",
+   "options": [
+    "时间地点",
+    "人物事件",
+    "作者收入"
+   ],
+   "answer": 2,
+   "explain": "五要素是 who/when/where/what/how。"
+  },
+  {
+   "id": "qw-05-1",
+   "topic": "ew-05",
+   "level": 2,
+   "stem": "介绍一个地方，最常用的句型是",
+   "options": [
+    "there be 句型",
+    "虚拟语气",
+    "倒装句"
+   ],
+   "answer": 0,
+   "explain": "表存在最直接。"
+  },
+  {
+   "id": "qw-05-2",
+   "topic": "ew-05",
+   "level": 2,
+   "stem": "介绍地点通常不需要写",
+   "options": [
+    "特色",
+    "个人收入",
+    "位置"
+   ],
+   "answer": 1,
+   "explain": "位置、历史、特色、活动四要素。"
+  },
+  {
+   "id": "qw-06-1",
+   "topic": "ew-06",
+   "level": 2,
+   "stem": "议论文第一段应该",
+   "options": [
+    "先写结尾",
+    "只举反例",
+    "亮明观点"
+   ],
+   "answer": 2,
+   "explain": "开门见山。"
+  },
+  {
+   "id": "qw-06-2",
+   "topic": "ew-06",
+   "level": 2,
+   "stem": "表示「此外、而且」用",
+   "options": [
+    "What's more",
+    "In short",
+    "However"
+   ],
+   "answer": 0,
+   "explain": "In short 表总结，However 表转折。"
+  },
+  {
+   "id": "qw-07-1",
+   "topic": "ew-07",
+   "level": 3,
+   "stem": "描述数据「上升」用",
+   "options": [
+    "remain",
+    "increase",
+    "decrease"
+   ],
+   "answer": 1,
+   "explain": "decrease 下降，remain 持平。"
+  },
+  {
+   "id": "qw-07-2",
+   "topic": "ew-07",
+   "level": 3,
+   "stem": "表示「百分比」的词是",
+   "options": [
+    "number",
+    "times",
+    "percent"
+   ],
+   "answer": 2,
+   "explain": "60 percent 表示 60%。"
+  },
+  {
+   "id": "qw-08-1",
+   "topic": "ew-08",
+   "level": 2,
+   "stem": "段落的主题句一般放在",
+   "options": [
+    "段首",
+    "段中",
+    "段末"
+   ],
+   "answer": 0,
+   "explain": "先总后分最清晰。"
+  },
+  {
+   "id": "qw-08-2",
+   "topic": "ew-08",
+   "level": 2,
+   "stem": "一个段落应围绕几个中心",
+   "options": [
+    "越多越好",
+    "一个",
+    "三个"
+   ],
+   "answer": 1,
+   "explain": "一段一中心。"
+  },
+  {
+   "id": "qw-09-1",
+   "topic": "ew-09",
+   "level": 2,
+   "stem": "下列连接词中，用来表示转折关系的是",
+   "options": [
+    "therefore",
+    "first",
+    "however"
+   ],
+   "answer": 2,
+   "explain": "therefore 表因果。"
+  },
+  {
+   "id": "qw-09-2",
+   "topic": "ew-09",
+   "level": 2,
+   "stem": "表示因果的连接词是",
+   "options": [
+    "therefore",
+    "however",
+    "besides"
+   ],
+   "answer": 0,
+   "explain": "besides 表递进。"
+  },
+  {
+   "id": "qw-10-1",
+   "topic": "ew-10",
+   "level": 1,
+   "stem": "There ___ two books on the desk.",
+   "options": [
+    "be",
+    "are",
+    "is"
+   ],
+   "answer": 1,
+   "explain": "复数用 are。"
+  },
+  {
+   "id": "qw-10-2",
+   "topic": "ew-10",
+   "level": 2,
+   "stem": "It is important ___ us to learn English.",
+   "options": [
+    "of",
+    "to",
+    "for"
+   ],
+   "answer": 2,
+   "explain": "It is + adj. + for sb + to do。"
+  },
+  {
+   "id": "qw-11-1",
+   "topic": "ew-11",
+   "level": 3,
+   "stem": "Not only ___ he sing well, but also he dances well.",
+   "options": [
+    "does",
+    "do",
+    "is"
+   ],
+   "answer": 0,
+   "explain": "not only 置句首，前半句部分倒装。"
+  },
+  {
+   "id": "qw-11-2",
+   "topic": "ew-11",
+   "level": 2,
+   "stem": "He was ___ tired that he fell asleep at once.",
+   "options": [
+    "very",
+    "so",
+    "such"
+   ],
+   "answer": 1,
+   "explain": "so + adj. + that。"
+  },
+  {
+   "id": "qw-12-1",
+   "topic": "ew-12",
+   "level": 2,
+   "stem": "叙事类作文的主时态是",
+   "options": [
+    "一般现在时",
+    "现在完成时",
+    "一般过去时"
+   ],
+   "answer": 2,
+   "explain": "已发生的事用过去时。"
+  },
+  {
+   "id": "qw-12-2",
+   "topic": "ew-12",
+   "level": 2,
+   "stem": "全篇时态频繁切换会",
+   "options": [
+    "被扣分",
+    "加分",
+    "没有影响"
+   ],
+   "answer": 0,
+   "explain": "时态一致是评分项。"
+  },
+  {
+   "id": "qw-13-1",
+   "topic": "ew-13",
+   "level": 2,
+   "stem": "写完作文最该先检查",
+   "options": [
+    "字体好不好",
+    "主谓一致和名词单复数",
+    "字数够不够"
+   ],
+   "answer": 1,
+   "explain": "这是最常见的扣分点。"
+  },
+  {
+   "id": "qw-13-2",
+   "topic": "ew-13",
+   "level": 1,
+   "stem": "Three students ___ here now.",
+   "options": [
+    "is",
+    "was",
+    "are"
+   ],
+   "answer": 2,
+   "explain": "复数主语用 are。"
+  },
+  {
+   "id": "qw-14-1",
+   "topic": "ew-14",
+   "level": 1,
+   "stem": "句子第一个字母必须",
+   "options": [
+    "大写",
+    "小写",
+    "随意"
+   ],
+   "answer": 0,
+   "explain": "基本书写规范。"
+  },
+  {
+   "id": "qw-14-2",
+   "topic": "ew-14",
+   "level": 1,
+   "stem": "英语中的「我」在句中写作",
+   "options": [
+    "me",
+    "I",
+    "i"
+   ],
+   "answer": 1,
+   "explain": "永远大写。"
+  },
+  {
+   "id": "qw-15-1",
+   "topic": "ew-15",
+   "level": 2,
+   "stem": "要求 80 词左右，合理范围是",
+   "options": [
+    "越少越好",
+    "越多越好",
+    "约 72—88 词"
+   ],
+   "answer": 2,
+   "explain": "上下浮动 10% 较稳妥。"
+  },
+  {
+   "id": "qw-15-2",
+   "topic": "ew-15",
+   "level": 2,
+   "stem": "初中英语作文通常分",
+   "options": [
+    "3 段左右",
+    "1 段",
+    "越多越好"
+   ],
+   "answer": 0,
+   "explain": "开头、主体、结尾。"
+  },
+  {
+   "id": "qw-16-1",
+   "topic": "ew-16",
+   "level": 3,
+   "stem": "「我非常喜欢它」的正确表达是",
+   "options": [
+    "I like very it",
+    "I like it very much",
+    "I very like it"
+   ],
+   "answer": 1,
+   "explain": "very much 放句末。"
+  },
+  {
+   "id": "qw-16-2",
+   "topic": "ew-16",
+   "level": 3,
+   "stem": "「开灯」的正确表达是",
+   "options": [
+    "open the light",
+    "open light",
+    "turn on the light"
+   ],
+   "answer": 2,
+   "explain": "light 用 turn on/off。"
+  },
+  {
+   "id": "q5-e3-03",
+   "topic": "e3-03",
+   "level": 3,
+   "stem": "bus 的复数形式是",
+   "options": [
+    "buses",
+    "buss",
+    "busies"
+   ],
+   "answer": 0,
+   "explain": "以 s 结尾加 -es。"
+  },
+  {
+   "id": "q5-e3-04",
+   "topic": "e3-04",
+   "level": 3,
+   "stem": "___ hour",
+   "options": [
+    "/",
+    "an",
+    "a"
+   ],
+   "answer": 1,
+   "explain": "hour 首音是元音音素。"
+  },
+  {
+   "id": "q5-e5-02",
+   "topic": "e5-02",
+   "level": 3,
+   "stem": "watch 的第三人称单数形式是",
+   "options": [
+    "watchs",
+    "watching",
+    "watches"
+   ],
+   "answer": 2,
+   "explain": "以 ch 结尾加 -es。"
+  },
+  {
+   "id": "q5-e5-04",
+   "topic": "e5-04",
+   "level": 3,
+   "stem": "run 的现在分词是",
+   "options": [
+    "running",
+    "runing",
+    "runs"
+   ],
+   "answer": 0,
+   "explain": "双写末尾辅音字母。"
+  },
+  {
+   "id": "q5-e5-05",
+   "topic": "e5-05",
+   "level": 3,
+   "stem": "There ___ some milk in the glass.",
+   "options": [
+    "be",
+    "is",
+    "are"
+   ],
+   "answer": 1,
+   "explain": "milk 不可数用 is。"
+  },
+  {
+   "id": "q5-e6-01",
+   "topic": "e6-01",
+   "level": 3,
+   "stem": "study 的过去式是",
+   "options": [
+    "studyed",
+    "studies",
+    "studied"
+   ],
+   "answer": 2,
+   "explain": "辅音+y 变 i 加 -ed。"
+  },
+  {
+   "id": "q5-e6-03",
+   "topic": "e6-03",
+   "level": 3,
+   "stem": "big 的比较级是",
+   "options": [
+    "bigger",
+    "biger",
+    "more big"
+   ],
+   "answer": 0,
+   "explain": "双写 g 加 -er。"
+  },
+  {
+   "id": "q5-ej-13",
+   "topic": "ej-13",
+   "level": 3,
+   "stem": "good 的最高级是",
+   "options": [
+    "most good",
+    "best",
+    "goodest"
+   ],
+   "answer": 1,
+   "explain": "不规则变化。"
+  },
+  {
+   "id": "q5-ej-23",
+   "topic": "ej-23",
+   "level": 3,
+   "stem": "He ___ coffee.",
+   "options": [
+    "don't like",
+    "not likes",
+    "doesn't like"
+   ],
+   "answer": 2,
+   "explain": "三单否定用 doesn't。"
+  },
+  {
+   "id": "q5-ej-25",
+   "topic": "ej-25",
+   "level": 3,
+   "stem": "They ___ at home yesterday.",
+   "options": [
+    "were",
+    "was",
+    "are"
+   ],
+   "answer": 0,
+   "explain": "复数用 were。"
+  },
+  {
+   "id": "q5-ej-26",
+   "topic": "ej-26",
+   "level": 3,
+   "stem": "will 后面接",
+   "options": [
+    "doing",
+    "动词原形",
+    "to do"
+   ],
+   "answer": 1,
+   "explain": "情态助动词后接原形。"
+  },
+  {
+   "id": "q5-ej-27",
+   "topic": "ej-27",
+   "level": 3,
+   "stem": "since 常与哪种时态连用",
+   "options": [
+    "一般过去时",
+    "一般将来时",
+    "现在完成时"
+   ],
+   "answer": 2,
+   "explain": "since + 时间点。"
+  },
+  {
+   "id": "q5-ej-30",
+   "topic": "ej-30",
+   "level": 3,
+   "stem": "The letter ___ yesterday.",
+   "options": [
+    "was sent",
+    "sent",
+    "is sent"
+   ],
+   "answer": 0,
+   "explain": "过去被动。"
+  },
+  {
+   "id": "q5-ej-33",
+   "topic": "ej-33",
+   "level": 3,
+   "stem": "Reading 作主语时，谓语动词用",
+   "options": [
+    "任意形式",
+    "单数",
+    "复数"
+   ],
+   "answer": 1,
+   "explain": "动名词作主语视为单数。"
+  },
+  {
+   "id": "q5-ej-34",
+   "topic": "ej-34",
+   "level": 3,
+   "stem": "She hopes ___ the exam.",
+   "options": [
+    "passing",
+    "pass",
+    "to pass"
+   ],
+   "answer": 2,
+   "explain": "hope to do。"
+  },
+  {
+   "id": "q5-ej-37",
+   "topic": "ej-37",
+   "level": 3,
+   "stem": "mind 后面接",
+   "options": [
+    "doing",
+    "to do",
+    "动词原形"
+   ],
+   "answer": 0,
+   "explain": "mind doing sth。"
+  },
+  {
+   "id": "q5-ej-40",
+   "topic": "ej-40",
+   "level": 3,
+   "stem": "___ he a teacher?",
+   "options": [
+    "Do",
+    "Is",
+    "Does"
+   ],
+   "answer": 1,
+   "explain": "be 动词提前。"
+  },
+  {
+   "id": "q5-ej-41",
+   "topic": "ej-41",
+   "level": 3,
+   "stem": "___ did you go last Sunday?",
+   "options": [
+    "What",
+    "How",
+    "Where"
+   ],
+   "answer": 2,
+   "explain": "问地点。"
+  },
+  {
+   "id": "q5-ej-45",
+   "topic": "ej-45",
+   "level": 3,
+   "stem": "Could you tell me ___?",
+   "options": [
+    "where he lives",
+    "where does he live",
+    "where he live"
+   ],
+   "answer": 0,
+   "explain": "宾语从句用陈述语序。"
+  },
+  {
+   "id": "q5-ej-46",
+   "topic": "ej-46",
+   "level": 3,
+   "stem": "The girl ___ hair is long is my sister.",
+   "options": [
+    "which",
+    "whose",
+    "who"
+   ],
+   "answer": 1,
+   "explain": "表所属用 whose。"
+  },
+  {
+   "id": "ql-01-1",
+   "topic": "el-01",
+   "level": 1,
+   "stem": "做「听句子选图」题，第一步应",
+   "options": [
+    "先背单词",
+    "直接写答案",
+    "先看图片预测内容"
+   ],
+   "answer": 2,
+   "explain": "带着预期听更准。"
+  },
+  {
+   "id": "ql-01-2",
+   "topic": "el-01",
+   "level": 1,
+   "stem": "看图时重点关注",
+   "options": [
+    "人物动作与场景",
+    "图片颜色",
+    "图片大小"
+   ],
+   "answer": 0,
+   "explain": "动作场景是考点。"
+  },
+  {
+   "id": "ql-02-1",
+   "topic": "el-02",
+   "level": 2,
+   "stem": "听对话选答案，常考",
+   "options": [
+    "语法术语",
+    "时间、地点、人物关系",
+    "单词拼写规则"
+   ],
+   "answer": 1,
+   "explain": "以信息为主。"
+  },
+  {
+   "id": "ql-02-2",
+   "topic": "el-02",
+   "level": 2,
+   "stem": "某句没听清时，应该",
+   "options": [
+    "放弃整段",
+    "逐词翻译",
+    "根据题干抓后面的关键词"
+   ],
+   "answer": 2,
+   "explain": "抓关键信息。"
+  },
+  {
+   "id": "ql-03-1",
+   "topic": "el-03",
+   "level": 2,
+   "stem": "听短文填空要注意",
+   "options": [
+    "单词拼写与大小写",
+    "只写中文",
+    "写长句"
+   ],
+   "answer": 0,
+   "explain": "填词题对拼写要求高。"
+  },
+  {
+   "id": "ql-03-2",
+   "topic": "el-03",
+   "level": 2,
+   "stem": "短文填空前最好",
+   "options": [
+    "只看选项",
+    "预读空格前后的词，判断词性",
+    "先写答案"
+   ],
+   "answer": 1,
+   "explain": "预测降低难度。"
+  },
+  {
+   "id": "ql-04-1",
+   "topic": "el-04",
+   "level": 2,
+   "stem": "$4.50 读作",
+   "options": [
+    "four point fifty dollars",
+    "fourty-five dollars",
+    "four dollars fifty"
+   ],
+   "answer": 2,
+   "explain": "价格读法。"
+  },
+  {
+   "id": "ql-04-2",
+   "topic": "el-04",
+   "level": 2,
+   "stem": "区分 15 与 50 主要靠",
+   "options": [
+    "-teen 与 -ty 的重音和元音",
+    "首字母",
+    "拼写长度"
+   ],
+   "answer": 0,
+   "explain": "fifTEEN / FIFty。"
+  },
+  {
+   "id": "ql-05-1",
+   "topic": "el-05",
+   "level": 1,
+   "stem": "Wednesday 是",
+   "options": [
+    "星期四",
+    "星期三",
+    "星期二"
+   ],
+   "answer": 1,
+   "explain": "周一 Monday 起算。"
+  },
+  {
+   "id": "ql-05-2",
+   "topic": "el-05",
+   "level": 1,
+   "stem": "the day after tomorrow 指",
+   "options": [
+    "昨天",
+    "明天",
+    "后天"
+   ],
+   "answer": 2,
+   "explain": "after tomorrow 即后天。"
+  },
+  {
+   "id": "ql-06-1",
+   "topic": "el-06",
+   "level": 2,
+   "stem": "连读常出现在",
+   "options": [
+    "前词以辅音结尾、后词以元音开头时",
+    "两个元音之间",
+    "句末"
+   ],
+   "answer": 0,
+   "explain": "辅元相连。"
+  },
+  {
+   "id": "ql-06-2",
+   "topic": "el-06",
+   "level": 2,
+   "stem": "an apple 常连读为",
+   "options": [
+    "/eɪn eɪpl/",
+    "/ənæpl/",
+    "/æn æpl/"
+   ],
+   "answer": 1,
+   "explain": "n 与 æ 连读。"
+  },
+  {
+   "id": "ql-07-1",
+   "topic": "el-07",
+   "level": 1,
+   "stem": "一般疑问句通常用",
+   "options": [
+    "降调",
+    "平调",
+    "升调"
+   ],
+   "answer": 2,
+   "explain": "Yes/No 问句升调。"
+  },
+  {
+   "id": "ql-07-2",
+   "topic": "el-07",
+   "level": 1,
+   "stem": "特殊疑问句通常用",
+   "options": [
+    "降调",
+    "升调",
+    "平调"
+   ],
+   "answer": 0,
+   "explain": "wh- 问句降调。"
+  },
+  {
+   "id": "ql-08-1",
+   "topic": "el-08",
+   "level": 1,
+   "stem": "自我介绍通常先",
+   "options": [
+    "先说再见",
+    "问候并说出姓名",
+    "直接讲爱好"
+   ],
+   "answer": 1,
+   "explain": "先打招呼。"
+  },
+  {
+   "id": "ql-08-2",
+   "topic": "el-08",
+   "level": 1,
+   "stem": "自我介绍应包含",
+   "options": [
+    "只写成绩",
+    "只写住址",
+    "姓名、年龄、爱好"
+   ],
+   "answer": 2,
+   "explain": "基本信息最实用。"
+  },
+  {
+   "id": "ql-09-1",
+   "topic": "el-09",
+   "level": 2,
+   "stem": "看图说话应先",
+   "options": [
+    "描述图中人物与动作",
+    "评价图片好坏",
+    "猜作者是谁"
+   ],
+   "answer": 0,
+   "explain": "先描述事实。"
+  },
+  {
+   "id": "ql-09-2",
+   "topic": "el-09",
+   "level": 2,
+   "stem": "说话时可用什么衔接",
+   "options": [
+    "重复同一句",
+    "first、then、finally",
+    "只用一个词"
+   ],
+   "answer": 1,
+   "explain": "顺序词让表达连贯。"
+  },
+  {
+   "id": "ql-10-1",
+   "topic": "el-10",
+   "level": 2,
+   "stem": "表达观点常用的开头是",
+   "options": [
+    "By the way",
+    "Never mind",
+    "In my opinion"
+   ],
+   "answer": 2,
+   "explain": "By the way 表顺便说。"
+  },
+  {
+   "id": "ql-10-2",
+   "topic": "el-10",
+   "level": 2,
+   "stem": "话题表达的结构是",
+   "options": [
+    "观点＋理由＋例子",
+    "只有结论",
+    "只讲故事"
+   ],
+   "answer": 0,
+   "explain": "有支撑才站得住。"
+  },
+  {
+   "id": "ql-11-1",
+   "topic": "el-11",
+   "level": 2,
+   "stem": "回答问路时，应给出",
+   "options": [
+    "只微笑",
+    "方向与距离",
+    "只说不知道"
+   ],
+   "answer": 1,
+   "explain": "功能句要完整。"
+  },
+  {
+   "id": "ql-11-2",
+   "topic": "el-11",
+   "level": 1,
+   "stem": "没听清时，礼貌的说法是",
+   "options": [
+    "Shut up",
+    "Goodbye",
+    "Pardon?"
+   ],
+   "answer": 2,
+   "explain": "请对方重复。"
+  },
+  {
+   "id": "ql-12-1",
+   "topic": "el-12",
+   "level": 2,
+   "stem": "朗读评分主要看",
+   "options": [
+    "语音语调与流利度",
+    "字数多少",
+    "字体好坏"
+   ],
+   "answer": 0,
+   "explain": "口语评分维度。"
+  },
+  {
+   "id": "ql-12-2",
+   "topic": "el-12",
+   "level": 2,
+   "stem": "提高流利度最有效的练习是",
+   "options": [
+    "只看不听",
+    "跟读模仿",
+    "逐字翻译"
+   ],
+   "answer": 1,
+   "explain": "模仿语音语调。"
+  },
+  {
+   "id": "qd-e3-03-1",
+   "topic": "e3-03",
+   "level": 2,
+   "stem": "watch 的复数形式是",
+   "options": [
+    "watches",
+    "watchs",
+    "watchies"
+   ],
+   "answer": 0,
+   "explain": "以 ch 结尾加 -es。"
+  },
+  {
+   "id": "qd-e3-03-2",
+   "topic": "e3-03",
+   "level": 2,
+   "stem": "baby 的复数形式是",
+   "options": [
+    "babyes",
+    "babies",
+    "babys"
+   ],
+   "answer": 1,
+   "explain": "辅音+y 变 i 加 -es。"
+  },
+  {
+   "id": "qd-e5-02-1",
+   "topic": "e5-02",
+   "level": 1,
+   "stem": "do 的第三人称单数形式是",
+   "options": [
+    "dos",
+    "doing",
+    "does"
+   ],
+   "answer": 2,
+   "explain": "以 o 结尾加 -es。"
+  },
+  {
+   "id": "qd-e5-02-2",
+   "topic": "e5-02",
+   "level": 1,
+   "stem": "have 的第三人称单数形式是",
+   "options": [
+    "has",
+    "haves",
+    "having"
+   ],
+   "answer": 0,
+   "explain": "不规则变化。"
+  },
+  {
+   "id": "qd-e5-04-1",
+   "topic": "e5-04",
+   "level": 2,
+   "stem": "swim 的现在分词是",
+   "options": [
+    "swims",
+    "swimming",
+    "swiming"
+   ],
+   "answer": 1,
+   "explain": "双写 m。"
+  },
+  {
+   "id": "qd-e5-04-2",
+   "topic": "e5-04",
+   "level": 2,
+   "stem": "write 的现在分词是",
+   "options": [
+    "writeing",
+    "writes",
+    "writing"
+   ],
+   "answer": 2,
+   "explain": "去 e 加 -ing。"
+  },
+  {
+   "id": "qd-e6-02-1",
+   "topic": "e6-02",
+   "level": 1,
+   "stem": "have 的过去式是",
+   "options": [
+    "had",
+    "haved",
+    "haves"
+   ],
+   "answer": 0,
+   "explain": "不规则变化。"
+  },
+  {
+   "id": "qd-e6-02-2",
+   "topic": "e6-02",
+   "level": 1,
+   "stem": "buy 的过去式是",
+   "options": [
+    "buys",
+    "bought",
+    "buyed"
+   ],
+   "answer": 1,
+   "explain": "不规则变化。"
+  },
+  {
+   "id": "qd-ej-13-1",
+   "topic": "ej-13",
+   "level": 2,
+   "stem": "bad 的比较级是",
+   "options": [
+    "badder",
+    "more bad",
+    "worse"
+   ],
+   "answer": 2,
+   "explain": "不规则变化。"
+  },
+  {
+   "id": "qd-ej-13-2",
+   "topic": "ej-13",
+   "level": 2,
+   "stem": "many 的比较级是",
+   "options": [
+    "more",
+    "manyer",
+    "most"
+   ],
+   "answer": 0,
+   "explain": "不规则变化。"
+  },
+  {
+   "id": "qd-ej-24-1",
+   "topic": "ej-24",
+   "level": 2,
+   "stem": "He ___ a letter now.（write）",
+   "options": [
+    "write",
+    "is writing",
+    "writes"
+   ],
+   "answer": 1,
+   "explain": "now 提示进行时。"
+  },
+  {
+   "id": "qd-ej-24-2",
+   "topic": "ej-24",
+   "level": 2,
+   "stem": "Look! They ___ on the playground.（run）",
+   "options": [
+    "run",
+    "runs",
+    "are running"
+   ],
+   "answer": 2,
+   "explain": "Look! 提示进行时。"
+  },
+  {
+   "id": "qd-ej-25-1",
+   "topic": "ej-25",
+   "level": 2,
+   "stem": "We ___ him yesterday.（see）",
+   "options": [
+    "saw",
+    "see",
+    "seen"
+   ],
+   "answer": 0,
+   "explain": "yesterday 用过去式。"
+  },
+  {
+   "id": "qd-ej-25-2",
+   "topic": "ej-25",
+   "level": 2,
+   "stem": "Did she ___ home?（go）",
+   "options": [
+    "goes",
+    "go",
+    "went"
+   ],
+   "answer": 1,
+   "explain": "did 后用原形。"
+  },
+  {
+   "id": "qd-ej-30-1",
+   "topic": "ej-30",
+   "level": 2,
+   "stem": "The room ___ every day.（clean）",
+   "options": [
+    "cleans",
+    "cleaned",
+    "is cleaned"
+   ],
+   "answer": 2,
+   "explain": "房间被打扫，用被动。"
+  },
+  {
+   "id": "qd-ej-30-2",
+   "topic": "ej-30",
+   "level": 2,
+   "stem": "English ___ in this school.（speak）",
+   "options": [
+    "is spoken",
+    "speaks",
+    "spoke"
+   ],
+   "answer": 0,
+   "explain": "语言被使用。"
+  },
+  {
+   "id": "qd-ej-41-1",
+   "topic": "ej-41",
+   "level": 2,
+   "stem": "___ is your birthday?",
+   "options": [
+    "Who",
+    "When",
+    "Where"
+   ],
+   "answer": 1,
+   "explain": "问时间用 when。"
+  },
+  {
+   "id": "qd-ej-41-2",
+   "topic": "ej-41",
+   "level": 2,
+   "stem": "___ do you like it?",
+   "options": [
+    "What",
+    "When",
+    "Why"
+   ],
+   "answer": 2,
+   "explain": "问原因用 why。"
+  },
+  {
+   "id": "qd-ej-45-1",
+   "topic": "ej-45",
+   "level": 3,
+   "stem": "I don't know if he ___ tomorrow.",
+   "options": [
+    "will come",
+    "comes",
+    "came"
+   ],
+   "answer": 0,
+   "explain": "此处 if 表「是否」，按将来处理。"
+  },
+  {
+   "id": "qd-ej-45-2",
+   "topic": "ej-45",
+   "level": 3,
+   "stem": "She asked me what I ___ doing.",
+   "options": [
+    "were",
+    "was",
+    "am"
+   ],
+   "answer": 1,
+   "explain": "主句过去，从句用过去时。"
+  },
+  {
+   "id": "qv3-ej-48-01",
+   "topic": "ej-48",
+   "level": 2,
+   "stem": "He got up early ___ he could catch the first bus.",
+   "options": [
+    "so that",
+    "although",
+    "unless",
+    "because"
+   ],
+   "answer": 0,
+   "explain": "so that 引导目的状语从句。"
+  },
+  {
+   "id": "qv3-ej-48-02",
+   "topic": "ej-48",
+   "level": 2,
+   "stem": "so that 引导的目的状语从句中，常含有",
+   "options": [
+    "will have",
+    "can / could 等情态动词",
+    "do / does",
+    "be 动词"
+   ],
+   "answer": 1,
+   "explain": "目的从句常用 can、could、may。"
+  },
+  {
+   "id": "qv3-ej-39-01",
+   "topic": "ej-39",
+   "level": 2,
+   "stem": "She gave me a book. 属于哪种基本句型",
+   "options": [
+    "主谓",
+    "主谓双宾",
+    "主系表",
+    "主谓宾补"
+   ],
+   "answer": 1,
+   "explain": "gave sb. sth. 是双宾语结构。"
+  },
+  {
+   "id": "qv3-e4-02-01",
+   "topic": "e4-02",
+   "level": 1,
+   "stem": "I ___ a student.",
+   "options": [
+    "be",
+    "am",
+    "is",
+    "are"
+   ],
+   "answer": 1,
+   "explain": "主语 I 用 am。"
+  },
+  {
+   "id": "qv3-e4-06-01",
+   "topic": "e4-06",
+   "level": 1,
+   "stem": "The cat is ___ the box.（猫在盒子里面）",
+   "options": [
+    "behind",
+    "on",
+    "in",
+    "under"
+   ],
+   "answer": 2,
+   "explain": "in 表示在内部。"
+  },
+  {
+   "id": "qv3-e5-01-01",
+   "topic": "e5-01",
+   "level": 1,
+   "stem": "He ___ to school every day.",
+   "options": [
+    "going",
+    "went",
+    "go",
+    "goes"
+   ],
+   "answer": 3,
+   "explain": "第三人称单数动词加 -es。"
+  },
+  {
+   "id": "qv3-e5-06-01",
+   "topic": "e5-06",
+   "level": 1,
+   "stem": "— ___ is your name?  — My name is Lily.",
+   "options": [
+    "What",
+    "When",
+    "Where",
+    "Who"
+   ],
+   "answer": 0,
+   "explain": "问名字用 what。"
+  },
+  {
+   "id": "qv3-e6-04-01",
+   "topic": "e6-04",
+   "level": 1,
+   "stem": "I ___ visit my grandma next Sunday.",
+   "options": [
+    "going to",
+    "am going to",
+    "is going to",
+    "are go to"
+   ],
+   "answer": 1,
+   "explain": "be going to 表示计划，主语 I 用 am。"
+  },
+  {
+   "id": "qv3-e6-06-01",
+   "topic": "e6-06",
+   "level": 1,
+   "stem": "I usually get up ___ 6:30.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "for"
+   ],
+   "answer": 2,
+   "explain": "具体时刻前用 at。"
+  },
+  {
+   "id": "qv3-e6-07-01",
+   "topic": "e6-07",
+   "level": 1,
+   "stem": "___ he like apples?",
+   "options": [
+    "Is",
+    "Are",
+    "Do",
+    "Does"
+   ],
+   "answer": 3,
+   "explain": "第三人称单数用 does，后接动词原形。"
+  },
+  {
+   "id": "qv3-e6-09-01",
+   "topic": "e6-09",
+   "level": 1,
+   "stem": "I like tea, ___ my sister likes coffee.",
+   "options": [
+    "but",
+    "or",
+    "so",
+    "and"
+   ],
+   "answer": 0,
+   "explain": "前后意思相对，用转折连词 but。"
+  },
+  {
+   "id": "qv3-ej-03-01",
+   "topic": "ej-03",
+   "level": 1,
+   "stem": "She plays ___ piano very well.",
+   "options": [
+    "an",
+    "the",
+    "不填",
+    "a"
+   ],
+   "answer": 1,
+   "explain": "乐器名称前用定冠词 the。"
+  },
+  {
+   "id": "qv3-ej-17-01",
+   "topic": "ej-17",
+   "level": 1,
+   "stem": "We will have a party ___ Sunday.",
+   "options": [
+    "for",
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": 2,
+   "explain": "具体某一天用 on。"
+  },
+  {
+   "id": "qv3-ej-18-01",
+   "topic": "ej-18",
+   "level": 1,
+   "stem": "The bank is ___ the post office and the hotel.",
+   "options": [
+    "across",
+    "behind",
+    "among",
+    "between"
+   ],
+   "answer": 3,
+   "explain": "两者之间用 between。"
+  },
+  {
+   "id": "qv3-ej-19-01",
+   "topic": "ej-19",
+   "level": 2,
+   "stem": "___ it was raining, we went out.",
+   "options": [
+    "Although",
+    "So",
+    "If",
+    "Because"
+   ],
+   "answer": 0,
+   "explain": "让步关系用 although。"
+  },
+  {
+   "id": "qv3-ev-08-01",
+   "topic": "ev-08",
+   "level": 1,
+   "stem": "— What time do you ___?  — At six thirty.",
+   "options": [
+    "do homework",
+    "get up",
+    "go to bed",
+    "have lunch"
+   ],
+   "answer": 1,
+   "explain": "问时间点，答「起床」。"
+  },
+  {
+   "id": "qv3-ev-13-01",
+   "topic": "ev-13",
+   "level": 1,
+   "stem": "She is tall and ___ long straight hair.",
+   "options": [
+    "with",
+    "have",
+    "has",
+    "is"
+   ],
+   "answer": 2,
+   "explain": "主语第三人称单数用 has。"
+  },
+  {
+   "id": "qv5-e3-01-01",
+   "topic": "e3-01",
+   "level": 1,
+   "stem": "26 个英文字母中，排在第 5 位的是",
+   "options": [
+    "D",
+    "E",
+    "F",
+    "G"
+   ],
+   "answer": 1,
+   "explain": "A B C D E，第 5 个是 E。"
+  },
+  {
+   "id": "qv5-e3-02-01",
+   "topic": "e3-02",
+   "level": 1,
+   "stem": "下列字母中，属于元音字母的是",
+   "options": [
+    "m",
+    "b",
+    "e",
+    "k"
+   ],
+   "answer": 2,
+   "explain": "元音字母是 a、e、i、o、u。"
+  },
+  {
+   "id": "qv5-ev-01-01",
+   "topic": "ev-01",
+   "level": 1,
+   "stem": "This is my ___. 他是我的爸爸。",
+   "options": [
+    "sister",
+    "brother",
+    "mother",
+    "father"
+   ],
+   "answer": 3,
+   "explain": "father 表示爸爸。"
+  },
+  {
+   "id": "qv5-ev-02-01",
+   "topic": "ev-02",
+   "level": 1,
+   "stem": "「书」的英文是",
+   "options": [
+    "book",
+    "ruler",
+    "bag",
+    "pen"
+   ],
+   "answer": 0,
+   "explain": "book 是书。"
+  },
+  {
+   "id": "qv5-ev-03-01",
+   "topic": "ev-03",
+   "level": 1,
+   "stem": "「绿色」的英文是",
+   "options": [
+    "red",
+    "green",
+    "blue",
+    "yellow"
+   ],
+   "answer": 1,
+   "explain": "green 是绿色。"
+  },
+  {
+   "id": "qv5-e3-05-01",
+   "topic": "e3-05",
+   "level": 1,
+   "stem": "单词 she 中 sh 的读音与下列哪个单词相同",
+   "options": [
+    "book",
+    "this",
+    "ship",
+    "cat"
+   ],
+   "answer": 2,
+   "explain": "sh 都读 /ʃ/。"
+  },
+  {
+   "id": "qv5-ev-04-01",
+   "topic": "ev-04",
+   "level": 1,
+   "stem": "「牛奶」用英语怎么说",
+   "options": [
+    "bread",
+    "water",
+    "rice",
+    "milk"
+   ],
+   "answer": 3,
+   "explain": "milk 是牛奶。"
+  },
+  {
+   "id": "qv5-ev-05-01",
+   "topic": "ev-05",
+   "level": 1,
+   "stem": "「熊猫」这个词的英文拼写是",
+   "options": [
+    "panda",
+    "monkey",
+    "dog",
+    "tiger"
+   ],
+   "answer": 0,
+   "explain": "panda 是熊猫。"
+  },
+  {
+   "id": "qv5-e4-01-01",
+   "topic": "e4-01",
+   "level": 1,
+   "stem": "___ is my friend. 她是我的朋友。",
+   "options": [
+    "He",
+    "She",
+    "It",
+    "They"
+   ],
+   "answer": 1,
+   "explain": "女性用 she。"
+  },
+  {
+   "id": "qv5-e4-05-01",
+   "topic": "e4-05",
+   "level": 1,
+   "stem": "21 的英文是",
+   "options": [
+    "twelve",
+    "thirty-one",
+    "twenty-one",
+    "twenty first"
+   ],
+   "answer": 2,
+   "explain": "几十与个位之间加连字符。"
+  },
+  {
+   "id": "qv5-ev-06-01",
+   "topic": "ev-06",
+   "level": 1,
+   "stem": "人体部位「手」的英文单词是",
+   "options": [
+    "eye",
+    "ear",
+    "head",
+    "hand"
+   ],
+   "answer": 3,
+   "explain": "hand 是手。"
+  },
+  {
+   "id": "qv5-e4-03-01",
+   "topic": "e4-03",
+   "level": 1,
+   "stem": "This is ___ book. 这是我的书。",
+   "options": [
+    "my",
+    "mine",
+    "I",
+    "me"
+   ],
+   "answer": 0,
+   "explain": "修饰名词用形容词性物主代词。"
+  },
+  {
+   "id": "qv5-e4-04-01",
+   "topic": "e4-04",
+   "level": 2,
+   "stem": "___ are my books.（这些是我的书）",
+   "options": [
+    "That",
+    "These",
+    "Those",
+    "This"
+   ],
+   "answer": 1,
+   "explain": "复数近指用 these。"
+  },
+  {
+   "id": "qv5-e4-07-01",
+   "topic": "e4-07",
+   "level": 2,
+   "stem": "下面哪个单词表示的东西不能一个一个数",
+   "options": [
+    "apple",
+    "book",
+    "water",
+    "pencil"
+   ],
+   "answer": 2,
+   "explain": "water 不可数，不能加 -s。"
+  },
+  {
+   "id": "qv5-ev-07-01",
+   "topic": "ev-07",
+   "level": 1,
+   "stem": "「晴朗的」的英文是",
+   "options": [
+    "windy",
+    "snowy",
+    "rainy",
+    "sunny"
+   ],
+   "answer": 3,
+   "explain": "sunny 表示晴朗。"
+  },
+  {
+   "id": "qv5-e5-03-01",
+   "topic": "e5-03",
+   "level": 1,
+   "stem": "She can ___ English well.",
+   "options": [
+    "speak",
+    "speaking",
+    "to speak",
+    "speaks"
+   ],
+   "answer": 0,
+   "explain": "情态动词后接动词原形。"
+  },
+  {
+   "id": "qv5-e5-08-01",
+   "topic": "e5-08",
+   "level": 2,
+   "stem": "「汤姆的书」的英文是",
+   "options": [
+    "Toms book",
+    "Tom's book",
+    "Tom of book",
+    "Tom book"
+   ],
+   "answer": 1,
+   "explain": "人名后加 's 表所属。"
+  },
+  {
+   "id": "qv5-ev-09-01",
+   "topic": "ev-09",
+   "level": 1,
+   "stem": "「踢足球」用英语表达是",
+   "options": [
+    "go swimming",
+    "sing songs",
+    "play football",
+    "play basketball"
+   ],
+   "answer": 2,
+   "explain": "play + 球类。"
+  },
+  {
+   "id": "qv5-ev-10-01",
+   "topic": "ev-10",
+   "level": 1,
+   "stem": "He is a doctor. He works in a ___.",
+   "options": [
+    "farm",
+    "restaurant",
+    "school",
+    "hospital"
+   ],
+   "answer": 3,
+   "explain": "医生在医院工作。"
+  },
+  {
+   "id": "qv5-e5-07-01",
+   "topic": "e5-07",
+   "level": 1,
+   "stem": "man 的复数形式是",
+   "options": [
+    "men",
+    "manes",
+    "mens",
+    "mans"
+   ],
+   "answer": 0,
+   "explain": "不规则变化 man→men。"
+  },
+  {
+   "id": "qv5-e5-09-01",
+   "topic": "e5-09",
+   "level": 2,
+   "stem": "___ apples are there in the basket?",
+   "options": [
+    "How much",
+    "How many",
+    "How long",
+    "How old"
+   ],
+   "answer": 1,
+   "explain": "可数名词复数用 how many。"
+  },
+  {
+   "id": "qv5-ev-11-01",
+   "topic": "ev-11",
+   "level": 1,
+   "stem": "I go to school ___ foot.",
+   "options": [
+    "at",
+    "by",
+    "on",
+    "in"
+   ],
+   "answer": 2,
+   "explain": "on foot 是固定搭配。"
+  },
+  {
+   "id": "qv5-e6-05-01",
+   "topic": "e6-05",
+   "level": 1,
+   "stem": "___ open the door. 不要开门。",
+   "options": [
+    "Doesn't",
+    "Not",
+    "Do",
+    "Don't"
+   ],
+   "answer": 3,
+   "explain": "祈使句否定用 Don't。"
+  },
+  {
+   "id": "qv5-ev-12-01",
+   "topic": "ev-12",
+   "level": 1,
+   "stem": "中国传统节日「春节」的英文说法是",
+   "options": [
+    "Spring Festival",
+    "New Year's Day",
+    "Mid-Autumn Day",
+    "Christmas"
+   ],
+   "answer": 0,
+   "explain": "Spring Festival 即春节。"
+  },
+  {
+   "id": "qv5-e6-08-01",
+   "topic": "e6-08",
+   "level": 2,
+   "stem": "You ___ drink more water. 你应该多喝水。",
+   "options": [
+    "must",
+    "should",
+    "can",
+    "may"
+   ],
+   "answer": 1,
+   "explain": "should 表示建议。"
+  },
+  {
+   "id": "qv5-ej-01-01",
+   "topic": "ej-01",
+   "level": 1,
+   "stem": "tomato 的复数形式是",
+   "options": [
+    "tomatoe",
+    "tomatos",
+    "tomatoes",
+    "tomato"
+   ],
+   "answer": 2,
+   "explain": "以 o 结尾的部分名词加 -es。"
+  },
+  {
+   "id": "qv5-ej-02-01",
+   "topic": "ej-02",
+   "level": 2,
+   "stem": "「一杯水」的正确表达是",
+   "options": [
+    "a waters",
+    "water of glass",
+    "a water",
+    "a glass of water"
+   ],
+   "answer": 3,
+   "explain": "不可数名词用量词短语。"
+  },
+  {
+   "id": "qv5-ej-05-01",
+   "topic": "ej-05",
+   "level": 1,
+   "stem": "Please give ___ the book. 请把书给我。",
+   "options": [
+    "me",
+    "my",
+    "mine",
+    "I"
+   ],
+   "answer": 0,
+   "explain": "动词后作宾语用宾格。"
+  },
+  {
+   "id": "qv5-ej-11-01",
+   "topic": "ej-11",
+   "level": 2,
+   "stem": "「数百名学生」的正确表达是",
+   "options": [
+    "hundred of students",
+    "hundreds of students",
+    "hundreds students",
+    "a hundreds students"
+   ],
+   "answer": 1,
+   "explain": "hundreds of 表示约数。"
+  },
+  {
+   "id": "qv5-ej-38-01",
+   "topic": "ej-38",
+   "level": 2,
+   "stem": "在句子 She likes music 中，music 是",
+   "options": [
+    "主语",
+    "谓语",
+    "宾语",
+    "表语"
+   ],
+   "answer": 2,
+   "explain": "likes 的宾语是 music。"
+  },
+  {
+   "id": "qv5-el-01-01",
+   "topic": "el-01",
+   "level": 1,
+   "stem": "听句子选图时，最有效的准备工作是",
+   "options": [
+    "先读题干答案",
+    "什么都不做",
+    "先背单词",
+    "先看图预测场景和动作"
+   ],
+   "answer": 3,
+   "explain": "预测能大幅提高捕捉率。"
+  },
+  {
+   "id": "qv5-el-08-01",
+   "topic": "el-08",
+   "level": 2,
+   "stem": "自我介绍时，最合理的顺序是",
+   "options": [
+    "问候—姓名年龄—学校—爱好—期待",
+    "学校—姓名—年龄",
+    "爱好—学校—姓名",
+    "问候—爱好—姓名"
+   ],
+   "answer": 0,
+   "explain": "先说身份信息再谈爱好。"
+  },
+  {
+   "id": "qv5-ev-14-01",
+   "topic": "ev-14",
+   "level": 1,
+   "stem": "形容一个人「外向、爱交际」，用哪个词",
+   "options": [
+    "quiet",
+    "outgoing",
+    "friendly",
+    "hard-working"
+   ],
+   "answer": 1,
+   "explain": "outgoing 表示外向。"
+  },
+  {
+   "id": "qv5-ev-15-01",
+   "topic": "ev-15",
+   "level": 1,
+   "stem": "学校科目「历史」的英文是",
+   "options": [
+    "exam",
+    "math",
+    "history",
+    "science"
+   ],
+   "answer": 2,
+   "explain": "history 是历史。"
+  },
+  {
+   "id": "qv5-ev-25-01",
+   "topic": "ev-25",
+   "level": 2,
+   "stem": "听力中遇到没听清的词，正确做法是",
+   "options": [
+    "反复纠结",
+    "放弃整段",
+    "停下来回想",
+    "跳过，继续抓后面的关键词"
+   ],
+   "answer": 3,
+   "explain": "不要因一个词丢掉整句。"
+  },
+  {
+   "id": "qv5-ew-14-01",
+   "topic": "ew-14",
+   "level": 1,
+   "stem": "下列句子中，书写规范的是",
+   "options": [
+    "I like English.",
+    "i Like English",
+    "I like english",
+    "i like english."
+   ],
+   "answer": 0,
+   "explain": "句首与专有名词大写。"
+  },
+  {
+   "id": "qv5-ej-06-01",
+   "topic": "ej-06",
+   "level": 2,
+   "stem": "This book is ___. 这本书是我的。",
+   "options": [
+    "me",
+    "mine",
+    "I",
+    "my"
+   ],
+   "answer": 1,
+   "explain": "名词性物主代词后不接名词。"
+  },
+  {
+   "id": "qv5-ej-08-01",
+   "topic": "ej-08",
+   "level": 2,
+   "stem": "Would you like ___ orange juice?",
+   "options": [
+    "many",
+    "a",
+    "some",
+    "any"
+   ],
+   "answer": 2,
+   "explain": "表请求的疑问句用 some。"
+  },
+  {
+   "id": "qv5-ej-10-01",
+   "topic": "ej-10",
+   "level": 1,
+   "stem": "「第九」的英文是",
+   "options": [
+    "nineth",
+    "ninthth",
+    "nine",
+    "ninth"
+   ],
+   "answer": 3,
+   "explain": "nine 去 e 加 -th。"
+  },
+  {
+   "id": "qv5-el-02-01",
+   "topic": "el-02",
+   "level": 1,
+   "stem": "听对话选答案前，应先",
+   "options": [
+    "读题干和选项",
+    "写下所有单词",
+    "猜答案",
+    "闭眼休息"
+   ],
+   "answer": 0,
+   "explain": "预读题干能锁定听点。"
+  },
+  {
+   "id": "qv5-el-09-01",
+   "topic": "el-09",
+   "level": 2,
+   "stem": "看图说话的连接词顺序，较自然的是",
+   "options": [
+    "finally—first—then",
+    "first—then—finally",
+    "then—first—finally",
+    "first—finally—then"
+   ],
+   "answer": 1,
+   "explain": "按时间顺序衔接。"
+  },
+  {
+   "id": "qv5-ev-16-01",
+   "topic": "ev-16",
+   "level": 1,
+   "stem": "频率副词中，表示「从不」的是",
+   "options": [
+    "always",
+    "usually",
+    "never",
+    "sometimes"
+   ],
+   "answer": 2,
+   "explain": "never 表示从不。"
+  },
+  {
+   "id": "qv5-ev-17-01",
+   "topic": "ev-17",
+   "level": 1,
+   "stem": "You should eat more ___ and less junk food.",
+   "options": [
+    "candy",
+    "sugar",
+    "junk food",
+    "vegetables"
+   ],
+   "answer": 3,
+   "explain": "多吃蔬菜。"
+  },
+  {
+   "id": "qv5-ev-18-01",
+   "topic": "ev-18",
+   "level": 1,
+   "stem": "— How much is it?  — ___",
+   "options": [
+    "It's 20 yuan.",
+    "It's on the desk.",
+    "I'm fine.",
+    "Yes, please."
+   ],
+   "answer": 0,
+   "explain": "问价格答价钱。"
+  },
+  {
+   "id": "qv5-ev-26-01",
+   "topic": "ev-26",
+   "level": 2,
+   "stem": "half past seven 表示",
+   "options": [
+    "7:15",
+    "7:30",
+    "7:45",
+    "7:00"
+   ],
+   "answer": 1,
+   "explain": "half past 表示半点。"
+  },
+  {
+   "id": "qv5-ew-10-01",
+   "topic": "ew-10",
+   "level": 2,
+   "stem": "There ___ a book and two pens on the desk.",
+   "options": [
+    "be",
+    "have",
+    "is",
+    "are"
+   ],
+   "answer": 2,
+   "explain": "就近原则，a book 用 is。"
+  },
+  {
+   "id": "qv5-ej-04-01",
+   "topic": "ej-04",
+   "level": 1,
+   "stem": "下列短语中，冠词使用正确的是",
+   "options": [
+    "play an basketball",
+    "play the basketball",
+    "play a basketball",
+    "play basketball"
+   ],
+   "answer": 3,
+   "explain": "球类前不加冠词。"
+  },
+  {
+   "id": "qv5-ej-07-01",
+   "topic": "ej-07",
+   "level": 2,
+   "stem": "She enjoyed ___ at the party.",
+   "options": [
+    "herself",
+    "she",
+    "hers",
+    "her"
+   ],
+   "answer": 0,
+   "explain": "enjoy oneself 固定搭配。"
+  },
+  {
+   "id": "qv5-ej-12-01",
+   "topic": "ej-12",
+   "level": 1,
+   "stem": "「一双鞋」的英文是",
+   "options": [
+    "a pair of shoe",
+    "a pair of shoes",
+    "a shoes",
+    "two pair of shoes"
+   ],
+   "answer": 1,
+   "explain": "复数体现在 shoes 上。"
+  },
+  {
+   "id": "qv5-ej-14-01",
+   "topic": "ej-14",
+   "level": 2,
+   "stem": "Tom is ___ as Jim. 汤姆和吉姆一样高。",
+   "options": [
+    "the tallest",
+    "so tall",
+    "as tall",
+    "taller"
+   ],
+   "answer": 2,
+   "explain": "as + 原级 + as。"
+  },
+  {
+   "id": "qv5-ej-43-01",
+   "topic": "ej-43",
+   "level": 2,
+   "stem": "___ beautiful the flowers are!",
+   "options": [
+    "What a",
+    "How a",
+    "What",
+    "How"
+   ],
+   "answer": 3,
+   "explain": "How 修饰形容词。"
+  },
+  {
+   "id": "qv5-el-03-01",
+   "topic": "el-03",
+   "level": 2,
+   "stem": "听短文填信息前，最该做的是",
+   "options": [
+    "先判断空格处应填的词性，再听关键词",
+    "随便填",
+    "只写首字母",
+    "只看字数"
+   ],
+   "answer": 0,
+   "explain": "预判词性能锁定信息。"
+  },
+  {
+   "id": "qv5-el-06-01",
+   "topic": "el-06",
+   "level": 2,
+   "stem": "下列情况中，通常会发生连读的是",
+   "options": [
+    "两个元音相接",
+    "前一词以辅音结尾、后一词以元音开头",
+    "两个相同辅音相接",
+    "句子结尾"
+   ],
+   "answer": 1,
+   "explain": "辅音+元音易连读。"
+  },
+  {
+   "id": "qv5-ev-19-01",
+   "topic": "ev-19",
+   "level": 1,
+   "stem": "「订一张票」的英文是",
+   "options": [
+    "make a ticket",
+    "get a ticket",
+    "book a ticket",
+    "take a ticket"
+   ],
+   "answer": 2,
+   "explain": "book 表示预订。"
+  },
+  {
+   "id": "qv5-ev-20-01",
+   "topic": "ev-20",
+   "level": 1,
+   "stem": "「回收利用（废物）」对应的英文动词是",
+   "options": [
+    "climate",
+    "environment",
+    "pollution",
+    "recycle"
+   ],
+   "answer": 3,
+   "explain": "recycle 是回收。"
+  },
+  {
+   "id": "qv5-ev-27-01",
+   "topic": "ev-27",
+   "level": 2,
+   "stem": "找段落主旨，最有效的位置是",
+   "options": [
+    "首句和尾句",
+    "标点符号",
+    "生词",
+    "中间句"
+   ],
+   "answer": 0,
+   "explain": "主题句多在首尾。"
+  },
+  {
+   "id": "qv5-ew-05-01",
+   "topic": "ew-05",
+   "level": 2,
+   "stem": "介绍一个地方，通常包含的四个方面是",
+   "options": [
+    "原因、过程、结果、评价",
+    "位置、历史、特色、活动",
+    "天气、价格、交通、人口",
+    "人物、情节、环境、主题"
+   ],
+   "answer": 1,
+   "explain": "地点介绍四要素。"
+  },
+  {
+   "id": "qv5-ew-08-01",
+   "topic": "ew-08",
+   "level": 2,
+   "stem": "一个好的段落通常",
+   "options": [
+    "不分点",
+    "先举例后总结",
+    "首句点明要点，后接支撑细节",
+    "越长越好"
+   ],
+   "answer": 2,
+   "explain": "一段一个中心。"
+  },
+  {
+   "id": "qv5-ej-09-01",
+   "topic": "ej-09",
+   "level": 2,
+   "stem": "Something ___ wrong with my bike.",
+   "options": [
+    "be",
+    "were",
+    "are",
+    "is"
+   ],
+   "answer": 3,
+   "explain": "复合不定代词作主语视为单数。"
+  },
+  {
+   "id": "qv5-ej-15-01",
+   "topic": "ej-15",
+   "level": 2,
+   "stem": "This box is ___ heavier than that one.",
+   "options": [
+    "much",
+    "more",
+    "too",
+    "very"
+   ],
+   "answer": 0,
+   "explain": "much 可修饰比较级。"
+  },
+  {
+   "id": "qv5-ej-16-01",
+   "topic": "ej-16",
+   "level": 2,
+   "stem": "The story is very ___. We all like it.",
+   "options": [
+    "interested",
+    "interesting",
+    "interest",
+    "interests"
+   ],
+   "answer": 1,
+   "explain": "-ing 修饰事物。"
+  },
+  {
+   "id": "qv5-ej-20-01",
+   "topic": "ej-20",
+   "level": 2,
+   "stem": "He isn't at home. He ___ be at school.",
+   "options": [
+    "shouldn't",
+    "can't",
+    "must",
+    "may not"
+   ],
+   "answer": 2,
+   "explain": "肯定推测用 must。"
+  },
+  {
+   "id": "qv5-ej-21-01",
+   "topic": "ej-21",
+   "level": 2,
+   "stem": "You'd better ___ to bed earlier.",
+   "options": [
+    "to go",
+    "going",
+    "went",
+    "go"
+   ],
+   "answer": 3,
+   "explain": "had better 后接动词原形。"
+  },
+  {
+   "id": "qv5-ej-28-01",
+   "topic": "ej-28",
+   "level": 2,
+   "stem": "At 8 last night, I ___ TV.",
+   "options": [
+    "was watching",
+    "am watching",
+    "watch",
+    "watched"
+   ],
+   "answer": 0,
+   "explain": "过去某时刻正在进行。"
+  },
+  {
+   "id": "qv5-ej-35-01",
+   "topic": "ej-35",
+   "level": 2,
+   "stem": "She went to the shop ___ some milk.",
+   "options": [
+    "buying",
+    "to buy",
+    "bought",
+    "buy"
+   ],
+   "answer": 1,
+   "explain": "不定式表目的。"
+  },
+  {
+   "id": "qv5-ej-36-01",
+   "topic": "ej-36",
+   "level": 2,
+   "stem": "I saw him ___ into the room just now.",
+   "options": [
+    "went",
+    "goes",
+    "go",
+    "to go"
+   ],
+   "answer": 2,
+   "explain": "see sb do 表全过程。"
+  },
+  {
+   "id": "qv5-ej-42-01",
+   "topic": "ej-42",
+   "level": 2,
+   "stem": "She likes music, ___?",
+   "options": [
+    "isn't she",
+    "is she",
+    "does she",
+    "doesn't she"
+   ],
+   "answer": 3,
+   "explain": "前肯后否。"
+  },
+  {
+   "id": "qv5-ej-47-01",
+   "topic": "ej-47",
+   "level": 2,
+   "stem": "I will call you when I ___ home.",
+   "options": [
+    "get",
+    "will get",
+    "got",
+    "am getting"
+   ],
+   "answer": 0,
+   "explain": "主将从现。"
+  },
+  {
+   "id": "qv5-el-04-01",
+   "topic": "el-04",
+   "level": 2,
+   "stem": "four dollars fifty 表示",
+   "options": [
+    "4.05 美元",
+    "4.50 美元",
+    "450 美元",
+    "45 美元"
+   ],
+   "answer": 1,
+   "explain": "口语中 fifty 指 50 美分。"
+  },
+  {
+   "id": "qv5-el-05-01",
+   "topic": "el-05",
+   "level": 2,
+   "stem": "「后天」的英文是",
+   "options": [
+    "yesterday",
+    "tomorrow",
+    "the day after tomorrow",
+    "the day before yesterday"
+   ],
+   "answer": 2,
+   "explain": "后天是 the day after tomorrow。"
+  },
+  {
+   "id": "qv5-ev-21-01",
+   "topic": "ev-21",
+   "level": 1,
+   "stem": "从网上下载文件，「下载」的英文是",
+   "options": [
+    "online",
+    "website",
+    "upload",
+    "download"
+   ],
+   "answer": 3,
+   "explain": "download 是下载。"
+  },
+  {
+   "id": "qv5-ev-22-01",
+   "topic": "ev-22",
+   "level": 1,
+   "stem": "「志愿者」对应的英文单词是",
+   "options": [
+    "volunteer",
+    "donate",
+    "community",
+    "charity"
+   ],
+   "answer": 0,
+   "explain": "volunteer 是志愿者。"
+  },
+  {
+   "id": "qv5-ev-28-01",
+   "topic": "ev-28",
+   "level": 2,
+   "stem": "遇到生词时，最不可靠的方法是",
+   "options": [
+    "看对比关系",
+    "只按字面猜",
+    "看定义解释",
+    "看举例"
+   ],
+   "answer": 1,
+   "explain": "字面猜测最容易出错。"
+  },
+  {
+   "id": "qv5-ew-04-01",
+   "topic": "ew-04",
+   "level": 2,
+   "stem": "写日记记叙一件事，通常用",
+   "options": [
+    "现在进行时",
+    "一般现在时",
+    "一般过去时",
+    "一般将来时"
+   ],
+   "answer": 2,
+   "explain": "已发生的事用过去时。"
+  },
+  {
+   "id": "qv5-ew-09-01",
+   "topic": "ew-09",
+   "level": 2,
+   "stem": "表示因果关系的连接词是",
+   "options": [
+    "besides",
+    "finally",
+    "however",
+    "therefore"
+   ],
+   "answer": 3,
+   "explain": "therefore 表结果。"
+  },
+  {
+   "id": "qv5-ew-13-01",
+   "topic": "ew-13",
+   "level": 2,
+   "stem": "写完作文检查时，最容易被忽略的一项是",
+   "options": [
+    "主谓一致与名词单复数",
+    "字数",
+    "标题",
+    "标点"
+   ],
+   "answer": 0,
+   "explain": "语法一致性最易漏检。"
+  },
+  {
+   "id": "qv5-ej-22-01",
+   "topic": "ej-22",
+   "level": 2,
+   "stem": "He ___ get up late, but now he gets up early.",
+   "options": [
+    "is used to",
+    "used to",
+    "uses to",
+    "use to"
+   ],
+   "answer": 1,
+   "explain": "used to do 表过去常常。"
+  },
+  {
+   "id": "qv5-ej-29-01",
+   "topic": "ej-29",
+   "level": 2,
+   "stem": "By the time I arrived, the film ___.",
+   "options": [
+    "began",
+    "has begun",
+    "had begun",
+    "begins"
+   ],
+   "answer": 2,
+   "explain": "过去的过去用过去完成时。"
+  },
+  {
+   "id": "qv5-ej-31-01",
+   "topic": "ej-31",
+   "level": 2,
+   "stem": "This school ___ in 1950.",
+   "options": [
+    "is built",
+    "has built",
+    "built",
+    "was built"
+   ],
+   "answer": 3,
+   "explain": "一般过去时的被动语态。"
+  },
+  {
+   "id": "qv5-ej-44-01",
+   "topic": "ej-44",
+   "level": 2,
+   "stem": "Each of the students ___ a book.",
+   "options": [
+    "has",
+    "are",
+    "were",
+    "have"
+   ],
+   "answer": 0,
+   "explain": "each 作主语用单数。"
+  },
+  {
+   "id": "qv5-el-07-01",
+   "topic": "el-07",
+   "level": 2,
+   "stem": "一般疑问句通常读",
+   "options": [
+    "降调",
+    "升调",
+    "平调",
+    "先升后降"
+   ],
+   "answer": 1,
+   "explain": "一般疑问句用升调。"
+  },
+  {
+   "id": "qv5-el-11-01",
+   "topic": "el-11",
+   "level": 2,
+   "stem": "没听清对方的话，最礼貌的说法是",
+   "options": [
+    "No!",
+    "What?",
+    "Pardon?",
+    "Say again!"
+   ],
+   "answer": 2,
+   "explain": "Pardon? 最礼貌。"
+  },
+  {
+   "id": "qv5-ev-23-01",
+   "topic": "ev-23",
+   "level": 1,
+   "stem": "考试前感到「紧张」，用哪个形容词",
+   "options": [
+    "proud",
+    "excited",
+    "confident",
+    "nervous"
+   ],
+   "answer": 3,
+   "explain": "nervous 表示紧张。"
+  },
+  {
+   "id": "qv5-ev-24-01",
+   "topic": "ev-24",
+   "level": 1,
+   "stem": "「传统」的英文是",
+   "options": [
+    "tradition",
+    "festival",
+    "greeting",
+    "custom"
+   ],
+   "answer": 0,
+   "explain": "tradition 是传统。"
+  },
+  {
+   "id": "qv5-ev-29-01",
+   "topic": "ev-29",
+   "level": 2,
+   "stem": "推理判断题的答案必须",
+   "options": [
+    "来自常识",
+    "由原文推出",
+    "凭感觉",
+    "选最长的"
+   ],
+   "answer": 1,
+   "explain": "推断要有原文依据。"
+  },
+  {
+   "id": "qv5-ew-01-01",
+   "topic": "ew-01",
+   "level": 2,
+   "stem": "书面表达审题时，首先要确定",
+   "options": [
+    "字体",
+    "字数",
+    "体裁、人称、时态和要点",
+    "标点"
+   ],
+   "answer": 2,
+   "explain": "四项决定全文框架。"
+  },
+  {
+   "id": "qv5-ew-02-01",
+   "topic": "ew-02",
+   "level": 2,
+   "stem": "英文书信的称呼通常写在",
+   "options": [
+    "正文中间",
+    "署名之后",
+    "右上角，后加句号",
+    "左上角，后加逗号"
+   ],
+   "answer": 3,
+   "explain": "Dear ..., 顶格加逗号。"
+  },
+  {
+   "id": "qv5-ew-11-01",
+   "topic": "ew-11",
+   "level": 2,
+   "stem": "Not only ___ he sing well, but he also dances well.",
+   "options": [
+    "can he",
+    "he does",
+    "does he",
+    "he can"
+   ],
+   "answer": 0,
+   "explain": "not only 置句首，前半句部分倒装。"
+  },
+  {
+   "id": "qv5-ew-12-01",
+   "topic": "ew-12",
+   "level": 2,
+   "stem": "记叙文全文通常以哪种时态为主",
+   "options": [
+    "一般现在时",
+    "一般过去时",
+    "现在完成时",
+    "一般将来时"
+   ],
+   "answer": 1,
+   "explain": "叙事用过去时。"
+  },
+  {
+   "id": "qv5-ew-15-01",
+   "topic": "ew-15",
+   "level": 2,
+   "stem": "中考书面表达的字数要求，通常允许",
+   "options": [
+    "越少越好",
+    "必须一字不差",
+    "上下浮动 10% 左右",
+    "越多越好"
+   ],
+   "answer": 2,
+   "explain": "略多略少不扣分。"
+  },
+  {
+   "id": "qv5-ej-32-01",
+   "topic": "ej-32",
+   "level": 2,
+   "stem": "The homework must ___ before Friday.",
+   "options": [
+    "finished",
+    "finishing",
+    "finish",
+    "be finished"
+   ],
+   "answer": 3,
+   "explain": "情态动词 + be + 过去分词。"
+  },
+  {
+   "id": "qv5-ej-49-01",
+   "topic": "ej-49",
+   "level": 2,
+   "stem": "He said, \"I am busy.\" 改为间接引语，正确的是",
+   "options": [
+    "He said he was busy.",
+    "He says he was busy.",
+    "He said I was busy.",
+    "He said he is busy."
+   ],
+   "answer": 0,
+   "explain": "时态后退、人称随之变化。"
+  },
+  {
+   "id": "qv5-ej-50-01",
+   "topic": "ej-50",
+   "level": 2,
+   "stem": "___ is important to learn English well.",
+   "options": [
+    "This",
+    "It",
+    "There",
+    "That"
+   ],
+   "answer": 1,
+   "explain": "it 作形式主语。"
+  },
+  {
+   "id": "qv5-el-10-01",
+   "topic": "el-10",
+   "level": 2,
+   "stem": "表达观点时，较完整的结构是",
+   "options": [
+    "重复题目",
+    "只给结论",
+    "观点 + 两条理由 + 例子",
+    "列举单词"
+   ],
+   "answer": 2,
+   "explain": "观点要有支撑。"
+  },
+  {
+   "id": "qv5-el-12-01",
+   "topic": "el-12",
+   "level": 2,
+   "stem": "口语朗读考试中，评分主要关注什么",
+   "options": [
+    "速度越快越好",
+    "字数多少",
+    "音量大小",
+    "语音语调、连读、语速与停顿"
+   ],
+   "answer": 3,
+   "explain": "流利度看语音与节奏。"
+  },
+  {
+   "id": "qv5-ev-30-01",
+   "topic": "ev-30",
+   "level": 2,
+   "stem": "组织段落时，「in short」用于",
+   "options": [
+    "总结",
+    "原因",
+    "举例",
+    "转折"
+   ],
+   "answer": 0,
+   "explain": "in short 表总结。"
+  },
+  {
+   "id": "qv5-ew-03-01",
+   "topic": "ew-03",
+   "level": 2,
+   "stem": "写通知一般不需要",
+   "options": [
+    "活动内容",
+    "抒情描写",
+    "标题",
+    "时间地点"
+   ],
+   "answer": 1,
+   "explain": "通知重信息，不重抒情。"
+  },
+  {
+   "id": "qv5-ew-06-01",
+   "topic": "ew-06",
+   "level": 2,
+   "stem": "议论文的基本结构是",
+   "options": [
+    "问题原因对策",
+    "起因经过结果",
+    "亮明观点 + 理由 + 总结",
+    "时间地点人物"
+   ],
+   "answer": 2,
+   "explain": "议论文三段式。"
+  },
+  {
+   "id": "qv5-ew-07-01",
+   "topic": "ew-07",
+   "level": 2,
+   "stem": "描述数据上升，最常用的动词是",
+   "options": [
+    "decrease",
+    "remain",
+    "compare",
+    "increase"
+   ],
+   "answer": 3,
+   "explain": "increase 表示上升。"
+  },
+  {
+   "id": "qv5-ew-16-01",
+   "topic": "ew-16",
+   "level": 2,
+   "stem": "「打开灯」的正确英文是",
+   "options": [
+    "turn on the light",
+    "turn off the light",
+    "open light",
+    "open the light"
+   ],
+   "answer": 0,
+   "explain": "开关电器用 turn on/off。"
+  }
+ ]
+}
