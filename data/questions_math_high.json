@@ -1,0 +1,628 @@
+{
+  "questions": [
+    {
+      "id": "qh-01-1",
+      "topic": "hm-01",
+      "level": 1,
+      "stem": "集合 {1,2,3} 的子集个数是",
+      "options": [
+        "8",
+        "6",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "2³=8。"
+    },
+    {
+      "id": "qh-01-2",
+      "topic": "hm-01",
+      "level": 1,
+      "stem": "小于 3 的正整数组成的集合是",
+      "options": [
+        "{0,1,2}",
+        "{1,2}",
+        "{1,2,3}"
+      ],
+      "answer": 1,
+      "explain": "不含 0 与 3。"
+    },
+    {
+      "id": "qh-02-1",
+      "topic": "hm-02",
+      "level": 1,
+      "stem": "A⊆B 表示",
+      "options": [
+        "A 是 B 的真子集",
+        "A 与 B 相等",
+        "A 是 B 的子集"
+      ],
+      "answer": 2,
+      "explain": "⊆ 包含相等的情形。"
+    },
+    {
+      "id": "qh-02-2",
+      "topic": "hm-02",
+      "level": 2,
+      "stem": "空集是任何集合的",
+      "options": [
+        "子集",
+        "真子集",
+        "元素"
+      ],
+      "answer": 0,
+      "explain": "空集是任何集合的子集。"
+    },
+    {
+      "id": "qh-03-1",
+      "topic": "hm-03",
+      "level": 1,
+      "stem": "{1,2}∪{2,3} =",
+      "options": [
+        "{1,3}",
+        "{1,2,3}",
+        "{2}"
+      ],
+      "answer": 1,
+      "explain": "并集合并所有元素。"
+    },
+    {
+      "id": "qh-03-2",
+      "topic": "hm-03",
+      "level": 1,
+      "stem": "{1,2,3}∩{2,3,4} =",
+      "options": [
+        "{1,2,3,4}",
+        "{1}",
+        "{2,3}"
+      ],
+      "answer": 2,
+      "explain": "交集取公共元素。"
+    },
+    {
+      "id": "qh-04-1",
+      "topic": "hm-04",
+      "level": 2,
+      "stem": "「x>2」是「x>1」的",
+      "options": [
+        "充分不必要条件",
+        "必要不充分条件",
+        "充要条件"
+      ],
+      "answer": 0,
+      "explain": "x>2 一定有 x>1，反之不成立。"
+    },
+    {
+      "id": "qh-04-2",
+      "topic": "hm-04",
+      "level": 2,
+      "stem": "「x=1」是「x²=1」的",
+      "options": [
+        "充要条件",
+        "充分不必要条件",
+        "必要不充分条件"
+      ],
+      "answer": 1,
+      "explain": "x²=1 还有 x=-1。"
+    },
+    {
+      "id": "qh-05-1",
+      "topic": "hm-05",
+      "level": 2,
+      "stem": "「所有 x>0 都有 x²>0」的否定是",
+      "options": [
+        "所有 x>0 都有 x²≤0",
+        "存在 x≤0 使 x²>0",
+        "存在 x>0 使 x²≤0"
+      ],
+      "answer": 2,
+      "explain": "换量词再否定结论。"
+    },
+    {
+      "id": "qh-05-2",
+      "topic": "hm-05",
+      "level": 1,
+      "stem": "∀x∈R，x²≥0 是",
+      "options": [
+        "真命题",
+        "假命题",
+        "无法判断"
+      ],
+      "answer": 0,
+      "explain": "实数的平方非负。"
+    },
+    {
+      "id": "qh-06-1",
+      "topic": "hm-06",
+      "level": 1,
+      "stem": "若 a>b，则一定成立的是",
+      "options": [
+        "a²>b²",
+        "a+c>b+c",
+        "ac>bc"
+      ],
+      "answer": 1,
+      "explain": "不等式两边同加同减保序。"
+    },
+    {
+      "id": "qh-06-2",
+      "topic": "hm-06",
+      "level": 2,
+      "stem": "若 a>b>0，则",
+      "options": [
+        "1/a>1/b",
+        "a²<b²",
+        "1/a<1/b"
+      ],
+      "answer": 2,
+      "explain": "正数取倒数要变号。"
+    },
+    {
+      "id": "qh-07-1",
+      "topic": "hm-07",
+      "level": 2,
+      "stem": "基本不等式 a+b≥2√(ab) 成立的条件是",
+      "options": [
+        "a,b>0",
+        "a,b∈R",
+        "a>b"
+      ],
+      "answer": 0,
+      "explain": "一正二定三相等。"
+    },
+    {
+      "id": "qh-07-2",
+      "topic": "hm-07",
+      "level": 2,
+      "stem": "x>0 时，x+1/x 的最小值是",
+      "options": [
+        "0",
+        "2",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "x=1 时取到 2。"
+    },
+    {
+      "id": "qh-08-1",
+      "topic": "hm-08",
+      "level": 2,
+      "stem": "x²-3x+2<0 的解集是",
+      "options": [
+        "x<1 或 x>2",
+        "-1<x<2",
+        "1<x<2"
+      ],
+      "answer": 2,
+      "explain": "小于取中间。"
+    },
+    {
+      "id": "qh-08-2",
+      "topic": "hm-08",
+      "level": 2,
+      "stem": "x²-4≥0 的解集是",
+      "options": [
+        "x≤-2 或 x≥2",
+        "-2≤x≤2",
+        "x≥2"
+      ],
+      "answer": 0,
+      "explain": "大于取两边。"
+    },
+    {
+      "id": "qh-09-1",
+      "topic": "hm-09",
+      "level": 1,
+      "stem": "函数的三要素是",
+      "options": [
+        "自变量、因变量、常数",
+        "定义域、值域、对应关系",
+        "定义域、图象、值域"
+      ],
+      "answer": 1,
+      "explain": "三者确定即函数确定。"
+    },
+    {
+      "id": "qh-09-2",
+      "topic": "hm-09",
+      "level": 2,
+      "stem": "f(x)=1/(x-1) 的定义域是",
+      "options": [
+        "x>1",
+        "R",
+        "x≠1"
+      ],
+      "answer": 2,
+      "explain": "分母不能为 0。"
+    },
+    {
+      "id": "qh-10-1",
+      "topic": "hm-10",
+      "level": 2,
+      "stem": "求分段函数的值，关键是",
+      "options": [
+        "按自变量的区间选对应表达式",
+        "随便选一个式子",
+        "忽略定义域"
+      ],
+      "answer": 0,
+      "explain": "先定区间再代入。"
+    },
+    {
+      "id": "qh-10-2",
+      "topic": "hm-10",
+      "level": 1,
+      "stem": "高中常用的函数表示法有三种，分别是",
+      "options": [
+        "定义、定理、公式",
+        "解析法、列表法、图象法",
+        "加法、减法、乘法"
+      ],
+      "answer": 1,
+      "explain": "各有优劣。"
+    },
+    {
+      "id": "qh-11-1",
+      "topic": "hm-11",
+      "level": 2,
+      "stem": "f(x) 在区间上递增意味着",
+      "options": [
+        "f(x)>0 恒成立",
+        "图象是直线",
+        "x₁<x₂ 时 f(x₁)<f(x₂)"
+      ],
+      "answer": 2,
+      "explain": "单调性定义。"
+    },
+    {
+      "id": "qh-11-2",
+      "topic": "hm-11",
+      "level": 2,
+      "stem": "用定义法判断单调性，核心步骤是",
+      "options": [
+        "取值、作差、变形、定号",
+        "求平均数",
+        "看常数项"
+      ],
+      "answer": 0,
+      "explain": "作差后因式分解定号。"
+    },
+    {
+      "id": "qh-12-1",
+      "topic": "hm-12",
+      "level": 1,
+      "stem": "奇函数满足",
+      "options": [
+        "f(0)=1",
+        "f(-x)=-f(x)",
+        "f(-x)=f(x)"
+      ],
+      "answer": 1,
+      "explain": "关于原点对称。"
+    },
+    {
+      "id": "qh-12-2",
+      "topic": "hm-12",
+      "level": 1,
+      "stem": "偶函数的图象关于",
+      "options": [
+        "原点对称",
+        "x 轴对称",
+        "y 轴对称"
+      ],
+      "answer": 2,
+      "explain": "f(-x)=f(x)。"
+    },
+    {
+      "id": "qh-13-1",
+      "topic": "hm-13",
+      "level": 2,
+      "stem": "幂函数 y=x³ 是",
+      "options": [
+        "奇函数",
+        "偶函数",
+        "非奇非偶"
+      ],
+      "answer": 0,
+      "explain": "指数为奇数。"
+    },
+    {
+      "id": "qh-13-2",
+      "topic": "hm-13",
+      "level": 2,
+      "stem": "y=x⁻¹ 的定义域是",
+      "options": [
+        "R",
+        "x≠0",
+        "x>0"
+      ],
+      "answer": 1,
+      "explain": "即 1/x。"
+    },
+    {
+      "id": "qh-14-1",
+      "topic": "hm-14",
+      "level": 1,
+      "stem": "a^(1/2) 等于",
+      "options": [
+        "a²",
+        "2a",
+        "√a"
+      ],
+      "answer": 2,
+      "explain": "分数指数幂与根式互化。"
+    },
+    {
+      "id": "qh-14-2",
+      "topic": "hm-14",
+      "level": 2,
+      "stem": "a>0 时，(a²)^(1/2) =",
+      "options": [
+        "a",
+        "±a",
+        "a²"
+      ],
+      "answer": 0,
+      "explain": "先平方再开方，仍为 a。"
+    },
+    {
+      "id": "qh-15-1",
+      "topic": "hm-15",
+      "level": 1,
+      "stem": "y=2^x 的值域是",
+      "options": [
+        "[0,+∞)",
+        "(0,+∞)",
+        "R"
+      ],
+      "answer": 1,
+      "explain": "指数函数恒正。"
+    },
+    {
+      "id": "qh-15-2",
+      "topic": "hm-15",
+      "level": 1,
+      "stem": "a>1 时，y=a^x 是",
+      "options": [
+        "减函数",
+        "常数函数",
+        "增函数"
+      ],
+      "answer": 2,
+      "explain": "底数大于 1 递增。"
+    },
+    {
+      "id": "qh-16-1",
+      "topic": "hm-16",
+      "level": 1,
+      "stem": "log₂8 =",
+      "options": [
+        "3",
+        "2",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "2³=8。"
+    },
+    {
+      "id": "qh-16-2",
+      "topic": "hm-16",
+      "level": 2,
+      "stem": "log_a(MN) =",
+      "options": [
+        "log_a(M+N)",
+        "log_aM+log_aN",
+        "log_aM·log_aN"
+      ],
+      "answer": 1,
+      "explain": "积的对数等于对数之和。"
+    },
+    {
+      "id": "qh-17-1",
+      "topic": "hm-17",
+      "level": 1,
+      "stem": "y=log₂x 的定义域是",
+      "options": [
+        "R",
+        "[0,+∞)",
+        "(0,+∞)"
+      ],
+      "answer": 2,
+      "explain": "真数必须为正。"
+    },
+    {
+      "id": "qh-17-2",
+      "topic": "hm-17",
+      "level": 2,
+      "stem": "0<a<1 时，y=log_a x 是",
+      "options": [
+        "减函数",
+        "增函数",
+        "常数函数"
+      ],
+      "answer": 0,
+      "explain": "底数小于 1 递减。"
+    },
+    {
+      "id": "qh-18-1",
+      "topic": "hm-18",
+      "level": 1,
+      "stem": "函数的零点是指",
+      "options": [
+        "定义域端点",
+        "f(x)=0 的根",
+        "图象最高点"
+      ],
+      "answer": 1,
+      "explain": "零点不是点。"
+    },
+    {
+      "id": "qh-18-2",
+      "topic": "hm-18",
+      "level": 2,
+      "stem": "二分法要求区间两端点的函数值",
+      "options": [
+        "同号",
+        "相等",
+        "异号"
+      ],
+      "answer": 2,
+      "explain": "异号才保证有零点。"
+    },
+    {
+      "id": "qh-19-1",
+      "topic": "hm-19",
+      "level": 1,
+      "stem": "180° 等于",
+      "options": [
+        "π 弧度",
+        "2π 弧度",
+        "90 弧度"
+      ],
+      "answer": 0,
+      "explain": "π rad=180°。"
+    },
+    {
+      "id": "qh-19-2",
+      "topic": "hm-19",
+      "level": 2,
+      "stem": "终边相同的角相差",
+      "options": [
+        "90° 的整数倍",
+        "360° 的整数倍",
+        "180° 的整数倍"
+      ],
+      "answer": 1,
+      "explain": "转一整圈回到原位。"
+    },
+    {
+      "id": "qh-20-1",
+      "topic": "hm-20",
+      "level": 1,
+      "stem": "在角 α 终边上取点 (x,y)，r=√(x²+y²)，则 sinα =",
+      "options": [
+        "x/r",
+        "y/x",
+        "y/r"
+      ],
+      "answer": 2,
+      "explain": "正弦是对边比斜边。"
+    },
+    {
+      "id": "qh-20-2",
+      "topic": "hm-20",
+      "level": 1,
+      "stem": "第二象限角的正弦值",
+      "options": [
+        "正",
+        "负",
+        "零"
+      ],
+      "answer": 0,
+      "explain": "一二象限 sin 为正。"
+    },
+    {
+      "id": "qh-21-1",
+      "topic": "hm-21",
+      "level": 1,
+      "stem": "sin²α+cos²α =",
+      "options": [
+        "2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "平方关系。"
+    },
+    {
+      "id": "qh-21-2",
+      "topic": "hm-21",
+      "level": 2,
+      "stem": "sin(180°-α) =",
+      "options": [
+        "-sinα",
+        "cosα",
+        "sinα"
+      ],
+      "answer": 2,
+      "explain": "诱导公式：二象限正弦为正。"
+    },
+    {
+      "id": "qh-22-1",
+      "topic": "hm-22",
+      "level": 1,
+      "stem": "y=sinx 的最小正周期是",
+      "options": [
+        "2π",
+        "π",
+        "4π"
+      ],
+      "answer": 0,
+      "explain": "T=2π。"
+    },
+    {
+      "id": "qh-22-2",
+      "topic": "hm-22",
+      "level": 1,
+      "stem": "y=cosx 的最大值是",
+      "options": [
+        "2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "余弦值域 [-1,1]。"
+    },
+    {
+      "id": "qh-23-1",
+      "topic": "hm-23",
+      "level": 2,
+      "stem": "y=sin2x 的最小正周期是",
+      "options": [
+        "2π",
+        "π/2",
+        "π"
+      ],
+      "answer": 2,
+      "explain": "T=2π/|ω|=π。"
+    },
+    {
+      "id": "qh-23-2",
+      "topic": "hm-23",
+      "level": 2,
+      "stem": "y=sin(x+π/2) 等于",
+      "options": [
+        "cosx",
+        "-cosx",
+        "sinx"
+      ],
+      "answer": 0,
+      "explain": "诱导公式。"
+    },
+    {
+      "id": "qh-24-1",
+      "topic": "hm-24",
+      "level": 2,
+      "stem": "sin2α =",
+      "options": [
+        "1-2sin²α",
+        "2sinαcosα",
+        "sin²α-cos²α"
+      ],
+      "answer": 1,
+      "explain": "二倍角正弦公式。"
+    },
+    {
+      "id": "qh-24-2",
+      "topic": "hm-24",
+      "level": 2,
+      "stem": "cos2α =",
+      "options": [
+        "2sinαcosα",
+        "1+2sin²α",
+        "cos²α-sin²α"
+      ],
+      "answer": 2,
+      "explain": "二倍角余弦公式。"
+    }
+  ]
+}
