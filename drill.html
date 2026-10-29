@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>错题重练</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2563eb">
+</head>
+<body>
+<header>
+  <a class="brand" href="index.html">中小学知识图谱</a>
+  <nav><a href="diagnose.html">诊断</a><a href="explore.html">图谱</a><a href="review.html">复习</a><a href="lab.html">3D 实验</a><a href="wrong.html">错题本</a></nav>
+</header>
+<main>
+  <h1>错题重练</h1>
+  <p class="sub">只考错过的题。答对就移出错题本，答错继续留着，掌握度同步更新。</p>
+  <div id="dbar"></div>
+  <div id="dbox">加载中…</div>
+  <p class="note">练完自动回到<a href="review.html">复习</a><a href="lab.html">3D 实验</a><a href="wrong.html">错题本</a>可看最新掌握度。</p>
+</main>
+<script src="app.js"></script>
+<script>
+loadAll().then(renderDrill).catch(e => {
+  document.getElementById('dbox').textContent = '数据加载失败：' + e.message;
+});
+</script>
+</body>
+</html>
