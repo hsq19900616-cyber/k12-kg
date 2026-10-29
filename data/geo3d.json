@@ -1,0 +1,28 @@
+{
+ "version": "1.0",
+ "note": "数学 3D 演示映射：本地场景（/demo3d/?scene=）或 GeoGebra 搜索外链。外链只做检索入口，不打包他人作品。",
+ "map": {
+  "sp1-05": { "kind": "local", "scene": "views", "why": "从不同方向看立体图形得到的平面图形" },
+  "sp5-07": { "kind": "ggb", "term": "图形旋转", "why": "旋转中心、方向、角度" },
+  "sp6-06": { "kind": "local", "scene": "conic", "why": "圆锥的截面与体积" },
+  "m7a-6-01": { "kind": "ggb", "term": "立体图形 平面图形", "why": "辨认立体与平面图形" },
+  "m7a-6-02": { "kind": "local", "scene": "views", "why": "三视图：从正面、左面、上面看" },
+  "m7a-6-03": { "kind": "ggb", "term": "正方体展开图", "why": "11 种展开图" },
+  "m7a-6-04": { "kind": "local", "scene": "section", "why": "点动成线、面动成体；截面" },
+  "m9a-3-01": { "kind": "ggb", "term": "旋转的性质", "why": "对应点到旋转中心距离相等" },
+  "m9a-4-06": { "kind": "ggb", "term": "正多边形与圆", "why": "中心角 360°/n" },
+  "m9a-4-08": { "kind": "ggb", "term": "三角形内切圆", "why": "内心与三边距离" },
+  "m9b-2-04": { "kind": "ggb", "term": "位似图形", "why": "位似中心与位似比" },
+  "m9b-4-01": { "kind": "ggb", "term": "平行投影 中心投影", "why": "投影的分类" },
+  "m9b-4-02": { "kind": "local", "scene": "views", "why": "三视图与「长对正高平齐宽相等」" },
+  "hm2-09": { "kind": "local", "scene": "section", "why": "棱柱棱锥棱台与截面" },
+  "hm2-10": { "kind": "local", "scene": "sphere", "why": "外接球半径 √3/2·a" },
+  "hm2-11": { "kind": "ggb", "term": "空间点直线平面位置关系", "why": "异面直线与所成角" },
+  "sx-01": { "kind": "ggb", "term": "空间直角坐标系", "why": "空间点的坐标" },
+  "sx-02": { "kind": "ggb", "term": "空间向量坐标运算", "why": "数量积与夹角" },
+  "sx-03": { "kind": "ggb", "term": "空间向量 二面角", "why": "法向量求角与距离" },
+  "sx-13": { "kind": "local", "scene": "conic", "why": "圆锥曲线的截面来源" },
+  "hz-06": { "kind": "local", "scene": "section", "why": "立体几何综合：截面与建系" },
+  "hz-07": { "kind": "local", "scene": "conic", "why": "圆锥曲线综合" }
+ }
+}
