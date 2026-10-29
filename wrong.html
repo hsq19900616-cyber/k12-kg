@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>错题本 · 数学知识图谱</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2563eb">
+</head>
+<body>
+<header>
+  <a class="brand" href="index.html">中小学知识图谱</a>
+  <nav><a href="diagnose.html">诊断</a><a href="explore.html">图谱</a><a href="review.html">复习</a><a href="lab.html">3D 实验</a><a href="wrong.html">错题本</a></nav>
+</header>
+<main>
+  <h1>错题本</h1>
+  <p class="sub">按知识点聚合错题，显示 BKT 掌握度。数据只存在本机浏览器，不上传。</p>
+  <div id="wbar"></div>
+  <div id="list">加载中…</div>
+  <p class="note">掌握度是贝叶斯知识追踪（BKT）的估计值：答对上升、答错下降，默认起点 30%。
+    低于 50% 说明该点还没稳，建议重测或回补先修。</p>
+</main>
+<script src="app.js"></script>
+<script>
+loadAll().then(() => renderWrong()).catch(e => {
+  document.getElementById('list').textContent = '数据加载失败：' + e.message;
+});
+</script>
+</body>
+</html>
