@@ -1,0 +1,32 @@
+{
+  "topics": [
+    {"id":"m8b-1-01","name":"二次根式的概念与性质","stage":"初中","grade":8,"term":2,"chapter":"二次根式","core":true,"desc":"形如 √a（a≥0）的式子叫二次根式；√(a²)=|a|，双重非负性：a≥0 且 √a≥0。"},
+    {"id":"m8b-1-02","name":"二次根式的乘除","stage":"初中","grade":8,"term":2,"chapter":"二次根式","core":true,"desc":"√a·√b=√(ab)，√a÷√b=√(a/b)；结果要化成最简二次根式。"},
+    {"id":"m8b-1-03","name":"二次根式的加减","stage":"初中","grade":8,"term":2,"chapter":"二次根式","core":true,"desc":"先化简为最简二次根式，再合并被开方数相同的项（同类二次根式）。"},
+
+    {"id":"m8b-2-01","name":"勾股定理","stage":"初中","grade":8,"term":2,"chapter":"勾股定理","core":true,"desc":"直角三角形两直角边的平方和等于斜边的平方：a²+b²=c²。"},
+    {"id":"m8b-2-02","name":"勾股定理的逆定理","stage":"初中","grade":8,"term":2,"chapter":"勾股定理","core":true,"desc":"若三角形三边满足 a²+b²=c²，则它是直角三角形，c 所对的角是直角。"},
+    {"id":"m8b-2-03","name":"勾股定理的应用","stage":"初中","grade":8,"term":2,"chapter":"勾股定理","core":true,"desc":"求距离、折叠、最短路径（展开图用勾股）等问题都化为直角三角形处理。"},
+
+    {"id":"m8b-3-01","name":"平行四边形的性质","stage":"初中","grade":8,"term":2,"chapter":"四边形","core":true,"desc":"对边平行且相等，对角相等，对角线互相平分。"},
+    {"id":"m8b-3-02","name":"平行四边形的判定","stage":"初中","grade":8,"term":2,"chapter":"四边形","core":true,"desc":"两组对边分别平行、两组对边分别相等、一组对边平行且相等、对角线互相平分，任一即可判定。"},
+    {"id":"m8b-3-03","name":"三角形的中位线","stage":"初中","grade":8,"term":2,"chapter":"四边形","core":true,"desc":"连接三角形两边中点的线段平行于第三边，且等于第三边的一半。"},
+    {"id":"m8b-3-04","name":"矩形","stage":"初中","grade":8,"term":2,"chapter":"特殊的平行四边形","core":true,"desc":"有一个角是直角的平行四边形；四个角都是直角，对角线相等。"},
+    {"id":"m8b-3-05","name":"菱形","stage":"初中","grade":8,"term":2,"chapter":"特殊的平行四边形","core":true,"desc":"有一组邻边相等的平行四边形；四条边相等，对角线互相垂直且平分每组对角。"},
+    {"id":"m8b-3-06","name":"正方形","stage":"初中","grade":8,"term":2,"chapter":"特殊的平行四边形","core":true,"desc":"既是矩形又是菱形的平行四边形；四边相等、四角为直角、对角线相等且垂直平分。"},
+
+    {"id":"m8b-4-01","name":"函数的概念","stage":"初中","grade":8,"term":2,"chapter":"函数","core":true,"desc":"在一个变化过程中有两个变量，给定自变量的值就有唯一确定的函数值；自变量的取值要使式子有意义。"},
+    {"id":"m8b-4-06","name":"函数的表示","stage":"初中","grade":8,"term":2,"chapter":"函数","core":true,"desc":"函数有三种表示法：解析式、列表、图象；三者可互相转化，实际问题常先列表描点再拟合。"},
+    {"id":"m8b-4-02","name":"正比例函数","stage":"初中","grade":8,"term":2,"chapter":"一次函数","core":true,"desc":"形如 y=kx（k≠0）的函数，图象是过原点的直线；k>0 时 y 随 x 增大而增大。"},
+    {"id":"m8b-4-03","name":"一次函数的图象与性质","stage":"初中","grade":8,"term":2,"chapter":"一次函数","core":true,"desc":"y=kx+b（k≠0）的图象是直线；k 决定增减，b 决定与 y 轴交点。"},
+    {"id":"m8b-4-04","name":"待定系数法求解析式","stage":"初中","grade":8,"term":2,"chapter":"一次函数","core":true,"desc":"设 y=kx+b，代入两组已知对应值解方程组求 k、b。"},
+    {"id":"m8b-4-05","name":"一次函数与方程、不等式","stage":"初中","grade":8,"term":2,"chapter":"一次函数","core":true,"desc":"图象与 x 轴交点横坐标是 kx+b=0 的解；图象在 x 轴上方部分是 kx+b>0 的解集。"},
+    {"id":"m8b-4-07","name":"实际问题与一次函数","stage":"初中","grade":8,"term":2,"chapter":"一次函数","core":true,"desc":"从实际问题中提取两个变量的线性关系，求解析式后用图象或性质做预测、比价、方案选择。"},
+
+    {"id":"m8b-5-01","name":"平均数","stage":"初中","grade":8,"term":2,"chapter":"数据的分析","core":true,"desc":"算术平均数等于数据总和除以个数；加权平均数按权重计算。"},
+    {"id":"m8b-5-02","name":"中位数与众数","stage":"初中","grade":8,"term":2,"chapter":"数据的分析","core":true,"desc":"排序后居中的数（中间两数平均）是中位数；出现次数最多的数是众数。"},
+    {"id":"m8b-5-03","name":"方差","stage":"初中","grade":8,"term":2,"chapter":"数据的分析","core":true,"desc":"各数据与平均数差的平方的平均数，衡量波动大小；方差越小越稳定。"},
+    {"id":"m8b-5-04","name":"四分位数","stage":"初中","grade":8,"term":2,"chapter":"数据的分析","core":false,"desc":"把排序后的数据分成四等份的三个分界点：Q1、Q2、Q3；用四分位距 Q3-Q1 刻画中间一半数据的离散程度。"},
+    {"id":"m8b-5-05","name":"数据的分组","stage":"初中","grade":8,"term":2,"chapter":"数据的分析","core":false,"desc":"按组距分组统计频数、绘制频数分布表与直方图，用分组数据估计整体的分布特征。"}
+  ]
+}
