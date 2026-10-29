@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>知识图谱 · 数学</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2563eb">
+</head>
+<body>
+<header>
+  <a class="brand" href="index.html">中小学知识图谱</a>
+  <nav><a href="diagnose.html">诊断</a><a href="explore.html">图谱</a><a href="review.html">复习</a><a href="lab.html">3D 实验</a><a href="wrong.html">错题本</a></nav>
+</header>
+<main>
+  <h1>知识图谱</h1>
+  <p class="sub">横轴按章排列，纵轴按年级与先后。橙色=先修，绿色=后继，虚线=软先修。点击节点看详情。</p>
+  <div class="card" style="padding:10px 14px;margin-bottom:12px;display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+    <span class="meta">按册筛选</span><select id="vol"></select>
+    <input id="q" placeholder="搜知识点 / 关键词"
+      style="flex:1;min-width:160px;padding:8px 10px;border:1px solid var(--line);border-radius:9px;font:inherit">
+    <a class="meta" href="explore.html">看全部</a>
+  </div>
+  <div id="graphwrap">加载中…</div>
+  <div id="detail"></div>
+  <p class="note">先修边方向：从左（已学）指向右（后学）。小学锚点在最左一列。</p>
+</main>
+<script src="app.js"></script>
+<script>
+loadAll().then(() => renderExplore()).catch(e => {
+  document.getElementById('graphwrap').textContent = '数据加载失败：' + e.message;
+});
+</script>
+</body>
+</html>
