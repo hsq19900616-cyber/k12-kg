@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>3D 数学演示</title>
+<link rel="icon" href="data:,">
+<style>
+  :root{--bg:#0f1115;--panel:#171b22;--line:#2a3138;--text:#e6e9ee;--muted:#9aa3af;--acc:#5b8cff}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;overflow:hidden}
+  header{display:flex;gap:8px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+  header b{font-size:15px;margin-right:6px}
+  header .sp{flex:1}
+  button{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:6px 12px;cursor:pointer;font:inherit}
+  button.on{border-color:var(--acc);color:var(--acc);background:#1b2230}
+  #stage{position:relative;height:calc(100vh - 52px)}
+  #main{display:block;width:100%;height:100%;touch-action:none}
+  #hud{position:absolute;left:16px;bottom:16px;background:rgba(23,27,34,.94);border:1px solid var(--line);
+    border-radius:12px;padding:12px 14px;width:300px}
+  #hud label{display:block;color:var(--muted);font-size:12.5px;margin-bottom:6px}
+  #hud input[type=range]{width:100%}
+  #hud .v{color:var(--acc);font-weight:700;font-variant-numeric:tabular-nums}
+  #hud .note{color:var(--muted);font-size:12px;margin-top:8px;line-height:1.55}
+  #tip{position:absolute;right:16px;top:12px;color:var(--muted);font-size:12.5px;text-align:right;line-height:1.7}
+  #views{position:absolute;right:16px;bottom:16px;display:none;gap:10px}
+  .vw{background:rgba(23,27,34,.94);border:1px solid var(--line);border-radius:10px;padding:6px;text-align:center;font-size:12px;color:var(--muted)}
+  .vw canvas{display:block;width:150px;height:130px;border-radius:6px}
+</style>
+</head>
+<body>
+<header>
+  <b>3D 数学演示</b>
+  <button data-scene="section" class="on">正方体截面</button>
+  <button data-scene="views">三视图</button>
+  <button data-scene="conic">圆锥曲线截面</button>
+  <button data-scene="sphere">外接球</button>
+  <span class="sp"></span>
+  <span style="color:var(--muted);font-size:12.5px">拖动旋转 · 滚轮缩放 · 双击复位</span>
+</header>
+<main id="stage">
+  <canvas id="main"></canvas>
+  <div id="hud">
+    <label><span id="hlab">截面位置 d</span> <span class="v" id="hv">0.00</span></label>
+    <input id="h" type="range" min="-1.8" max="1.8" step="0.01" value="0">
+    <div class="note" id="hnote"></div>
+  </div>
+  <div id="views">
+    <div class="vw">主视图<canvas id="v1"></canvas></div>
+    <div class="vw">左视图<canvas id="v2"></canvas></div>
+    <div class="vw">俯视图<canvas id="v3"></canvas></div>
+  </div>
+  <div id="tip">以 center 为原点，边长 2</div>
+</main>
+<script src="three.min.js"></script>
+<script>
+const cvs = document.getElementById('main');
+const renderer = new THREE.WebGLRenderer({ canvas: cvs, antialias: true });
+renderer.setPixelRatio(Math.min(2, devicePixelRatio));
+renderer.localClippingEnabled = true;
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x0f1115);
+const cam = new THREE.PerspectiveCamera(42, 1, 0.1, 200);
+cam.position.set(3.4, 2.8, 4.4);
+
+scene.add(new THREE.HemisphereLight(0xbfd4ff, 0x1a1f27, 1.0));
+const L1 = new THREE.DirectionalLight(0xffffff, 1.6); L1.position.set(5, 9, 6); scene.add(L1);
+const L2 = new THREE.DirectionalLight(0x88aaff, 0.55); L2.position.set(-6, -4, -5); scene.add(L2);
+
+/* ---------- 相机交互 ---------- */
+let rotY = -0.65, rotX = 0.28, dist = 6.6, drag = null;
+cvs.addEventListener('pointerdown', e => { drag = { x: e.clientX, y: e.clientY, rx: rotX, ry: rotY }; cvs.setPointerCapture(e.pointerId); });
+cvs.addEventListener('pointermove', e => {
+  if (!drag) return;
+  rotY = drag.ry + (e.clientX - drag.x) * 0.008;
+  rotX = Math.max(-1.25, Math.min(1.25, drag.rx + (e.clientY - drag.y) * 0.008));
+});
+addEventListener('pointerup', () => drag = null);
+cvs.addEventListener('wheel', e => { e.preventDefault(); dist = Math.max(3.4, Math.min(14, dist + e.deltaY * 0.0035)); }, { passive: false });
+cvs.addEventListener('dblclick', () => { rotX = 0.28; rotY = -0.65; dist = 6.6; });
+
+/* ---------- 通用材质 ---------- */
+const solidMat = (color, opts = {}) => new THREE.MeshStandardMaterial(Object.assign({
+  color, metalness: 0.18, roughness: 0.42, transparent: true, opacity: 0.92, side: THREE.DoubleSide
+}, opts));
+
+function clearScene() {
+  for (const o of [...scene.children]) {
+    if (o.isLight) continue;
+    scene.remove(o);
+    o.traverse?.(x => { x.geometry?.dispose?.(); });
+  }
+}
+
+/* ================= 场景 1：正方体截面 ================= */
+function sceneSection() {
+  const N = new THREE.Vector3(1, 1, 1).normalize();
+  const plane = new THREE.Plane(N.clone().negate(), 0);
+  const mat = solidMat(0x3f6fd8, { clippingPlanes: [plane] });
+  const cube = new THREE.Mesh(new THREE.BoxGeometry(2, 2, 2), mat);
+  const edges = new THREE.LineSegments(new THREE.EdgesGeometry(new THREE.BoxGeometry(2, 2, 2)),
+    new THREE.LineBasicMaterial({ color: 0x9fc0ff, transparent: true, opacity: 0.8 }));
+  const secMesh = new THREE.Mesh(new THREE.BufferGeometry(),
+    new THREE.MeshBasicMaterial({ color: 0xffc857, side: THREE.DoubleSide, transparent: true, opacity: 0.5 }));
+  const secLine = new THREE.LineLoop(new THREE.BufferGeometry(),
+    new THREE.LineBasicMaterial({ color: 0xffd98a }));
+  scene.add(cube, edges, secMesh, secLine);
+
+  const V = [];
+  for (const x of [-1, 1]) for (const y of [-1, 1]) for (const z of [-1, 1]) V.push(new THREE.Vector3(x, y, z));
+  const E = [];
+  for (let i = 0; i < 8; i++) for (let j = i + 1; j < 8; j++) {
+    const a = V[i], b = V[j];
+    let diff = 0; if (a.x !== b.x) diff++; if (a.y !== b.y) diff++; if (a.z !== b.z) diff++;
+    if (diff === 1) E.push([a, b]);
+  }
+  const u = new THREE.Vector3(0, 1, 0).cross(N).normalize();
+  const v = new THREE.Vector3().crossVectors(N, u).normalize();
+
+  function sec(d) {
+    const f = p => N.dot(p) - d;
+    const pts = [];
+    for (const [a, b] of E) {
+      const fa = f(a), fb = f(b);
+      if (Math.abs(fa) < 1e-6) pts.push(a.clone());
+      if (fa * fb < 0) pts.push(new THREE.Vector3().lerpVectors(a, b, fa / (fa - fb)));
+    }
+    const uniq = [];
+    pts.forEach(p => { if (!uniq.some(q => q.distanceTo(p) < 1e-4)) uniq.push(p); });
+    if (uniq.length < 3) return uniq;
+    const c = new THREE.Vector3(); uniq.forEach(p => c.add(p)); c.divideScalar(uniq.length);
+    uniq.sort((p, q) => {
+      const dp = p.clone().sub(c), dq = q.clone().sub(c);
+      return Math.atan2(dp.dot(v), dp.dot(u)) - Math.atan2(dq.dot(v), dq.dot(u));
+    });
+    return uniq;
+  }
+  return {
+    label: '截面位置 d', min: -1.8, max: 1.8, val: 0,
+    update(d) {
+      plane.constant = d;
+      const pts = sec(d);
+      if (pts.length < 3) { secMesh.visible = secLine.visible = false; return `d=${d.toFixed(2)}：无截面`; }
+      secMesh.visible = secLine.visible = true;
+      const c = new THREE.Vector3(); pts.forEach(p => c.add(p)); c.divideScalar(pts.length);
+      const pos = [c.x, c.y, c.z], idx = [];
+      pts.forEach(p => pos.push(p.x, p.y, p.z));
+      for (let i = 1; i <= pts.length; i++) idx.push(0, i, i % pts.length + 1);
+      const g = new THREE.BufferGeometry();
+      g.setAttribute('position', new THREE.Float32BufferAttribute(pos, 3));
+      g.setIndex(idx); g.computeVertexNormals();
+      secMesh.geometry.dispose(); secMesh.geometry = g;
+      secLine.geometry.dispose();
+      secLine.geometry = new THREE.BufferGeometry().setFromPoints(pts);
+      const name = { 3: '三角形', 4: '四边形', 5: '五边形', 6: '六边形' }[pts.length] || `${pts.length} 边形`;
+      return `截面是${name}（${pts.length} 条边）`;
+    }
+  };
+}
+
+/* ================= 场景 2：三视图 ================= */
+function sceneViews() {
+  const cube = new THREE.Mesh(new THREE.BoxGeometry(2, 2, 2), solidMat(0x3f6fd8, { opacity: 0.95 }));
+  const edges = new THREE.LineSegments(new THREE.EdgesGeometry(new THREE.BoxGeometry(2, 2, 2)),
+    new THREE.LineBasicMaterial({ color: 0x9fc0ff }));
+  scene.add(cube, edges);
+  return {
+    label: '旋转角度（可拖动主视图）', min: 0, max: 360, val: 0, views: true,
+    update(v) { return '主、左、俯三个正投影：长对正、高平齐、宽相等'; }
+  };
+}
+
+/* ================= 场景 3：圆锥曲线截面 ================= */
+function sceneConic() {
+  const H = 2, R = 1, apexY = 1, tanA = R / H;
+  const cone = new THREE.Mesh(new THREE.ConeGeometry(R, H, 64, 1, true),
+    solidMat(0x2f8f7a, { opacity: 0.9, clippingPlanes: [] }));
+  cone.position.y = 0;
+  const wire = new THREE.LineSegments(new THREE.EdgesGeometry(new THREE.ConeGeometry(R, H, 32, 1, true), 25),
+    new THREE.LineBasicMaterial({ color: 0x74d6c0, transparent: true, opacity: 0.5 }));
+  wire.position.y = 0;
+  const curve = new THREE.LineSegments(new THREE.BufferGeometry(), new THREE.LineBasicMaterial({ color: 0xffc857 }));
+  scene.add(cone, wire, curve);
+
+  let tilt = 0.35; // 平面与水平面夹角
+  const plane = new THREE.Plane(new THREE.Vector3(), 0);
+
+  function build(d) {
+    const n = new THREE.Vector3(Math.sin(tilt), Math.cos(tilt), 0).normalize();
+    plane.normal.copy(n); plane.constant = -d;
+    cone.material.clippingPlanes = [plane];
+    cone.material.needsUpdate = true;
+
+    const segs = [];
+    let cur = [];
+    const STEP = 720;
+    for (let i = 0; i <= STEP; i++) {
+      const th = i / STEP * Math.PI * 2;
+      const den = (n.x * Math.cos(th) * tanA) - n.y + (n.z * Math.sin(th) * tanA);
+      const h = den === 0 ? Infinity : (d - n.y) / den;
+      if (h > 1e-4 && h < H) {
+        const r = h * tanA;
+        cur.push(new THREE.Vector3(r * Math.cos(th), apexY - h, r * Math.sin(th)));
+      } else if (cur.length) { segs.push(cur); cur = []; }
+    }
+    if (cur.length) segs.push(cur);
+
+    const pos = [];
+    segs.forEach(s => {
+      for (let i = 0; i < s.length - 1; i++) {
+        pos.push(s[i].x, s[i].y, s[i].z, s[i + 1].x, s[i + 1].y, s[i + 1].z);
+      }
+    });
+    const g = new THREE.BufferGeometry();
+    g.setAttribute('position', new THREE.Float32BufferAttribute(pos, 3));
+    curve.geometry.dispose(); curve.geometry = g;
+
+    const alphaDeg = Math.atan(tanA) * 180 / Math.PI;
+    const tDeg = tilt * 180 / Math.PI;
+    let name = '圆';
+    if (tDeg > 0.5 && tDeg < alphaDeg - 0.5) name = '椭圆';
+    else if (Math.abs(tDeg - alphaDeg) <= 0.5) name = '抛物线';
+    else if (tDeg > alphaDeg + 0.5) name = '双曲线（两支）';
+    return `倾角 ${tDeg.toFixed(0)}°（母线倾角 ${alphaDeg.toFixed(0)}°）→ ${name}`;
+  }
+  return {
+    label: '截面高度', min: -0.2, max: 0.9, val: 0.2,
+    update(d) { return build(d); },
+    setTilt(t) { tilt = t; }
+  };
+}
+
+/* ================= 场景 4：外接球 ================= */
+function sceneSphere() {
+  const g1 = new THREE.Group();
+  scene.add(g1);
+  const cubeMat = solidMat(0xf0a04b, { opacity: 0.35 });
+  const cube = new THREE.Mesh(new THREE.BoxGeometry(1, 1, 1), cubeMat);
+  const cubeEdges = new THREE.LineSegments(new THREE.EdgesGeometry(new THREE.BoxGeometry(1, 1, 1)),
+    new THREE.LineBasicMaterial({ color: 0xffc98a }));
+  const sph = new THREE.Mesh(new THREE.SphereGeometry(1, 48, 32),
+    new THREE.MeshStandardMaterial({ color: 0x5b8cff, transparent: true, opacity: 0.16, side: THREE.DoubleSide, wireframe: false }));
+  const sphWire = new THREE.LineSegments(new THREE.WireframeGeometry(new THREE.SphereGeometry(1, 24, 16)),
+    new THREE.LineBasicMaterial({ color: 0x7ea6ff, transparent: true, opacity: 0.35 }));
+  g1.add(cube, cubeEdges, sph, sphWire);
+  return {
+    label: '正方体棱长 a', min: 0.6, max: 2.6, val: 1.6,
+    update(a) {
+      cube.scale.setScalar(a); cubeEdges.scale.setScalar(a);
+      const R = a * Math.sqrt(3) / 2;
+      sph.scale.setScalar(R); sphWire.scale.setScalar(R);
+      return `外接球半径 R = √3/2·a = ${R.toFixed(3)}（球心为体对角线交点）`;
+    }
+  };
+}
+
+/* ---------- 场景切换 ---------- */
+const builders = { section: sceneSection, views: sceneViews, conic: sceneConic, sphere: sceneSphere };
+let cur = null, curName = 'section';
+const hEl = document.getElementById('h'), hv = document.getElementById('hv'),
+  hlab = document.getElementById('hlab'), hnote = document.getElementById('hnote');
+
+function useScene(name) {
+  clearScene();
+  curName = name;
+  cur = builders[name]();
+  document.querySelectorAll('header button').forEach(b => b.classList.toggle('on', b.dataset.scene === name));
+  hlab.textContent = cur.label;
+  hEl.min = cur.min; hEl.max = cur.max; hEl.step = 0.01; hEl.value = cur.val;
+  hv.textContent = (+cur.val).toFixed(2);
+  document.getElementById('views').style.display = cur.views ? 'flex' : 'none';
+  hnote.textContent = cur.update(+cur.val) || '';
+}
+hEl.oninput = () => {
+  hv.textContent = (+hEl.value).toFixed(2);
+  hnote.textContent = cur.update(+hEl.value) || '';
+};
+document.querySelectorAll('header button').forEach(b => b.onclick = () => useScene(b.dataset.scene));
+
+/* 三视图相机 */
+const VC = {
+  front: new THREE.OrthographicCamera(-1.6, 1.6, 1.6, -1.6, 0.1, 30),
+  left: new THREE.OrthographicCamera(-1.6, 1.6, 1.6, -1.6, 0.1, 30),
+  top: new THREE.OrthographicCamera(-1.6, 1.6, 1.6, -1.6, 0.1, 30)
+};
+VC.front.position.set(0, 0, 8); VC.front.lookAt(0, 0, 0);
+VC.left.position.set(-8, 0, 0); VC.left.lookAt(0, 0, 0);
+VC.top.position.set(0, 8, 0); VC.top.lookAt(0, 0, 0);
+const vR = {
+  v1: new THREE.WebGLRenderer({ canvas: document.getElementById('v1'), antialias: true, alpha: true }),
+  v2: new THREE.WebGLRenderer({ canvas: document.getElementById('v2'), antialias: true, alpha: true }),
+  v3: new THREE.WebGLRenderer({ canvas: document.getElementById('v3'), antialias: true, alpha: true })
+};
+Object.values(vR).forEach(r => r.setPixelRatio(Math.min(2, devicePixelRatio)));
+
+function resize() {
+  const w = cvs.clientWidth, h = cvs.clientHeight;
+  renderer.setSize(w, h, false);
+  cam.aspect = w / h; cam.updateProjectionMatrix();
+  [['v1'], ['v2'], ['v3']].forEach(([id]) => {
+    const c = document.getElementById(id);
+    if (c) vR[id].setSize(c.clientWidth, c.clientHeight, false);
+  });
+}
+addEventListener('resize', resize);
+
+function loop() {
+  requestAnimationFrame(loop);
+  cam.position.set(
+    dist * Math.cos(rotX) * Math.sin(rotY),
+    dist * Math.sin(rotX),
+    dist * Math.cos(rotX) * Math.cos(rotY)
+  );
+  cam.lookAt(0, 0, 0);
+  renderer.render(scene, cam);
+  if (curName === 'views') {
+    vR.v1.render(scene, VC.front);
+    vR.v2.render(scene, VC.left);
+    vR.v3.render(scene, VC.top);
+  }
+}
+
+/* 支持 ?scene=conic 直达 */
+const qs = new URLSearchParams(location.search).get('scene');
+resize();
+useScene(builders[qs] ? qs : 'section');
+loop();
+</script>
+</body>
+</html>
