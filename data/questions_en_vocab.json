@@ -1,0 +1,784 @@
+{
+  "questions": [
+    {
+      "id": "qv-01-1",
+      "topic": "ev-01",
+      "level": 1,
+      "stem": "father 的意思是",
+      "options": [
+        "哥哥",
+        "爸爸",
+        "妈妈"
+      ],
+      "answer": 1,
+      "explain": "mother 是妈妈。"
+    },
+    {
+      "id": "qv-01-2",
+      "topic": "ev-01",
+      "level": 1,
+      "stem": "This is my ___.（妈妈）",
+      "options": [
+        "father",
+        "brother",
+        "mother"
+      ],
+      "answer": 2,
+      "explain": "介绍家人用 This is my ..."
+    },
+    {
+      "id": "qv-02-1",
+      "topic": "ev-02",
+      "level": 1,
+      "stem": "「铅笔」的英文是",
+      "options": [
+        "pencil",
+        "pen",
+        "ruler"
+      ],
+      "answer": 0,
+      "explain": "pen 是钢笔，ruler 是尺子。"
+    },
+    {
+      "id": "qv-02-2",
+      "topic": "ev-02",
+      "level": 1,
+      "stem": "「教室」的英文是",
+      "options": [
+        "book",
+        "classroom",
+        "desk"
+      ],
+      "answer": 1,
+      "explain": "class + room。"
+    },
+    {
+      "id": "qv-03-1",
+      "topic": "ev-03",
+      "level": 1,
+      "stem": "「蓝色」的英文是",
+      "options": [
+        "black",
+        "brown",
+        "blue"
+      ],
+      "answer": 2,
+      "explain": "black 黑，brown 棕。"
+    },
+    {
+      "id": "qv-03-2",
+      "topic": "ev-03",
+      "level": 1,
+      "stem": "「红色」的英文是",
+      "options": [
+        "red",
+        "green",
+        "yellow"
+      ],
+      "answer": 0,
+      "explain": "green 绿，yellow 黄。"
+    },
+    {
+      "id": "qv-04-1",
+      "topic": "ev-04",
+      "level": 1,
+      "stem": "「牛奶」的英文是",
+      "options": [
+        "bread",
+        "milk",
+        "rice"
+      ],
+      "answer": 1,
+      "explain": "rice 米饭，bread 面包。"
+    },
+    {
+      "id": "qv-04-2",
+      "topic": "ev-04",
+      "level": 1,
+      "stem": "「面包」的英文是",
+      "options": [
+        "egg",
+        "juice",
+        "bread"
+      ],
+      "answer": 2,
+      "explain": "egg 蛋，juice 果汁。"
+    },
+    {
+      "id": "qv-05-1",
+      "topic": "ev-05",
+      "level": 1,
+      "stem": "「熊猫」的英文是",
+      "options": [
+        "panda",
+        "tiger",
+        "monkey"
+      ],
+      "answer": 0,
+      "explain": "tiger 老虎，monkey 猴子。"
+    },
+    {
+      "id": "qv-05-2",
+      "topic": "ev-05",
+      "level": 1,
+      "stem": "「鸟」的英文是",
+      "options": [
+        "dog",
+        "bird",
+        "fish"
+      ],
+      "answer": 1,
+      "explain": "fish 鱼，dog 狗。"
+    },
+    {
+      "id": "qv-06-1",
+      "topic": "ev-06",
+      "level": 1,
+      "stem": "「手」的英文是",
+      "options": [
+        "head",
+        "eye",
+        "hand"
+      ],
+      "answer": 2,
+      "explain": "head 头，eye 眼睛。"
+    },
+    {
+      "id": "qv-06-2",
+      "topic": "ev-06",
+      "level": 1,
+      "stem": "「鞋」的英文是",
+      "options": [
+        "shoes",
+        "shirt",
+        "coat"
+      ],
+      "answer": 0,
+      "explain": "shirt 衬衫，coat 外套。"
+    },
+    {
+      "id": "qv-07-1",
+      "topic": "ev-07",
+      "level": 1,
+      "stem": "「下雨的」的英文是",
+      "options": [
+        "windy",
+        "rainy",
+        "sunny"
+      ],
+      "answer": 1,
+      "explain": "sunny 晴朗，windy 有风。"
+    },
+    {
+      "id": "qv-07-2",
+      "topic": "ev-07",
+      "level": 1,
+      "stem": "「多云的」的英文是",
+      "options": [
+        "snowy",
+        "hot",
+        "cloudy"
+      ],
+      "answer": 2,
+      "explain": "snowy 下雪，hot 热。"
+    },
+    {
+      "id": "qv-08-1",
+      "topic": "ev-08",
+      "level": 1,
+      "stem": "「起床」的英文是",
+      "options": [
+        "get up",
+        "go to bed",
+        "have lunch"
+      ],
+      "answer": 0,
+      "explain": "go to bed 是睡觉。"
+    },
+    {
+      "id": "qv-08-2",
+      "topic": "ev-08",
+      "level": 1,
+      "stem": "「做作业」的英文是",
+      "options": [
+        "get up",
+        "do homework",
+        "have lunch"
+      ],
+      "answer": 1,
+      "explain": "have lunch 吃午饭。"
+    },
+    {
+      "id": "qv-09-1",
+      "topic": "ev-09",
+      "level": 1,
+      "stem": "「游泳」的英文是",
+      "options": [
+        "sing",
+        "draw",
+        "swim"
+      ],
+      "answer": 2,
+      "explain": "sing 唱歌，draw 画画。"
+    },
+    {
+      "id": "qv-09-2",
+      "topic": "ev-09",
+      "level": 1,
+      "stem": "「踢足球」的英文是",
+      "options": [
+        "play football",
+        "play basketball",
+        "dance"
+      ],
+      "answer": 0,
+      "explain": "注意搭配 play + 球类。"
+    },
+    {
+      "id": "qv-10-1",
+      "topic": "ev-10",
+      "level": 1,
+      "stem": "「医生」的英文是",
+      "options": [
+        "farmer",
+        "doctor",
+        "driver"
+      ],
+      "answer": 1,
+      "explain": "driver 司机，farmer 农民。"
+    },
+    {
+      "id": "qv-10-2",
+      "topic": "ev-10",
+      "level": 2,
+      "stem": "— What does he do? — He is a ___.（老师）",
+      "options": [
+        "teach",
+        "teaching",
+        "teacher"
+      ],
+      "answer": 2,
+      "explain": "问职业，答名词。"
+    },
+    {
+      "id": "qv-11-1",
+      "topic": "ev-11",
+      "level": 1,
+      "stem": "「骑自行车去」的英文是",
+      "options": [
+        "by bike",
+        "by bus",
+        "on foot"
+      ],
+      "answer": 0,
+      "explain": "by + 交通工具。"
+    },
+    {
+      "id": "qv-11-2",
+      "topic": "ev-11",
+      "level": 1,
+      "stem": "「步行」的英文是",
+      "options": [
+        "by bus",
+        "on foot",
+        "by car"
+      ],
+      "answer": 1,
+      "explain": "固定搭配 on foot。"
+    },
+    {
+      "id": "qv-12-1",
+      "topic": "ev-12",
+      "level": 1,
+      "stem": "「春节」的英文是",
+      "options": [
+        "Christmas",
+        "birthday",
+        "Spring Festival"
+      ],
+      "answer": 2,
+      "explain": "Christmas 圣诞节。"
+    },
+    {
+      "id": "qv-12-2",
+      "topic": "ev-12",
+      "level": 1,
+      "stem": "「生日」的英文是",
+      "options": [
+        "birthday",
+        "party",
+        "present"
+      ],
+      "answer": 0,
+      "explain": "party 聚会，present 礼物。"
+    },
+    {
+      "id": "qv-13-1",
+      "topic": "ev-13",
+      "level": 2,
+      "stem": "「戴眼镜」的英文是",
+      "options": [
+        "have long hair",
+        "wear glasses",
+        "wear a hat"
+      ],
+      "answer": 1,
+      "explain": "wear + 饰品。"
+    },
+    {
+      "id": "qv-13-2",
+      "topic": "ev-13",
+      "level": 2,
+      "stem": "「卷发」的英文是",
+      "options": [
+        "straight hair",
+        "short hair",
+        "curly hair"
+      ],
+      "answer": 2,
+      "explain": "straight 直发。"
+    },
+    {
+      "id": "qv-14-1",
+      "topic": "ev-14",
+      "level": 2,
+      "stem": "「外向的」的英文是",
+      "options": [
+        "outgoing",
+        "quiet",
+        "shy"
+      ],
+      "answer": 0,
+      "explain": "quiet 安静，shy 害羞。"
+    },
+    {
+      "id": "qv-14-2",
+      "topic": "ev-14",
+      "level": 2,
+      "stem": "「勤奋的」的英文是",
+      "options": [
+        "friendly",
+        "hard-working",
+        "funny"
+      ],
+      "answer": 1,
+      "explain": "funny 有趣，friendly 友好。"
+    },
+    {
+      "id": "qv-15-1",
+      "topic": "ev-15",
+      "level": 2,
+      "stem": "「科目」的英文是",
+      "options": [
+        "exam",
+        "homework",
+        "subject"
+      ],
+      "answer": 2,
+      "explain": "exam 考试，homework 作业。"
+    },
+    {
+      "id": "qv-15-2",
+      "topic": "ev-15",
+      "level": 2,
+      "stem": "「历史」的英文是",
+      "options": [
+        "history",
+        "science",
+        "math"
+      ],
+      "answer": 0,
+      "explain": "science 科学，math 数学。"
+    },
+    {
+      "id": "qv-16-1",
+      "topic": "ev-16",
+      "level": 2,
+      "stem": "表示「几乎不」的频率副词是",
+      "options": [
+        "usually",
+        "hardly ever",
+        "always"
+      ],
+      "answer": 1,
+      "explain": "always 总是，usually 通常。"
+    },
+    {
+      "id": "qv-16-2",
+      "topic": "ev-16",
+      "level": 2,
+      "stem": "表示「从不」的频率副词是",
+      "options": [
+        "often",
+        "sometimes",
+        "never"
+      ],
+      "answer": 2,
+      "explain": "often 经常，sometimes 有时。"
+    },
+    {
+      "id": "qv-17-1",
+      "topic": "ev-17",
+      "level": 2,
+      "stem": "「垃圾食品」的英文是",
+      "options": [
+        "junk food",
+        "vegetable",
+        "fruit"
+      ],
+      "answer": 0,
+      "explain": "junk food 指高糖高油食品。"
+    },
+    {
+      "id": "qv-17-2",
+      "topic": "ev-17",
+      "level": 2,
+      "stem": "给他提建议，用",
+      "options": [
+        "can to",
+        "should",
+        "must to"
+      ],
+      "answer": 1,
+      "explain": "情态动词后不接 to。"
+    },
+    {
+      "id": "qv-18-1",
+      "topic": "ev-18",
+      "level": 2,
+      "stem": "「便宜的」的英文是",
+      "options": [
+        "expensive",
+        "price",
+        "cheap"
+      ],
+      "answer": 2,
+      "explain": "expensive 昂贵，price 价格。"
+    },
+    {
+      "id": "qv-18-2",
+      "topic": "ev-18",
+      "level": 2,
+      "stem": "询问价格用",
+      "options": [
+        "How much",
+        "How many",
+        "How long"
+      ],
+      "answer": 0,
+      "explain": "how many 问数量，how long 问时长。"
+    },
+    {
+      "id": "qv-19-1",
+      "topic": "ev-19",
+      "level": 2,
+      "stem": "「地铁」的英文是",
+      "options": [
+        "journey",
+        "subway",
+        "flight"
+      ],
+      "answer": 1,
+      "explain": "flight 航班，journey 旅程。"
+    },
+    {
+      "id": "qv-19-2",
+      "topic": "ev-19",
+      "level": 2,
+      "stem": "「订票」的英文是",
+      "options": [
+        "take a train",
+        "by plane",
+        "book a ticket"
+      ],
+      "answer": 2,
+      "explain": "book 作动词表预订。"
+    },
+    {
+      "id": "qv-20-1",
+      "topic": "ev-20",
+      "level": 2,
+      "stem": "「污染」的英文是",
+      "options": [
+        "pollution",
+        "climate",
+        "environment"
+      ],
+      "answer": 0,
+      "explain": "climate 气候，environment 环境。"
+    },
+    {
+      "id": "qv-20-2",
+      "topic": "ev-20",
+      "level": 2,
+      "stem": "「回收利用」的英文是",
+      "options": [
+        "waste",
+        "recycle",
+        "save"
+      ],
+      "answer": 1,
+      "explain": "waste 浪费。"
+    },
+    {
+      "id": "qv-21-1",
+      "topic": "ev-21",
+      "level": 2,
+      "stem": "「应用程序」的英文是",
+      "options": [
+        "website",
+        "Internet",
+        "app"
+      ],
+      "answer": 2,
+      "explain": "website 网站，Internet 互联网。"
+    },
+    {
+      "id": "qv-21-2",
+      "topic": "ev-21",
+      "level": 2,
+      "stem": "「下载」的英文是",
+      "options": [
+        "download",
+        "open",
+        "click"
+      ],
+      "answer": 0,
+      "explain": "open 打开，click 点击。"
+    },
+    {
+      "id": "qv-22-1",
+      "topic": "ev-22",
+      "level": 2,
+      "stem": "「志愿者」的英文是",
+      "options": [
+        "community",
+        "volunteer",
+        "charity"
+      ],
+      "answer": 1,
+      "explain": "charity 慈善，community 社区。"
+    },
+    {
+      "id": "qv-22-2",
+      "topic": "ev-22",
+      "level": 2,
+      "stem": "「捐款」的英文是",
+      "options": [
+        "help",
+        "celebrate",
+        "donate"
+      ],
+      "answer": 2,
+      "explain": "help 帮助，celebrate 庆祝。"
+    },
+    {
+      "id": "qv-23-1",
+      "topic": "ev-23",
+      "level": 2,
+      "stem": "「紧张的」的英文是",
+      "options": [
+        "nervous",
+        "confident",
+        "proud"
+      ],
+      "answer": 0,
+      "explain": "confident 自信，proud 自豪。"
+    },
+    {
+      "id": "qv-23-2",
+      "topic": "ev-23",
+      "level": 2,
+      "stem": "「自信的」的英文是",
+      "options": [
+        "worried",
+        "confident",
+        "nervous"
+      ],
+      "answer": 1,
+      "explain": "worried 担心。"
+    },
+    {
+      "id": "qv-24-1",
+      "topic": "ev-24",
+      "level": 2,
+      "stem": "「庆祝」的英文是",
+      "options": [
+        "donate",
+        "recycle",
+        "celebrate"
+      ],
+      "answer": 2,
+      "explain": "donate 捐赠，recycle 回收。"
+    },
+    {
+      "id": "qv-24-2",
+      "topic": "ev-24",
+      "level": 2,
+      "stem": "「问候语」的英文是",
+      "options": [
+        "greeting",
+        "custom",
+        "tradition"
+      ],
+      "answer": 0,
+      "explain": "custom 习俗，tradition 传统。"
+    },
+    {
+      "id": "qv-25-1",
+      "topic": "ev-25",
+      "level": 2,
+      "stem": "做听力前最该先做的事是",
+      "options": [
+        "先看答案",
+        "读题预测",
+        "逐词翻译"
+      ],
+      "answer": 1,
+      "explain": "带着预期去听效率更高。"
+    },
+    {
+      "id": "qv-25-2",
+      "topic": "ev-25",
+      "level": 2,
+      "stem": "遇到没听清的词，正确做法是",
+      "options": [
+        "停下来反复回想",
+        "整段重听",
+        "跳过，抓后面的关键词"
+      ],
+      "answer": 2,
+      "explain": "不要因一个词丢失整段。"
+    },
+    {
+      "id": "qv-26-1",
+      "topic": "ev-26",
+      "level": 2,
+      "stem": "数字 15 读作",
+      "options": [
+        "fifteen",
+        "fifty",
+        "fiveteen"
+      ],
+      "answer": 0,
+      "explain": "-teen 是十几，-ty 是几十。"
+    },
+    {
+      "id": "qv-26-2",
+      "topic": "ev-26",
+      "level": 2,
+      "stem": "8:45 可以说",
+      "options": [
+        "half past eight",
+        "a quarter to nine",
+        "a quarter past eight"
+      ],
+      "answer": 1,
+      "explain": "to 表示差几分到。"
+    },
+    {
+      "id": "qv-27-1",
+      "topic": "ev-27",
+      "level": 2,
+      "stem": "文章主旨常出现在",
+      "options": [
+        "中间段落",
+        "生词旁",
+        "首段和末段"
+      ],
+      "answer": 2,
+      "explain": "总分总结构最常见。"
+    },
+    {
+      "id": "qv-27-2",
+      "topic": "ev-27",
+      "level": 2,
+      "stem": "主旨题问的是",
+      "options": [
+        "文章主要讲什么",
+        "某个词的意思",
+        "作者的年龄"
+      ],
+      "answer": 0,
+      "explain": "主旨≠细节。"
+    },
+    {
+      "id": "qv-28-1",
+      "topic": "ev-28",
+      "level": 2,
+      "stem": "猜测生词含义，最有效的是",
+      "options": [
+        "跳过整篇文章",
+        "用定义、举例和上下文线索",
+        "立刻查词典"
+      ],
+      "answer": 1,
+      "explain": "考试中无法查词。"
+    },
+    {
+      "id": "qv-28-2",
+      "topic": "ev-28",
+      "level": 2,
+      "stem": "看到生词应先",
+      "options": [
+        "放弃这句",
+        "逐字翻译",
+        "找上下文线索"
+      ],
+      "answer": 2,
+      "explain": "语境决定词义。"
+    },
+    {
+      "id": "qv-29-1",
+      "topic": "ev-29",
+      "level": 3,
+      "stem": "判断作者态度，主要看",
+      "options": [
+        "措辞与评价性词语",
+        "文章长度",
+        "生词数量"
+      ],
+      "answer": 0,
+      "explain": "形容词和副词透露态度。"
+    },
+    {
+      "id": "qv-29-2",
+      "topic": "ev-29",
+      "level": 3,
+      "stem": "推理题的正确答案应该",
+      "options": [
+        "选最长的选项",
+        "能由原文推出",
+        "凭常识判断"
+      ],
+      "answer": 1,
+      "explain": "推理要有文本依据。"
+    },
+    {
+      "id": "qv-30-1",
+      "topic": "ev-30",
+      "level": 3,
+      "stem": "段落衔接中，表示转折的连接词是",
+      "options": [
+        "first",
+        "then",
+        "however"
+      ],
+      "answer": 2,
+      "explain": "first/then 表顺序。"
+    },
+    {
+      "id": "qv-30-2",
+      "topic": "ev-30",
+      "level": 3,
+      "stem": "写段落时表示顺序，常用",
+      "options": [
+        "first",
+        "in short",
+        "however"
+      ],
+      "answer": 0,
+      "explain": "in short 表总结。"
+    }
+  ]
+}
