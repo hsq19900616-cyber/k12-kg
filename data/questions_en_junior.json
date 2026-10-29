@@ -1,0 +1,1291 @@
+{
+  "questions": [
+    {
+      "id": "qej-01-1",
+      "topic": "ej-01",
+      "level": 1,
+      "stem": "下面哪个是 child 的正确复数形式",
+      "options": [
+        "childes",
+        "children",
+        "childs"
+      ],
+      "answer": 1,
+      "explain": "不规则变化。"
+    },
+    {
+      "id": "qej-01-2",
+      "topic": "ej-01",
+      "level": 2,
+      "stem": "photo 的复数形式是",
+      "options": [
+        "photoes",
+        "photo",
+        "photos"
+      ],
+      "answer": 2,
+      "explain": "以 o 结尾但属例外，只加 -s。"
+    },
+    {
+      "id": "qej-02-1",
+      "topic": "ej-02",
+      "level": 1,
+      "stem": "two ___ of bread",
+      "options": [
+        "pieces",
+        "piece",
+        "pieceses"
+      ],
+      "answer": 0,
+      "explain": "复数体现在量词上。"
+    },
+    {
+      "id": "qej-02-2",
+      "topic": "ej-02",
+      "level": 1,
+      "stem": "下列哪个名词不能直接用数字修饰、属于不可数名词",
+      "options": [
+        "desk",
+        "information",
+        "apple"
+      ],
+      "answer": 1,
+      "explain": "information 不可数。"
+    },
+    {
+      "id": "qej-03-1",
+      "topic": "ej-03",
+      "level": 1,
+      "stem": "He plays ___ piano very well.",
+      "options": [
+        "a",
+        "/",
+        "the"
+      ],
+      "answer": 2,
+      "explain": "乐器前用 the。"
+    },
+    {
+      "id": "qej-03-2",
+      "topic": "ej-03",
+      "level": 1,
+      "stem": "___ sun rises in the east.",
+      "options": [
+        "The",
+        "A",
+        "/"
+      ],
+      "answer": 0,
+      "explain": "独一无二的事物用 the。"
+    },
+    {
+      "id": "qej-04-1",
+      "topic": "ej-04",
+      "level": 1,
+      "stem": "We have ___ breakfast at seven.",
+      "options": [
+        "the",
+        "/",
+        "a"
+      ],
+      "answer": 1,
+      "explain": "三餐前不用冠词。"
+    },
+    {
+      "id": "qej-04-2",
+      "topic": "ej-04",
+      "level": 1,
+      "stem": "I go to school ___ bus.",
+      "options": [
+        "by a",
+        "by the",
+        "by"
+      ],
+      "answer": 2,
+      "explain": "by + 交通工具不加冠词。"
+    },
+    {
+      "id": "qej-05-1",
+      "topic": "ej-05",
+      "level": 1,
+      "stem": "Please help ___.（我）",
+      "options": [
+        "me",
+        "I",
+        "my"
+      ],
+      "answer": 0,
+      "explain": "动词后用宾格。"
+    },
+    {
+      "id": "qej-05-2",
+      "topic": "ej-05",
+      "level": 1,
+      "stem": "I like ___.（她）",
+      "options": [
+        "hers",
+        "her",
+        "she"
+      ],
+      "answer": 1,
+      "explain": "宾语位置用宾格。"
+    },
+    {
+      "id": "qej-06-1",
+      "topic": "ej-06",
+      "level": 1,
+      "stem": "This book is ___.（我的）",
+      "options": [
+        "my",
+        "me",
+        "mine"
+      ],
+      "answer": 2,
+      "explain": "句末不接名词用名词性物主代词。"
+    },
+    {
+      "id": "qej-06-2",
+      "topic": "ej-06",
+      "level": 2,
+      "stem": "___ is bigger than mine.",
+      "options": [
+        "Yours",
+        "Your",
+        "You"
+      ],
+      "answer": 0,
+      "explain": "作主语用名词性物主代词。"
+    },
+    {
+      "id": "qej-07-1",
+      "topic": "ej-07",
+      "level": 2,
+      "stem": "Enjoy ___!（你们自己）",
+      "options": [
+        "you",
+        "yourselves",
+        "yourself"
+      ],
+      "answer": 1,
+      "explain": "复数用 yourselves。"
+    },
+    {
+      "id": "qej-07-2",
+      "topic": "ej-07",
+      "level": 2,
+      "stem": "He taught ___ English.",
+      "options": [
+        "him",
+        "his",
+        "himself"
+      ],
+      "answer": 2,
+      "explain": "teach oneself 自学。"
+    },
+    {
+      "id": "qej-08-1",
+      "topic": "ej-08",
+      "level": 1,
+      "stem": "There aren't ___ apples in the basket.",
+      "options": [
+        "any",
+        "some",
+        "a"
+      ],
+      "answer": 0,
+      "explain": "否定句用 any。"
+    },
+    {
+      "id": "qej-08-2",
+      "topic": "ej-08",
+      "level": 2,
+      "stem": "Would you like ___ tea?",
+      "options": [
+        "a",
+        "some",
+        "any"
+      ],
+      "answer": 1,
+      "explain": "表请求的疑问句用 some。"
+    },
+    {
+      "id": "qej-09-1",
+      "topic": "ej-09",
+      "level": 2,
+      "stem": "There is ___ wrong with my bike.",
+      "options": [
+        "anything",
+        "some thing",
+        "something"
+      ],
+      "answer": 2,
+      "explain": "肯定句用 something。"
+    },
+    {
+      "id": "qej-09-2",
+      "topic": "ej-09",
+      "level": 2,
+      "stem": "___ can stop him.",
+      "options": [
+        "Nobody",
+        "Nobody not",
+        "Not anybody"
+      ],
+      "answer": 0,
+      "explain": "nobody 本身即否定。"
+    },
+    {
+      "id": "qej-10-1",
+      "topic": "ej-10",
+      "level": 1,
+      "stem": "「第四个」的英文是",
+      "options": [
+        "fourth",
+        "the fourth",
+        "the forth"
+      ],
+      "answer": 1,
+      "explain": "序数词前加 the。"
+    },
+    {
+      "id": "qej-10-2",
+      "topic": "ej-10",
+      "level": 2,
+      "stem": "September is the ___ month of the year.",
+      "options": [
+        "nineth",
+        "nine",
+        "ninth"
+      ],
+      "answer": 2,
+      "explain": "nine 去 e 加 -th。"
+    },
+    {
+      "id": "qej-11-1",
+      "topic": "ej-11",
+      "level": 1,
+      "stem": "two ___ students",
+      "options": [
+        "hundred",
+        "hundreds",
+        "hundreds of"
+      ],
+      "answer": 0,
+      "explain": "有具体数字时用单数。"
+    },
+    {
+      "id": "qej-11-2",
+      "topic": "ej-11",
+      "level": 2,
+      "stem": "___ people came to the show.",
+      "options": [
+        "Hundreds",
+        "Hundreds of",
+        "Hundred of"
+      ],
+      "answer": 1,
+      "explain": "约数用 hundreds of。"
+    },
+    {
+      "id": "qej-12-1",
+      "topic": "ej-12",
+      "level": 1,
+      "stem": "a pair of ___",
+      "options": [
+        "shoe",
+        "shoeses",
+        "shoes"
+      ],
+      "answer": 2,
+      "explain": "成对物品用复数。"
+    },
+    {
+      "id": "qej-12-2",
+      "topic": "ej-12",
+      "level": 1,
+      "stem": "three ___ of water",
+      "options": [
+        "bottles",
+        "bottle",
+        "bottlees"
+      ],
+      "answer": 0,
+      "explain": "量词变复数。"
+    },
+    {
+      "id": "qej-13-1",
+      "topic": "ej-13",
+      "level": 1,
+      "stem": "This is the ___ film I have ever seen.",
+      "options": [
+        "good",
+        "best",
+        "better"
+      ],
+      "answer": 1,
+      "explain": "最高级前加 the。"
+    },
+    {
+      "id": "qej-13-2",
+      "topic": "ej-13",
+      "level": 1,
+      "stem": "He runs ___ than me.",
+      "options": [
+        "fast",
+        "fastest",
+        "faster"
+      ],
+      "answer": 2,
+      "explain": "than 前用比较级。"
+    },
+    {
+      "id": "qej-14-1",
+      "topic": "ej-14",
+      "level": 1,
+      "stem": "Tom is as ___ as Jim.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest"
+      ],
+      "answer": 0,
+      "explain": "as...as 中间用原级。"
+    },
+    {
+      "id": "qej-14-2",
+      "topic": "ej-14",
+      "level": 2,
+      "stem": "This box isn't as ___ as that one.",
+      "options": [
+        "heaviest",
+        "heavy",
+        "heavier"
+      ],
+      "answer": 1,
+      "explain": "not as ... as 仍用原级。"
+    },
+    {
+      "id": "qej-15-1",
+      "topic": "ej-15",
+      "level": 2,
+      "stem": "This book is ___ more interesting than that one.",
+      "options": [
+        "very",
+        "more",
+        "much"
+      ],
+      "answer": 2,
+      "explain": "much 修饰比较级。"
+    },
+    {
+      "id": "qej-15-2",
+      "topic": "ej-15",
+      "level": 2,
+      "stem": "He is ___ taller than me.",
+      "options": [
+        "a little",
+        "very",
+        "too"
+      ],
+      "answer": 0,
+      "explain": "a little 可修饰比较级。"
+    },
+    {
+      "id": "qej-16-1",
+      "topic": "ej-16",
+      "level": 1,
+      "stem": "The film is ___.",
+      "options": [
+        "bore",
+        "boring",
+        "bored"
+      ],
+      "answer": 1,
+      "explain": "修饰物用 -ing。"
+    },
+    {
+      "id": "qej-16-2",
+      "topic": "ej-16",
+      "level": 1,
+      "stem": "I am ___ in music.",
+      "options": [
+        "interesting",
+        "interest",
+        "interested"
+      ],
+      "answer": 2,
+      "explain": "人感到用 -ed。"
+    },
+    {
+      "id": "qej-17-1",
+      "topic": "ej-17",
+      "level": 1,
+      "stem": "I was born ___ 2012.",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 0,
+      "explain": "年份前用 in。"
+    },
+    {
+      "id": "qej-17-2",
+      "topic": "ej-17",
+      "level": 1,
+      "stem": "We'll meet ___ Friday morning.",
+      "options": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": 1,
+      "explain": "具体某天的上午用 on。"
+    },
+    {
+      "id": "qej-18-1",
+      "topic": "ej-18",
+      "level": 1,
+      "stem": "The bank is ___ the post office and the school.",
+      "options": [
+        "among",
+        "in",
+        "between"
+      ],
+      "answer": 2,
+      "explain": "两者之间用 between。"
+    },
+    {
+      "id": "qej-18-2",
+      "topic": "ej-18",
+      "level": 1,
+      "stem": "The cat is ___ the table.（在下面）",
+      "options": [
+        "under",
+        "on",
+        "in"
+      ],
+      "answer": 0,
+      "explain": "下方用 under。"
+    },
+    {
+      "id": "qej-19-1",
+      "topic": "ej-19",
+      "level": 2,
+      "stem": "___ he is young, he knows a lot.",
+      "options": [
+        "Because",
+        "Although",
+        "But"
+      ],
+      "answer": 1,
+      "explain": "让步用 although，不与 but 连用。"
+    },
+    {
+      "id": "qej-19-2",
+      "topic": "ej-19",
+      "level": 2,
+      "stem": "He was ill, ___ he didn't come.",
+      "options": [
+        "because",
+        "although",
+        "so"
+      ],
+      "answer": 2,
+      "explain": "结果用 so，不与 because 连用。"
+    },
+    {
+      "id": "qej-20-1",
+      "topic": "ej-20",
+      "level": 2,
+      "stem": "He ___ be at home. The light is on.",
+      "options": [
+        "must",
+        "can't",
+        "needn't"
+      ],
+      "answer": 0,
+      "explain": "肯定推测用 must。"
+    },
+    {
+      "id": "qej-20-2",
+      "topic": "ej-20",
+      "level": 2,
+      "stem": "It ___ be true. I don't believe it.",
+      "options": [
+        "should",
+        "can't",
+        "must"
+      ],
+      "answer": 1,
+      "explain": "否定推测用 can't。"
+    },
+    {
+      "id": "qej-21-1",
+      "topic": "ej-21",
+      "level": 2,
+      "stem": "You'd better ___ now.",
+      "options": [
+        "to go",
+        "going",
+        "go"
+      ],
+      "answer": 2,
+      "explain": "had better 后接原形。"
+    },
+    {
+      "id": "qej-21-2",
+      "topic": "ej-21",
+      "level": 2,
+      "stem": "You'd better ___ late.",
+      "options": [
+        "not be",
+        "not to be",
+        "don't be"
+      ],
+      "answer": 0,
+      "explain": "否定式 had better not do。"
+    },
+    {
+      "id": "qej-22-1",
+      "topic": "ej-22",
+      "level": 2,
+      "stem": "He ___ smoke, but now he doesn't.",
+      "options": [
+        "use to",
+        "used to",
+        "is used to"
+      ],
+      "answer": 1,
+      "explain": "过去常常用 used to do。"
+    },
+    {
+      "id": "qej-22-2",
+      "topic": "ej-22",
+      "level": 3,
+      "stem": "She is used to ___ early.",
+      "options": [
+        "get up",
+        "got up",
+        "getting up"
+      ],
+      "answer": 2,
+      "explain": "be used to doing 习惯于。"
+    },
+    {
+      "id": "qej-23-1",
+      "topic": "ej-23",
+      "level": 1,
+      "stem": "My father ___ TV every evening.",
+      "options": [
+        "watches",
+        "watch",
+        "watching"
+      ],
+      "answer": 0,
+      "explain": "第三人称单数加 -es。"
+    },
+    {
+      "id": "qej-23-2",
+      "topic": "ej-23",
+      "level": 1,
+      "stem": "___ she like music?",
+      "options": [
+        "Is",
+        "Does",
+        "Do"
+      ],
+      "answer": 1,
+      "explain": "三单疑问用 does。"
+    },
+    {
+      "id": "qej-24-1",
+      "topic": "ej-24",
+      "level": 1,
+      "stem": "Look! They ___ football.",
+      "options": [
+        "play",
+        "plays",
+        "are playing"
+      ],
+      "answer": 2,
+      "explain": "正在发生用进行时。"
+    },
+    {
+      "id": "qej-24-2",
+      "topic": "ej-24",
+      "level": 1,
+      "stem": "He ___ now.",
+      "options": [
+        "is reading",
+        "reads",
+        "read"
+      ],
+      "answer": 0,
+      "explain": "now 提示进行时。"
+    },
+    {
+      "id": "qej-25-1",
+      "topic": "ej-25",
+      "level": 1,
+      "stem": "We ___ to the park last Sunday.",
+      "options": [
+        "goes",
+        "went",
+        "go"
+      ],
+      "answer": 1,
+      "explain": "过去时间用过去式。"
+    },
+    {
+      "id": "qej-25-2",
+      "topic": "ej-25",
+      "level": 1,
+      "stem": "Did he ___ it yesterday?（buy）",
+      "options": [
+        "bought",
+        "buys",
+        "buy"
+      ],
+      "answer": 2,
+      "explain": "did 后接原形。"
+    },
+    {
+      "id": "qej-26-1",
+      "topic": "ej-26",
+      "level": 1,
+      "stem": "I ___ call you tomorrow.",
+      "options": [
+        "will",
+        "am",
+        "would"
+      ],
+      "answer": 0,
+      "explain": "将来用 will。"
+    },
+    {
+      "id": "qej-26-2",
+      "topic": "ej-26",
+      "level": 1,
+      "stem": "She ___ be ten next year.",
+      "options": [
+        "was",
+        "will",
+        "is"
+      ],
+      "answer": 1,
+      "explain": "next year 提示将来。"
+    },
+    {
+      "id": "qej-27-1",
+      "topic": "ej-27",
+      "level": 1,
+      "stem": "I ___ finished my homework.",
+      "options": [
+        "has",
+        "had",
+        "have"
+      ],
+      "answer": 2,
+      "explain": "I 搭配 have。"
+    },
+    {
+      "id": "qej-27-2",
+      "topic": "ej-27",
+      "level": 2,
+      "stem": "He ___ lived here for five years.",
+      "options": [
+        "has",
+        "have",
+        "is"
+      ],
+      "answer": 0,
+      "explain": "三单用 has。"
+    },
+    {
+      "id": "qej-28-1",
+      "topic": "ej-28",
+      "level": 2,
+      "stem": "I ___ reading when he came in.",
+      "options": [
+        "am",
+        "was",
+        "were"
+      ],
+      "answer": 1,
+      "explain": "I 用 was + doing。"
+    },
+    {
+      "id": "qej-28-2",
+      "topic": "ej-28",
+      "level": 2,
+      "stem": "They ___ playing at eight last night.",
+      "options": [
+        "was",
+        "are",
+        "were"
+      ],
+      "answer": 2,
+      "explain": "复数用 were。"
+    },
+    {
+      "id": "qej-29-1",
+      "topic": "ej-29",
+      "level": 3,
+      "stem": "By the time I arrived, he ___ left.",
+      "options": [
+        "had",
+        "has",
+        "was"
+      ],
+      "answer": 0,
+      "explain": "过去的过去用过去完成时。"
+    },
+    {
+      "id": "qej-29-2",
+      "topic": "ej-29",
+      "level": 3,
+      "stem": "She said she ___ seen the film.",
+      "options": [
+        "have",
+        "had",
+        "has"
+      ],
+      "answer": 1,
+      "explain": "主句过去，从句用过去完成。"
+    },
+    {
+      "id": "qej-30-1",
+      "topic": "ej-30",
+      "level": 1,
+      "stem": "English ___ in many countries.",
+      "options": [
+        "speaks",
+        "is speaking",
+        "is spoken"
+      ],
+      "answer": 2,
+      "explain": "语言被使用，用被动。"
+    },
+    {
+      "id": "qej-30-2",
+      "topic": "ej-30",
+      "level": 1,
+      "stem": "The room ___ every day.",
+      "options": [
+        "is cleaned",
+        "cleans",
+        "cleaning"
+      ],
+      "answer": 0,
+      "explain": "房间被打扫。"
+    },
+    {
+      "id": "qej-31-1",
+      "topic": "ej-31",
+      "level": 2,
+      "stem": "The bridge ___ in 1990.",
+      "options": [
+        "is built",
+        "was built",
+        "built"
+      ],
+      "answer": 1,
+      "explain": "过去被动用 was + 过去分词。"
+    },
+    {
+      "id": "qej-31-2",
+      "topic": "ej-31",
+      "level": 2,
+      "stem": "These books ___ last year.",
+      "options": [
+        "printed",
+        "are printed",
+        "were printed"
+      ],
+      "answer": 2,
+      "explain": "复数主语用 were。"
+    },
+    {
+      "id": "qej-32-1",
+      "topic": "ej-32",
+      "level": 2,
+      "stem": "The work must ___ today.",
+      "options": [
+        "be finished",
+        "finish",
+        "finished"
+      ],
+      "answer": 0,
+      "explain": "情态动词 + be + 过去分词。"
+    },
+    {
+      "id": "qej-32-2",
+      "topic": "ej-32",
+      "level": 2,
+      "stem": "Trees should ___ every year.",
+      "options": [
+        "planted",
+        "be planted",
+        "plant"
+      ],
+      "answer": 1,
+      "explain": "含情态动词的被动。"
+    },
+    {
+      "id": "qej-33-1",
+      "topic": "ej-33",
+      "level": 2,
+      "stem": "___ is good for health.",
+      "options": [
+        "Swim",
+        "Swims",
+        "Swimming"
+      ],
+      "answer": 2,
+      "explain": "动名词作主语。"
+    },
+    {
+      "id": "qej-33-2",
+      "topic": "ej-33",
+      "level": 2,
+      "stem": "I enjoy ___ music.",
+      "options": [
+        "listening to",
+        "listen to",
+        "listen"
+      ],
+      "answer": 0,
+      "explain": "enjoy 后接 doing。"
+    },
+    {
+      "id": "qej-34-1",
+      "topic": "ej-34",
+      "level": 1,
+      "stem": "I want ___ a doctor.",
+      "options": [
+        "being",
+        "to be",
+        "be"
+      ],
+      "answer": 1,
+      "explain": "want to do。"
+    },
+    {
+      "id": "qej-34-2",
+      "topic": "ej-34",
+      "level": 1,
+      "stem": "She decided ___ hard.",
+      "options": [
+        "study",
+        "studying",
+        "to study"
+      ],
+      "answer": 2,
+      "explain": "decide to do。"
+    },
+    {
+      "id": "qej-35-1",
+      "topic": "ej-35",
+      "level": 2,
+      "stem": "He went to Beijing ___ his uncle.",
+      "options": [
+        "to visit",
+        "visit",
+        "visiting"
+      ],
+      "answer": 0,
+      "explain": "不定式表目的。"
+    },
+    {
+      "id": "qej-35-2",
+      "topic": "ej-35",
+      "level": 2,
+      "stem": "___ English well, she practises every day.",
+      "options": [
+        "Learning",
+        "To learn",
+        "Learn"
+      ],
+      "answer": 1,
+      "explain": "句首目的状语用不定式。"
+    },
+    {
+      "id": "qej-36-1",
+      "topic": "ej-36",
+      "level": 2,
+      "stem": "I saw him ___ the room.（全过程）",
+      "options": [
+        "to enter",
+        "enters",
+        "enter"
+      ],
+      "answer": 2,
+      "explain": "感官动词后接原形表全过程。"
+    },
+    {
+      "id": "qej-36-2",
+      "topic": "ej-36",
+      "level": 2,
+      "stem": "I saw him ___ when I passed by.",
+      "options": [
+        "reading",
+        "read",
+        "to read"
+      ],
+      "answer": 0,
+      "explain": "进行中用 doing。"
+    },
+    {
+      "id": "qej-37-1",
+      "topic": "ej-37",
+      "level": 2,
+      "stem": "He finished ___ the letter.",
+      "options": [
+        "write",
+        "writing",
+        "to write"
+      ],
+      "answer": 1,
+      "explain": "finish doing。"
+    },
+    {
+      "id": "qej-37-2",
+      "topic": "ej-37",
+      "level": 2,
+      "stem": "They hope ___ soon.",
+      "options": [
+        "leaving",
+        "leave",
+        "to leave"
+      ],
+      "answer": 2,
+      "explain": "hope to do。"
+    },
+    {
+      "id": "qej-38-1",
+      "topic": "ej-38",
+      "level": 1,
+      "stem": "在 Tom runs fast. 中，主语是",
+      "options": [
+        "Tom",
+        "runs",
+        "fast"
+      ],
+      "answer": 0,
+      "explain": "动作的发出者为主语。"
+    },
+    {
+      "id": "qej-38-2",
+      "topic": "ej-38",
+      "level": 2,
+      "stem": "在 She gave me a book. 中，me 是",
+      "options": [
+        "表语",
+        "间接宾语",
+        "直接宾语"
+      ],
+      "answer": 1,
+      "explain": "人作间接宾语。"
+    },
+    {
+      "id": "qej-39-1",
+      "topic": "ej-39",
+      "level": 1,
+      "stem": "He is a teacher. 属于",
+      "options": [
+        "主谓宾",
+        "主谓",
+        "主系表"
+      ],
+      "answer": 2,
+      "explain": "be + 表语。"
+    },
+    {
+      "id": "qej-39-2",
+      "topic": "ej-39",
+      "level": 2,
+      "stem": "She gave him a pen. 属于",
+      "options": [
+        "主谓双宾",
+        "主系表",
+        "主谓宾补"
+      ],
+      "answer": 0,
+      "explain": "两个宾语。"
+    },
+    {
+      "id": "qej-40-1",
+      "topic": "ej-40",
+      "level": 1,
+      "stem": "___ you a student?",
+      "options": [
+        "Is",
+        "Are",
+        "Do"
+      ],
+      "answer": 1,
+      "explain": "be 动词提前。"
+    },
+    {
+      "id": "qej-40-2",
+      "topic": "ej-40",
+      "level": 1,
+      "stem": "___ she like apples?",
+      "options": [
+        "Do",
+        "Is",
+        "Does"
+      ],
+      "answer": 2,
+      "explain": "实义动词借助 does。"
+    },
+    {
+      "id": "qej-41-1",
+      "topic": "ej-41",
+      "level": 1,
+      "stem": "— ___ do you go to school? — By bus.",
+      "options": [
+        "How",
+        "What",
+        "Where"
+      ],
+      "answer": 0,
+      "explain": "问方式用 how。"
+    },
+    {
+      "id": "qej-41-2",
+      "topic": "ej-41",
+      "level": 1,
+      "stem": "— ___ is your father? — He is a doctor.",
+      "options": [
+        "Where",
+        "What",
+        "Who"
+      ],
+      "answer": 1,
+      "explain": "问职业用 what。"
+    },
+    {
+      "id": "qej-42-1",
+      "topic": "ej-42",
+      "level": 2,
+      "stem": "You are a student, ___?",
+      "options": [
+        "are you",
+        "don't you",
+        "aren't you"
+      ],
+      "answer": 2,
+      "explain": "前肯后否。"
+    },
+    {
+      "id": "qej-42-2",
+      "topic": "ej-42",
+      "level": 2,
+      "stem": "He can't swim, ___?",
+      "options": [
+        "can he",
+        "can't he",
+        "does he"
+      ],
+      "answer": 0,
+      "explain": "前否后肯。"
+    },
+    {
+      "id": "qej-43-1",
+      "topic": "ej-43",
+      "level": 1,
+      "stem": "___ beautiful the flower is!",
+      "options": [
+        "What a",
+        "How",
+        "What"
+      ],
+      "answer": 1,
+      "explain": "修饰形容词用 how。"
+    },
+    {
+      "id": "qej-43-2",
+      "topic": "ej-43",
+      "level": 1,
+      "stem": "___ a good boy he is!",
+      "options": [
+        "How",
+        "What an",
+        "What"
+      ],
+      "answer": 2,
+      "explain": "修饰名词用 what。"
+    },
+    {
+      "id": "qej-44-1",
+      "topic": "ej-44",
+      "level": 2,
+      "stem": "Each of them ___ a book.",
+      "options": [
+        "has",
+        "have",
+        "are"
+      ],
+      "answer": 0,
+      "explain": "each 作主语用单数。"
+    },
+    {
+      "id": "qej-44-2",
+      "topic": "ej-44",
+      "level": 2,
+      "stem": "Both of them ___ here now.",
+      "options": [
+        "was",
+        "are",
+        "is"
+      ],
+      "answer": 1,
+      "explain": "both 表复数。"
+    },
+    {
+      "id": "qej-45-1",
+      "topic": "ej-45",
+      "level": 2,
+      "stem": "Do you know where he ___?",
+      "options": [
+        "does he live",
+        "live",
+        "lives"
+      ],
+      "answer": 2,
+      "explain": "宾语从句用陈述语序。"
+    },
+    {
+      "id": "qej-45-2",
+      "topic": "ej-45",
+      "level": 2,
+      "stem": "He said he ___ busy then.",
+      "options": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer": 0,
+      "explain": "主句过去，从句相应过去。"
+    },
+    {
+      "id": "qej-46-1",
+      "topic": "ej-46",
+      "level": 2,
+      "stem": "The man ___ is talking is my uncle.",
+      "options": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "answer": 1,
+      "explain": "先行词是人。"
+    },
+    {
+      "id": "qej-46-2",
+      "topic": "ej-46",
+      "level": 2,
+      "stem": "The book ___ I bought is new.",
+      "options": [
+        "who",
+        "what",
+        "that"
+      ],
+      "answer": 2,
+      "explain": "先行词是物。"
+    },
+    {
+      "id": "qej-47-1",
+      "topic": "ej-47",
+      "level": 2,
+      "stem": "I'll call you when I ___ home.",
+      "options": [
+        "get",
+        "will get",
+        "got"
+      ],
+      "answer": 0,
+      "explain": "主将从现。"
+    },
+    {
+      "id": "qej-47-2",
+      "topic": "ej-47",
+      "level": 2,
+      "stem": "If it ___ tomorrow, we'll stay at home.",
+      "options": [
+        "rained",
+        "rains",
+        "will rain"
+      ],
+      "answer": 1,
+      "explain": "条件从句用现在时。"
+    },
+    {
+      "id": "qej-48-1",
+      "topic": "ej-48",
+      "level": 3,
+      "stem": "He got up early ___ he could catch the bus.",
+      "options": [
+        "because",
+        "although",
+        "so that"
+      ],
+      "answer": 2,
+      "explain": "目的用 so that。"
+    },
+    {
+      "id": "qej-49-1",
+      "topic": "ej-49",
+      "level": 3,
+      "stem": "He said, \"I am tired.\" → He said he ___ tired.",
+      "options": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer": 0,
+      "explain": "时态后移一步。"
+    },
+    {
+      "id": "qej-49-2",
+      "topic": "ej-49",
+      "level": 3,
+      "stem": "She asked me where I ___.",
+      "options": [
+        "do live",
+        "lived",
+        "live"
+      ],
+      "answer": 1,
+      "explain": "宾语从句用陈述语序并后移时态。"
+    },
+    {
+      "id": "qej-50-1",
+      "topic": "ej-50",
+      "level": 3,
+      "stem": "___ is important to learn English.",
+      "options": [
+        "That",
+        "This",
+        "It"
+      ],
+      "answer": 2,
+      "explain": "it 作形式主语。"
+    },
+    {
+      "id": "qej-50-2",
+      "topic": "ej-50",
+      "level": 3,
+      "stem": "It is easy ___ this problem.",
+      "options": [
+        "to solve",
+        "solve",
+        "solving"
+      ],
+      "answer": 0,
+      "explain": "真正主语是不定式。"
+    }
+  ]
+}
