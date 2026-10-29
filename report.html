@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>学习诊断报告</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<style>
+  .sheet{max-width:820px;margin:20px auto;background:#fff;border:1px solid var(--line);border-radius:10px;padding:36px 40px}
+  .rhead{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:2px solid #2563eb;padding-bottom:14px}
+  .rhead .logo{display:flex;align-items:center;gap:10px}
+  .rhead .mark{width:44px;height:44px;border-radius:10px;background:#2563eb;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:15px}
+  .rhead h1{font-size:22px;margin:0}
+  .rhead .sub{font-size:13px;color:var(--muted);margin-top:4px}
+  .rmeta{font-size:13px;color:var(--muted);text-align:right;line-height:1.9}
+  h2.rs{font-size:15px;margin:26px 0 10px;padding-left:8px;border-left:3px solid #2563eb}
+  .kv{font-size:14px;line-height:2}
+  .kv b{color:var(--muted);font-weight:500;display:inline-block;min-width:78px}
+  .verdict{border:1px solid #e3e6ea;border-radius:8px;padding:14px 16px;background:#f8fafc}
+  .verdict .big{font-size:18px;font-weight:700;color:#c2410c;margin-bottom:6px}
+  .verdict.ok .big{color:#12855c}
+  table.rt{width:100%;border-collapse:collapse;font-size:13.5px}
+  table.rt th,table.rt td{border-bottom:1px solid #e3e6ea;padding:8px 6px;text-align:left}
+  table.rt th{color:var(--muted);font-weight:500;background:#fafbfc}
+  .ok{color:#12855c}.bad{color:#c2410c}
+  .acts{max-width:820px;margin:0 auto 40px;display:flex;gap:10px}
+  .rf{max-width:820px;margin:0 auto;padding:0 40px 40px;font-size:12px;color:var(--muted)}
+  @media print{
+    .acts{display:none}
+    .sheet{max-width:none;margin:0;border:none;border-radius:0;padding:0}
+    body{background:#fff}
+    @page{size:A4;margin:14mm}
+  }
+</style>
+</head>
+<body>
+<div class="acts">
+  <button class="btn" onclick="window.print()">打印 / 另存为 PDF</button>
+  <a class="btn ghost" href="diagnose.html">返回诊断</a>
+  <a class="btn ghost" href="index.html">回首页</a>
+</div>
+<main><div class="sheet" id="sheet">加载中…</div></main>
+<div class="rf" id="rf"></div>
+<script src="app.js"></script>
+<script>
+loadAll().then(renderReport).catch(e => {
+  document.getElementById('sheet').textContent = '无法读取报告：' + e.message;
+});
+
+async function renderReport() {
+  const brand = await fetch('brand.json').then(r => r.json()).catch(() => ({}));
+  const rec = JSON.parse(localStorage.getItem('kg.lastReport') || 'null');
+  const sheet = document.getElementById('sheet');
+  if (!rec) { sheet.innerHTML = '<p class="meta">还没有诊断记录。请先在「诊断」页完成一次测试。</p>'; return; }
+  const t = D.byId.get(rec.target);
+  const root = rec.root ? D.byId.get(rec.root) : null;
+  const d = new Date(rec.at);
+  const pct = Math.round(masteryOf(rec.target) * 100);
+  const rows = (rec.path || []).map((id, i) => {
+    const x = D.byId.get(id);
+    return `<tr><td>${i + 1}</td><td>${x.name}</td><td>${x.book}</td><td>${x.chapter}</td></tr>`;
+  }).join('');
+  const logRows = (rec.log || []).map((l, i) => {
+    const x = D.byId.get(l.id);
+    const mark = l.ok ? (l.confirmed ? '<span class="ok">✓（复核通过）</span>' : '<span class="ok">✓</span>') : '<span class="bad">✗</span>';
+    return `<tr><td>${i + 1}</td><td>${x.name}</td><td>${x.book}</td><td>${mark}</td></tr>`;
+  }).join('');
+
+  sheet.innerHTML = `
+    <div class="rhead">
+      <div class="logo">
+        <div class="mark">${brand.logoText || '诊断'}</div>
+        <div>
+          <h1>${brand.org || '学习诊断中心'} · 学习断层诊断报告</h1>
+          <div class="sub">${brand.slogan || ''}</div>
+        </div>
+      </div>
+      <div class="rmeta">
+        ${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}<br>
+        学科：${rec.subject || t.subject}<br>
+        编号：${(rec.target + '-' + d.getTime()).slice(-10).toUpperCase()}
+      </div>
+    </div>
+
+    <h2 class="rs">一、诊断对象</h2>
+    <div class="kv">
+      <div><b>知识点</b>${t.name}（${t.book} · ${t.chapter}）</div>
+      <div><b>先修前置</b>${(D.pre.get(t.id) || []).map(e => D.byId.get(e.from).name).join('、') || '无'}</div>
+      <div><b>作答情况</b>共 ${rec.asked} 题，答错 ${rec.wrong} 题</div>
+    </div>
+
+    <h2 class="rs">二、结论</h2>
+    <div class="verdict ${rec.mastered ? 'ok' : ''}">
+      <div class="big">${rec.mastered ? '该知识点已掌握' : '根因：' + (root ? root.name : t.name)}</div>
+      <div class="meta">${rec.mastered ? '测试中未发现需要回补的先修点。' : (root ? root.desc : '')}</div>
+      <div class="meta" style="margin-top:6px">当前掌握度估计：${pct}%（贝叶斯知识追踪）</div>
+    </div>
+
+    <h2 class="rs">三、建议学习顺序</h2>
+    <table class="rt">
+      <thead><tr><th style="width:46px">序号</th><th>知识点</th><th style="width:80px">册别</th><th style="width:150px">章 / 板块</th></tr></thead>
+      <tbody>${rows || '<tr><td colspan="4" class="meta">无</td></tr>'}</tbody>
+    </table>
+
+    <h2 class="rs">四、作答轨迹</h2>
+    <table class="rt">
+      <thead><tr><th style="width:46px">序号</th><th>测试知识点</th><th style="width:80px">册别</th><th style="width:120px">结果</th></tr></thead>
+      <tbody>${logRows || '<tr><td colspan="4" class="meta">无</td></tr>'}</tbody>
+    </table>
+  `;
+  document.getElementById('rf').innerHTML = `${brand.note || ''}　　联系方式：${brand.contact || ''}`;
+  document.title = `诊断报告 · ${t.name}`;
+}
+</script>
+</body>
+</html>
