@@ -1,0 +1,320 @@
+{
+  "note": "小学先修边：同领域按年级顺序串链，末尾补到初中的接驳边（脚本 scripts/build_primary_edges.py 生成）",
+  "edges": [
+    {
+      "from": "sp1-01",
+      "to": "sp1-02",
+      "type": "hard"
+    },
+    {
+      "from": "sp1-02",
+      "to": "sp1-03",
+      "type": "hard"
+    },
+    {
+      "from": "sp1-03",
+      "to": "sp1-04",
+      "type": "hard"
+    },
+    {
+      "from": "sp1-04",
+      "to": "sp2-01",
+      "type": "hard"
+    },
+    {
+      "from": "sp2-01",
+      "to": "sp2-02",
+      "type": "hard"
+    },
+    {
+      "from": "sp2-02",
+      "to": "sp2-03",
+      "type": "hard"
+    },
+    {
+      "from": "sp2-03",
+      "to": "sp2-04",
+      "type": "hard"
+    },
+    {
+      "from": "sp2-04",
+      "to": "sp2-05",
+      "type": "hard"
+    },
+    {
+      "from": "sp2-05",
+      "to": "sp3-02",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-02",
+      "to": "sp3-03",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-03",
+      "to": "sp3-05",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-05",
+      "to": "sp3-04",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-04",
+      "to": "sp3-06",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-06",
+      "to": "sp4-01",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-01",
+      "to": "sp4-02",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-02",
+      "to": "sp4-03",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-03",
+      "to": "sp4-04",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-04",
+      "to": "sp4-05",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-05",
+      "to": "sp5-01",
+      "type": "hard"
+    },
+    {
+      "from": "sp5-01",
+      "to": "sp5-02",
+      "type": "hard"
+    },
+    {
+      "from": "sp5-02",
+      "to": "sp5-03",
+      "type": "hard"
+    },
+    {
+      "from": "sp5-03",
+      "to": "sp5-04",
+      "type": "hard"
+    },
+    {
+      "from": "sp5-04",
+      "to": "sp6-01",
+      "type": "hard"
+    },
+    {
+      "from": "sp6-01",
+      "to": "sp6-03",
+      "type": "hard"
+    },
+    {
+      "from": "sp6-03",
+      "to": "sp6-05",
+      "type": "hard"
+    },
+    {
+      "from": "sp1-05",
+      "to": "sp1-06",
+      "type": "hard"
+    },
+    {
+      "from": "sp1-06",
+      "to": "sp2-07",
+      "type": "hard"
+    },
+    {
+      "from": "sp2-07",
+      "to": "sp2-08",
+      "type": "hard"
+    },
+    {
+      "from": "sp2-08",
+      "to": "sp3-08",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-08",
+      "to": "sp3-09",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-09",
+      "to": "sp4-06",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-06",
+      "to": "sp4-07",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-07",
+      "to": "sp4-08",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-08",
+      "to": "sp5-05",
+      "type": "hard"
+    },
+    {
+      "from": "sp5-05",
+      "to": "sp5-06",
+      "type": "hard"
+    },
+    {
+      "from": "sp5-06",
+      "to": "sp5-07",
+      "type": "hard"
+    },
+    {
+      "from": "sp5-07",
+      "to": "sp6-02",
+      "type": "hard"
+    },
+    {
+      "from": "sp6-02",
+      "to": "sp6-06",
+      "type": "hard"
+    },
+    {
+      "from": "sp1-07",
+      "to": "sp1-08",
+      "type": "hard"
+    },
+    {
+      "from": "sp1-08",
+      "to": "sp2-06",
+      "type": "hard"
+    },
+    {
+      "from": "sp2-06",
+      "to": "sp2-09",
+      "type": "hard"
+    },
+    {
+      "from": "sp2-09",
+      "to": "sp3-01",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-01",
+      "to": "sp3-07",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-07",
+      "to": "sp3-10",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-10",
+      "to": "sp4-09",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-09",
+      "to": "sp5-08",
+      "type": "hard"
+    },
+    {
+      "from": "sp5-08",
+      "to": "sp6-04",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-05",
+      "to": "s-m-01",
+      "type": "hard"
+    },
+    {
+      "from": "sp3-06",
+      "to": "s-m-03",
+      "type": "hard"
+    },
+    {
+      "from": "s-m-03",
+      "to": "sp4-05",
+      "type": "soft"
+    },
+    {
+      "from": "sp5-03",
+      "to": "m7a-5-01",
+      "type": "hard"
+    },
+    {
+      "from": "sp6-01",
+      "to": "m9b-2-01",
+      "type": "soft"
+    },
+    {
+      "from": "sp6-02",
+      "to": "m9a-4-01",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-06",
+      "to": "m7a-6-07",
+      "type": "hard"
+    },
+    {
+      "from": "sp4-07",
+      "to": "m8b-3-01",
+      "type": "soft"
+    },
+    {
+      "from": "sp6-06",
+      "to": "m9a-4-07",
+      "type": "soft"
+    },
+    {
+      "from": "sp2-02",
+      "to": "m7a-2-04",
+      "type": "soft"
+    },
+    {
+      "from": "sp5-01",
+      "to": "m7a-2-04",
+      "type": "soft"
+    },
+    {
+      "from": "sp6-05",
+      "to": "m9b-1-01",
+      "type": "soft"
+    },
+    {
+      "from": "sp4-08",
+      "to": "m8a-1-03",
+      "type": "hard"
+    },
+    {
+      "from": "sp5-05",
+      "to": "m8b-2-03",
+      "type": "soft"
+    },
+    {
+      "from": "s-m-04",
+      "to": "sp5-01",
+      "type": "soft"
+    },
+    {
+      "from": "s-m-01",
+      "to": "sp6-01",
+      "type": "soft"
+    }
+  ]
+}
