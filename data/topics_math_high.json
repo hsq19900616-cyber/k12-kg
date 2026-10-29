@@ -1,0 +1,29 @@
+{
+  "meta": {"subject": "数学", "edition": "人教A版（2019）", "scope": "高中数学必修第一册 + 第二册（三角函数）", "version": "1.0"},
+  "topics": [
+    {"id":"hm-01","name":"集合的概念与表示","stage":"高中","grade":10,"term":1,"chapter":"集合与逻辑","core":true,"desc":"元素与集合的关系、列举法与描述法、常见数集符号。"},
+    {"id":"hm-02","name":"集合间的基本关系","stage":"高中","grade":10,"term":1,"chapter":"集合与逻辑","core":true,"desc":"子集、真子集、相等；空集是任何集合的子集。"},
+    {"id":"hm-03","name":"集合的基本运算","stage":"高中","grade":10,"term":1,"chapter":"集合与逻辑","core":true,"desc":"交集、并集、补集及 Venn 图与数轴表示。"},
+    {"id":"hm-04","name":"充分条件与必要条件","stage":"高中","grade":10,"term":1,"chapter":"集合与逻辑","core":true,"desc":"p⇒q 则 p 充分、q 必要；充要条件需双向成立。"},
+    {"id":"hm-05","name":"全称量词与存在量词","stage":"高中","grade":10,"term":1,"chapter":"集合与逻辑","core":true,"desc":"∀ 与 ∃ 的含义，命题的否定要换量词并否定结论。"},
+    {"id":"hm-06","name":"不等式的性质","stage":"高中","grade":10,"term":1,"chapter":"不等式","core":true,"desc":"加减保序、乘正保序、乘负变号；倒数与平方的条件。"},
+    {"id":"hm-07","name":"基本不等式","stage":"高中","grade":10,"term":1,"chapter":"不等式","core":true,"desc":"a+b≥2√(ab)（a,b>0），等号当且仅当 a=b；注意「一正二定三相等」。"},
+    {"id":"hm-08","name":"一元二次不等式","stage":"高中","grade":10,"term":1,"chapter":"不等式","core":true,"desc":"结合二次函数图象与判别式求解集，口诀「大于取两边，小于取中间」。"},
+    {"id":"hm-09","name":"函数的概念与三要素","stage":"高中","grade":10,"term":1,"chapter":"函数","core":true,"desc":"定义域、值域、对应关系；定义域优先原则。"},
+    {"id":"hm-10","name":"函数的表示法","stage":"高中","grade":10,"term":1,"chapter":"函数","core":true,"desc":"解析法、列表法、图象法；分段函数按区间取值。"},
+    {"id":"hm-11","name":"函数的单调性","stage":"高中","grade":10,"term":1,"chapter":"函数","core":true,"desc":"定义法证明：取值、作差、变形、定号；复合函数同增异减。"},
+    {"id":"hm-12","name":"函数的奇偶性","stage":"高中","grade":10,"term":1,"chapter":"函数","core":true,"desc":"定义域关于原点对称；f(-x)=-f(x) 奇，f(-x)=f(x) 偶。"},
+    {"id":"hm-13","name":"幂函数","stage":"高中","grade":10,"term":1,"chapter":"函数","core":false,"desc":"y=x^α 的图象与性质随 α 变化；五个常见幂函数。"},
+    {"id":"hm-14","name":"指数幂的运算","stage":"高中","grade":10,"term":1,"chapter":"指数与对数","core":true,"desc":"分数指数幂与根式互化，同底数幂的运算律。"},
+    {"id":"hm-15","name":"指数函数","stage":"高中","grade":10,"term":1,"chapter":"指数与对数","core":true,"desc":"y=a^x（a>0 且 a≠1）的图象过 (0,1)；a>1 增、0<a<1 减。"},
+    {"id":"hm-16","name":"对数的概念与运算","stage":"高中","grade":10,"term":1,"chapter":"指数与对数","core":true,"desc":"a^b=N ⇔ b=log_aN；积商幂的对数运算法则与换底公式。"},
+    {"id":"hm-17","name":"对数函数","stage":"高中","grade":10,"term":1,"chapter":"指数与对数","core":true,"desc":"y=log_a x 定义域 (0,+∞)，过 (1,0)；与指数函数互为反函数。"},
+    {"id":"hm-18","name":"函数的零点与二分法","stage":"高中","grade":10,"term":1,"chapter":"函数","core":true,"desc":"零点即 f(x)=0 的根；零点存在定理与二分法逼近。"},
+    {"id":"hm-19","name":"任意角与弧度制","stage":"高中","grade":10,"term":2,"chapter":"三角函数","core":true,"desc":"角的推广、终边相同角、角度与弧度换算 l=αr。"},
+    {"id":"hm-20","name":"三角函数的定义","stage":"高中","grade":10,"term":2,"chapter":"三角函数","core":true,"desc":"单位圆与坐标定义 sinα=y/r、cosα=x/r、tanα=y/x；各象限符号。"},
+    {"id":"hm-21","name":"同角关系与诱导公式","stage":"高中","grade":10,"term":2,"chapter":"三角函数","core":true,"desc":"sin²α+cos²α=1、tanα=sinα/cosα；诱导公式「奇变偶不变，符号看象限」。"},
+    {"id":"hm-22","name":"三角函数的图象与性质","stage":"高中","grade":10,"term":2,"chapter":"三角函数","core":true,"desc":"y=sin x、y=cos x、y=tan x 的周期、单调区间、最值与对称中心。"},
+    {"id":"hm-23","name":"y=Asin(ωx+φ) 的图象变换","stage":"高中","grade":10,"term":2,"chapter":"三角函数","core":true,"desc":"振幅、周期 T=2π/|ω|、相位；先平移后伸缩与先伸缩后平移的区别。"},
+    {"id":"hm-24","name":"三角恒等变换","stage":"高中","grade":10,"term":2,"chapter":"三角函数","core":true,"desc":"两角和差公式、二倍角公式及辅助角公式 asinx+bcosx=√(a²+b²)sin(x+φ)。"}
+  ]
+}
