@@ -1,0 +1,410 @@
+{
+  "note": "高中数学先修边：按教材顺序串链 + 初高衔接",
+  "edges": [
+    {
+      "from": "hm-01",
+      "to": "hm-02",
+      "type": "hard"
+    },
+    {
+      "from": "hm-02",
+      "to": "hm-03",
+      "type": "hard"
+    },
+    {
+      "from": "hm-03",
+      "to": "hm-04",
+      "type": "hard"
+    },
+    {
+      "from": "hm-04",
+      "to": "hm-05",
+      "type": "hard"
+    },
+    {
+      "from": "hm-05",
+      "to": "hm-06",
+      "type": "hard"
+    },
+    {
+      "from": "hm-06",
+      "to": "hm-07",
+      "type": "hard"
+    },
+    {
+      "from": "hm-07",
+      "to": "hm-08",
+      "type": "hard"
+    },
+    {
+      "from": "hm-08",
+      "to": "hm-09",
+      "type": "hard"
+    },
+    {
+      "from": "hm-09",
+      "to": "hm-10",
+      "type": "hard"
+    },
+    {
+      "from": "hm-10",
+      "to": "hm-11",
+      "type": "hard"
+    },
+    {
+      "from": "hm-11",
+      "to": "hm-12",
+      "type": "hard"
+    },
+    {
+      "from": "hm-12",
+      "to": "hm-13",
+      "type": "hard"
+    },
+    {
+      "from": "hm-13",
+      "to": "hm-14",
+      "type": "hard"
+    },
+    {
+      "from": "hm-14",
+      "to": "hm-15",
+      "type": "hard"
+    },
+    {
+      "from": "hm-15",
+      "to": "hm-16",
+      "type": "hard"
+    },
+    {
+      "from": "hm-16",
+      "to": "hm-17",
+      "type": "hard"
+    },
+    {
+      "from": "hm-17",
+      "to": "hm-18",
+      "type": "hard"
+    },
+    {
+      "from": "hm-18",
+      "to": "hm-19",
+      "type": "hard"
+    },
+    {
+      "from": "hm-19",
+      "to": "hm-20",
+      "type": "hard"
+    },
+    {
+      "from": "hm-20",
+      "to": "hm-21",
+      "type": "hard"
+    },
+    {
+      "from": "hm-21",
+      "to": "hm-22",
+      "type": "hard"
+    },
+    {
+      "from": "hm-22",
+      "to": "hm-23",
+      "type": "hard"
+    },
+    {
+      "from": "hm-23",
+      "to": "hm-24",
+      "type": "hard"
+    },
+    {
+      "from": "hm-24",
+      "to": "hm2-01",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-01",
+      "to": "hm2-02",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-02",
+      "to": "hm2-03",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-03",
+      "to": "hm2-04",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-04",
+      "to": "hm2-05",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-05",
+      "to": "hm2-06",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-06",
+      "to": "hm2-07",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-07",
+      "to": "hm2-08",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-08",
+      "to": "hm2-09",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-09",
+      "to": "hm2-10",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-10",
+      "to": "hm2-11",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-11",
+      "to": "hm2-12",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-12",
+      "to": "hm2-13",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-13",
+      "to": "hm2-14",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-14",
+      "to": "hm2-15",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-15",
+      "to": "hm2-16",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-16",
+      "to": "hm2-17",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-17",
+      "to": "hm2-18",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-18",
+      "to": "hm2-19",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-19",
+      "to": "hm2-20",
+      "type": "hard"
+    },
+    {
+      "from": "hm2-20",
+      "to": "hz-01",
+      "type": "hard"
+    },
+    {
+      "from": "hz-01",
+      "to": "hz-02",
+      "type": "hard"
+    },
+    {
+      "from": "hz-02",
+      "to": "hz-03",
+      "type": "hard"
+    },
+    {
+      "from": "hz-03",
+      "to": "hz-04",
+      "type": "hard"
+    },
+    {
+      "from": "hz-04",
+      "to": "hz-05",
+      "type": "hard"
+    },
+    {
+      "from": "hz-05",
+      "to": "hz-06",
+      "type": "hard"
+    },
+    {
+      "from": "hz-06",
+      "to": "hz-07",
+      "type": "hard"
+    },
+    {
+      "from": "hz-07",
+      "to": "hz-08",
+      "type": "hard"
+    },
+    {
+      "from": "sx-01",
+      "to": "sx-02",
+      "type": "hard"
+    },
+    {
+      "from": "sx-02",
+      "to": "sx-03",
+      "type": "hard"
+    },
+    {
+      "from": "sx-03",
+      "to": "sx-04",
+      "type": "hard"
+    },
+    {
+      "from": "sx-04",
+      "to": "sx-05",
+      "type": "hard"
+    },
+    {
+      "from": "sx-05",
+      "to": "sx-06",
+      "type": "hard"
+    },
+    {
+      "from": "sx-06",
+      "to": "sx-07",
+      "type": "hard"
+    },
+    {
+      "from": "sx-07",
+      "to": "sx-08",
+      "type": "hard"
+    },
+    {
+      "from": "sx-08",
+      "to": "sx-09",
+      "type": "hard"
+    },
+    {
+      "from": "sx-09",
+      "to": "sx-10",
+      "type": "hard"
+    },
+    {
+      "from": "sx-10",
+      "to": "sx-11",
+      "type": "hard"
+    },
+    {
+      "from": "sx-11",
+      "to": "sx-12",
+      "type": "hard"
+    },
+    {
+      "from": "sx-12",
+      "to": "sx-13",
+      "type": "hard"
+    },
+    {
+      "from": "sx-13",
+      "to": "sx-14",
+      "type": "hard"
+    },
+    {
+      "from": "sx-14",
+      "to": "sx-15",
+      "type": "hard"
+    },
+    {
+      "from": "sx-15",
+      "to": "sx-16",
+      "type": "hard"
+    },
+    {
+      "from": "sx-16",
+      "to": "sx-17",
+      "type": "hard"
+    },
+    {
+      "from": "sx-17",
+      "to": "sx-18",
+      "type": "hard"
+    },
+    {
+      "from": "sx-18",
+      "to": "sx-19",
+      "type": "hard"
+    },
+    {
+      "from": "sx-19",
+      "to": "sx-20",
+      "type": "hard"
+    },
+    {
+      "from": "sx-20",
+      "to": "sx-21",
+      "type": "hard"
+    },
+    {
+      "from": "sx-21",
+      "to": "sx-22",
+      "type": "hard"
+    },
+    {
+      "from": "sx-22",
+      "to": "sx-23",
+      "type": "hard"
+    },
+    {
+      "from": "sx-23",
+      "to": "sx-24",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-1-01",
+      "to": "hm-08",
+      "type": "soft"
+    },
+    {
+      "from": "m9a-2-01",
+      "to": "hm-09",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-2-02",
+      "to": "hm-11",
+      "type": "soft"
+    },
+    {
+      "from": "m9b-3-01",
+      "to": "hm-20",
+      "type": "hard"
+    },
+    {
+      "from": "m7b-2-04",
+      "to": "hm-01",
+      "type": "soft"
+    },
+    {
+      "from": "m7b-5-02",
+      "to": "hm-06",
+      "type": "hard"
+    },
+    {
+      "from": "m9a-2-04",
+      "to": "hm-18",
+      "type": "soft"
+    }
+  ]
+}
