@@ -1,0 +1,69 @@
+{
+    "version": "4.3",
+    "note": "数据分册清单。新增一册：在这里登记文件名即可，前端自动合并。",
+    "topics": [
+        "topics.json",
+        "topics_7b.json",
+        "topics_8a.json",
+        "topics_8b.json",
+        "topics_9a.json",
+        "topics_9b.json",
+        "topics_primary.json",
+        "topics_en_primary.json",
+        "topics_en_junior.json",
+        "topics_en_vocab.json",
+        "topics_en_writing.json",
+        "topics_cn.json",
+        "topics_math_high.json",
+        "topics_math_high2.json",
+        "topics_cn_primary.json",
+        "topics_en_listen.json",
+        "topics_math_topic.json",
+        "topics_cn_high.json"
+    ],
+    "prereq": [
+        "prereq.json",
+        "prereq_extra.json",
+        "prereq_primary.json",
+        "prereq_en.json",
+        "prereq_cn.json",
+        "prereq_math_high.json"
+    ],
+    "questions": [
+        "questions.json",
+        "questions_7b.json",
+        "questions_8a.json",
+        "questions_8b.json",
+        "questions_9a.json",
+        "questions_9b.json",
+        "questions_extra.json",
+        "questions_level2.json",
+        "questions_level3.json",
+        "questions_primary.json",
+        "questions_level4.json",
+        "questions_en_primary.json",
+        "questions_en_junior.json",
+        "questions_en_vocab.json",
+        "questions_en_writing.json",
+        "questions_cn.json",
+        "questions_math_high.json",
+        "questions_math_high2.json",
+        "questions_level5.json",
+        "questions_cn_primary.json",
+        "questions_en_listen.json",
+        "questions_math_topic.json",
+        "questions_cn_high.json",
+        "questions_density.json",
+        "questions_v3.json",
+        "questions_fig.json"
+    ],
+    "packs": {
+        "topics": "data/pack/topics_all.json",
+        "prereq": "data/pack/prereq_all.json",
+        "q": {
+            "数学": "data/q_math.json",
+            "英语": "data/q_en.json",
+            "语文": "data/q_cn.json"
+        }
+    }
+}
