@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>3D 实验课件</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2563eb">
+</head>
+<body>
+<header>
+  <a class="brand" href="index.html">中小学知识图谱</a>
+  <nav><a href="diagnose.html">诊断</a><a href="explore.html">图谱</a><a href="review.html">复习</a><a href="lab.html">3D 实验</a><a href="wrong.html">错题本</a></nav>
+</header>
+<main>
+  <h1>3D 实验课件</h1>
+  <p class="sub">理化生地的可交互 3D 课件，按人教版章节挂在这里：先在图谱里补概念，再到这里看过程。</p>
+  <div class="card" style="padding:10px 14px;margin-bottom:12px;display:flex;gap:10px;flex-wrap:wrap;align-items:center">
+    <div class="chips" id="labsubj" style="margin:0"></div>
+    <select id="labbook"></select>
+    <input id="labq" placeholder="搜课程 / 章节 / 知识点" style="flex:1;min-width:160px;padding:8px 10px;border:1px solid var(--line);border-radius:9px;font:inherit">
+  </div>
+  <div id="lablist">加载中…</div>
+  <p class="note">课件来自 <a href="https://lab.tongjiang.app" target="_blank" rel="noreferrer">铜匠实验室</a>（CC BY-NC 4.0，非商用、需署名），本站以外链/内嵌方式引用，未打包其内容。</p>
+</main>
+<script src="app.js"></script>
+<script>
+loadAll().then(renderLab).catch(e => {
+  document.getElementById('lablist').textContent = '数据加载失败：' + e.message;
+});
+</script>
+</body>
+</html>
