@@ -1,0 +1,370 @@
+{
+  "note": "语文先修边：按年级串链（scripts/build_misc_edges.py 生成）",
+  "edges": [
+    {
+      "from": "cy-01",
+      "to": "cy-02",
+      "type": "hard"
+    },
+    {
+      "from": "cy-02",
+      "to": "cy-03",
+      "type": "hard"
+    },
+    {
+      "from": "cy-03",
+      "to": "cy-18",
+      "type": "hard"
+    },
+    {
+      "from": "cy-18",
+      "to": "cy-04",
+      "type": "hard"
+    },
+    {
+      "from": "cy-04",
+      "to": "cy-11",
+      "type": "hard"
+    },
+    {
+      "from": "cy-11",
+      "to": "cy-25",
+      "type": "hard"
+    },
+    {
+      "from": "cy-25",
+      "to": "cy-09",
+      "type": "hard"
+    },
+    {
+      "from": "cy-09",
+      "to": "cy-05",
+      "type": "hard"
+    },
+    {
+      "from": "cy-05",
+      "to": "cy-19",
+      "type": "hard"
+    },
+    {
+      "from": "cy-19",
+      "to": "cy-06",
+      "type": "hard"
+    },
+    {
+      "from": "cy-06",
+      "to": "cy-23",
+      "type": "hard"
+    },
+    {
+      "from": "cy-23",
+      "to": "cy-26",
+      "type": "hard"
+    },
+    {
+      "from": "cy-26",
+      "to": "cy-07",
+      "type": "hard"
+    },
+    {
+      "from": "cy-07",
+      "to": "cy-12",
+      "type": "hard"
+    },
+    {
+      "from": "cy-12",
+      "to": "cy-27",
+      "type": "hard"
+    },
+    {
+      "from": "cy-27",
+      "to": "cy-10",
+      "type": "hard"
+    },
+    {
+      "from": "cy-10",
+      "to": "cy-16",
+      "type": "hard"
+    },
+    {
+      "from": "cy-16",
+      "to": "cy-20",
+      "type": "hard"
+    },
+    {
+      "from": "cy-20",
+      "to": "cy-08",
+      "type": "hard"
+    },
+    {
+      "from": "cy-08",
+      "to": "cy-21",
+      "type": "hard"
+    },
+    {
+      "from": "cy-21",
+      "to": "cy-28",
+      "type": "hard"
+    },
+    {
+      "from": "cy-28",
+      "to": "cy-13",
+      "type": "hard"
+    },
+    {
+      "from": "cy-13",
+      "to": "cy-14",
+      "type": "hard"
+    },
+    {
+      "from": "cy-14",
+      "to": "cy-22",
+      "type": "hard"
+    },
+    {
+      "from": "cy-22",
+      "to": "cy-29",
+      "type": "hard"
+    },
+    {
+      "from": "cy-29",
+      "to": "cy-15",
+      "type": "hard"
+    },
+    {
+      "from": "cy-15",
+      "to": "cy-24",
+      "type": "hard"
+    },
+    {
+      "from": "cy-24",
+      "to": "cy-17",
+      "type": "hard"
+    },
+    {
+      "from": "cy-17",
+      "to": "cy-30",
+      "type": "hard"
+    },
+    {
+      "from": "cy-30",
+      "to": "cn-01",
+      "type": "hard"
+    },
+    {
+      "from": "cn-01",
+      "to": "cn-02",
+      "type": "hard"
+    },
+    {
+      "from": "cn-02",
+      "to": "cn-15",
+      "type": "hard"
+    },
+    {
+      "from": "cn-15",
+      "to": "cn-17",
+      "type": "hard"
+    },
+    {
+      "from": "cn-17",
+      "to": "cn-21",
+      "type": "hard"
+    },
+    {
+      "from": "cn-21",
+      "to": "cn-03",
+      "type": "hard"
+    },
+    {
+      "from": "cn-03",
+      "to": "cn-09",
+      "type": "hard"
+    },
+    {
+      "from": "cn-09",
+      "to": "cn-13",
+      "type": "hard"
+    },
+    {
+      "from": "cn-13",
+      "to": "cn-18",
+      "type": "hard"
+    },
+    {
+      "from": "cn-18",
+      "to": "cn-20",
+      "type": "hard"
+    },
+    {
+      "from": "cn-20",
+      "to": "cn-22",
+      "type": "hard"
+    },
+    {
+      "from": "cn-22",
+      "to": "cn-04",
+      "type": "hard"
+    },
+    {
+      "from": "cn-04",
+      "to": "cn-07",
+      "type": "hard"
+    },
+    {
+      "from": "cn-07",
+      "to": "cn-10",
+      "type": "hard"
+    },
+    {
+      "from": "cn-10",
+      "to": "cn-19",
+      "type": "hard"
+    },
+    {
+      "from": "cn-19",
+      "to": "cn-23",
+      "type": "hard"
+    },
+    {
+      "from": "cn-23",
+      "to": "cn-05",
+      "type": "hard"
+    },
+    {
+      "from": "cn-05",
+      "to": "cn-06",
+      "type": "hard"
+    },
+    {
+      "from": "cn-06",
+      "to": "cn-11",
+      "type": "hard"
+    },
+    {
+      "from": "cn-11",
+      "to": "cn-14",
+      "type": "hard"
+    },
+    {
+      "from": "cn-14",
+      "to": "cn-24",
+      "type": "hard"
+    },
+    {
+      "from": "cn-24",
+      "to": "cn-08",
+      "type": "hard"
+    },
+    {
+      "from": "cn-08",
+      "to": "cn-12",
+      "type": "hard"
+    },
+    {
+      "from": "cn-12",
+      "to": "cn-16",
+      "type": "hard"
+    },
+    {
+      "from": "cn-16",
+      "to": "cg-01",
+      "type": "hard"
+    },
+    {
+      "from": "cg-01",
+      "to": "cg-04",
+      "type": "hard"
+    },
+    {
+      "from": "cg-04",
+      "to": "cg-08",
+      "type": "hard"
+    },
+    {
+      "from": "cg-08",
+      "to": "cg-17",
+      "type": "hard"
+    },
+    {
+      "from": "cg-17",
+      "to": "cg-02",
+      "type": "hard"
+    },
+    {
+      "from": "cg-02",
+      "to": "cg-03",
+      "type": "hard"
+    },
+    {
+      "from": "cg-03",
+      "to": "cg-09",
+      "type": "hard"
+    },
+    {
+      "from": "cg-09",
+      "to": "cg-14",
+      "type": "hard"
+    },
+    {
+      "from": "cg-14",
+      "to": "cg-18",
+      "type": "hard"
+    },
+    {
+      "from": "cg-18",
+      "to": "cg-05",
+      "type": "hard"
+    },
+    {
+      "from": "cg-05",
+      "to": "cg-10",
+      "type": "hard"
+    },
+    {
+      "from": "cg-10",
+      "to": "cg-13",
+      "type": "hard"
+    },
+    {
+      "from": "cg-13",
+      "to": "cg-06",
+      "type": "hard"
+    },
+    {
+      "from": "cg-06",
+      "to": "cg-07",
+      "type": "hard"
+    },
+    {
+      "from": "cg-07",
+      "to": "cg-11",
+      "type": "hard"
+    },
+    {
+      "from": "cg-11",
+      "to": "cg-15",
+      "type": "hard"
+    },
+    {
+      "from": "cg-15",
+      "to": "cg-19",
+      "type": "hard"
+    },
+    {
+      "from": "cg-19",
+      "to": "cg-12",
+      "type": "hard"
+    },
+    {
+      "from": "cg-12",
+      "to": "cg-16",
+      "type": "hard"
+    },
+    {
+      "from": "cg-16",
+      "to": "cg-20",
+      "type": "hard"
+    }
+  ]
+}
