@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>诊断 · 数学知识图谱</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2563eb">
+</head>
+<body>
+<header>
+  <a class="brand" href="index.html">中小学知识图谱</a>
+  <nav><a href="diagnose.html">诊断</a><a href="explore.html">图谱</a><a href="review.html">复习</a><a href="lab.html">3D 实验</a><a href="wrong.html">错题本</a></nav>
+</header>
+<main>
+  <h1>自适应前置诊断</h1>
+  <p class="sub">答错才会往下追：先测目标，错了测它的先修，直到找到“先修都过关、这一步没过去”的点。</p>
+
+  <div class="card" id="picker">
+    <div class="meta" style="margin-bottom:8px">先选一个想诊断的知识点</div>
+    <select id="target"></select>
+    <button class="btn" id="start" style="margin-left:8px">开始诊断</button>
+  </div>
+
+  <div id="progress" class="meta" style="margin-top:14px"></div>
+  <div id="qbox" style="display:none"></div>
+  <div id="result"></div>
+  <p class="note">判定原则：某个知识点答错、而它的全部硬先修都答对 → 它就是根因。
+    软先修不参与判定，只影响学习路径建议。</p>
+</main>
+<script src="app.js"></script>
+<script>
+loadAll().then(() => {
+  initPicker();
+  const t = new URLSearchParams(location.search).get('target');
+  if (t && D.byId.has(t)) { document.getElementById('target').value = t; beginDiagnose(t); }
+}).catch(e => {
+  document.getElementById('picker').textContent = '数据加载失败：' + e.message;
+});
+</script>
+</body>
+</html>
