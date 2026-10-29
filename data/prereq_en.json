@@ -1,0 +1,765 @@
+{
+  "note": "英语先修边：按年级串成语法阶梯 + 小学→初中接驳（scripts/build_en_edges.py 生成）",
+  "edges": [
+    {
+      "from": "ev-01",
+      "to": "ev-02",
+      "type": "hard"
+    },
+    {
+      "from": "ev-02",
+      "to": "ev-03",
+      "type": "hard"
+    },
+    {
+      "from": "ev-03",
+      "to": "ev-04",
+      "type": "hard"
+    },
+    {
+      "from": "ev-04",
+      "to": "ev-05",
+      "type": "hard"
+    },
+    {
+      "from": "ev-05",
+      "to": "ev-06",
+      "type": "hard"
+    },
+    {
+      "from": "ev-06",
+      "to": "ev-07",
+      "type": "hard"
+    },
+    {
+      "from": "ev-07",
+      "to": "ev-08",
+      "type": "hard"
+    },
+    {
+      "from": "ev-08",
+      "to": "ev-09",
+      "type": "hard"
+    },
+    {
+      "from": "ev-09",
+      "to": "ev-10",
+      "type": "hard"
+    },
+    {
+      "from": "ev-10",
+      "to": "ev-11",
+      "type": "hard"
+    },
+    {
+      "from": "ev-11",
+      "to": "ev-12",
+      "type": "hard"
+    },
+    {
+      "from": "ev-12",
+      "to": "el-01",
+      "type": "hard"
+    },
+    {
+      "from": "el-01",
+      "to": "el-08",
+      "type": "hard"
+    },
+    {
+      "from": "el-08",
+      "to": "ev-13",
+      "type": "hard"
+    },
+    {
+      "from": "ev-13",
+      "to": "ev-14",
+      "type": "hard"
+    },
+    {
+      "from": "ev-14",
+      "to": "ev-15",
+      "type": "hard"
+    },
+    {
+      "from": "ev-15",
+      "to": "ev-25",
+      "type": "hard"
+    },
+    {
+      "from": "ev-25",
+      "to": "ew-14",
+      "type": "hard"
+    },
+    {
+      "from": "ew-14",
+      "to": "el-02",
+      "type": "hard"
+    },
+    {
+      "from": "el-02",
+      "to": "el-09",
+      "type": "hard"
+    },
+    {
+      "from": "el-09",
+      "to": "ev-16",
+      "type": "hard"
+    },
+    {
+      "from": "ev-16",
+      "to": "ev-17",
+      "type": "hard"
+    },
+    {
+      "from": "ev-17",
+      "to": "ev-18",
+      "type": "hard"
+    },
+    {
+      "from": "ev-18",
+      "to": "ev-26",
+      "type": "hard"
+    },
+    {
+      "from": "ev-26",
+      "to": "ew-10",
+      "type": "hard"
+    },
+    {
+      "from": "ew-10",
+      "to": "el-03",
+      "type": "hard"
+    },
+    {
+      "from": "el-03",
+      "to": "el-06",
+      "type": "hard"
+    },
+    {
+      "from": "el-06",
+      "to": "ev-19",
+      "type": "hard"
+    },
+    {
+      "from": "ev-19",
+      "to": "ev-20",
+      "type": "hard"
+    },
+    {
+      "from": "ev-20",
+      "to": "ev-27",
+      "type": "hard"
+    },
+    {
+      "from": "ev-27",
+      "to": "ew-05",
+      "type": "hard"
+    },
+    {
+      "from": "ew-05",
+      "to": "ew-08",
+      "type": "hard"
+    },
+    {
+      "from": "ew-08",
+      "to": "el-04",
+      "type": "hard"
+    },
+    {
+      "from": "el-04",
+      "to": "el-05",
+      "type": "hard"
+    },
+    {
+      "from": "el-05",
+      "to": "ev-21",
+      "type": "hard"
+    },
+    {
+      "from": "ev-21",
+      "to": "ev-22",
+      "type": "hard"
+    },
+    {
+      "from": "ev-22",
+      "to": "ev-28",
+      "type": "hard"
+    },
+    {
+      "from": "ev-28",
+      "to": "ew-04",
+      "type": "hard"
+    },
+    {
+      "from": "ew-04",
+      "to": "ew-09",
+      "type": "hard"
+    },
+    {
+      "from": "ew-09",
+      "to": "ew-13",
+      "type": "hard"
+    },
+    {
+      "from": "ew-13",
+      "to": "el-07",
+      "type": "hard"
+    },
+    {
+      "from": "el-07",
+      "to": "el-11",
+      "type": "hard"
+    },
+    {
+      "from": "el-11",
+      "to": "ev-23",
+      "type": "hard"
+    },
+    {
+      "from": "ev-23",
+      "to": "ev-24",
+      "type": "hard"
+    },
+    {
+      "from": "ev-24",
+      "to": "ev-29",
+      "type": "hard"
+    },
+    {
+      "from": "ev-29",
+      "to": "ew-01",
+      "type": "hard"
+    },
+    {
+      "from": "ew-01",
+      "to": "ew-02",
+      "type": "hard"
+    },
+    {
+      "from": "ew-02",
+      "to": "ew-11",
+      "type": "hard"
+    },
+    {
+      "from": "ew-11",
+      "to": "ew-12",
+      "type": "hard"
+    },
+    {
+      "from": "ew-12",
+      "to": "ew-15",
+      "type": "hard"
+    },
+    {
+      "from": "ew-15",
+      "to": "el-10",
+      "type": "hard"
+    },
+    {
+      "from": "el-10",
+      "to": "el-12",
+      "type": "hard"
+    },
+    {
+      "from": "el-12",
+      "to": "ev-30",
+      "type": "hard"
+    },
+    {
+      "from": "ev-30",
+      "to": "ew-03",
+      "type": "hard"
+    },
+    {
+      "from": "ew-03",
+      "to": "ew-06",
+      "type": "hard"
+    },
+    {
+      "from": "ew-06",
+      "to": "ew-07",
+      "type": "hard"
+    },
+    {
+      "from": "ew-07",
+      "to": "ew-16",
+      "type": "hard"
+    },
+    {
+      "from": "e3-01",
+      "to": "e3-02",
+      "type": "hard"
+    },
+    {
+      "from": "e3-02",
+      "to": "e3-03",
+      "type": "hard"
+    },
+    {
+      "from": "e3-03",
+      "to": "e3-04",
+      "type": "hard"
+    },
+    {
+      "from": "e3-04",
+      "to": "e3-05",
+      "type": "hard"
+    },
+    {
+      "from": "e3-05",
+      "to": "e4-01",
+      "type": "hard"
+    },
+    {
+      "from": "e4-01",
+      "to": "e4-02",
+      "type": "hard"
+    },
+    {
+      "from": "e4-02",
+      "to": "e4-05",
+      "type": "hard"
+    },
+    {
+      "from": "e4-05",
+      "to": "e4-03",
+      "type": "hard"
+    },
+    {
+      "from": "e4-03",
+      "to": "e4-04",
+      "type": "hard"
+    },
+    {
+      "from": "e4-04",
+      "to": "e4-06",
+      "type": "hard"
+    },
+    {
+      "from": "e4-06",
+      "to": "e4-07",
+      "type": "hard"
+    },
+    {
+      "from": "e4-07",
+      "to": "e5-01",
+      "type": "hard"
+    },
+    {
+      "from": "e5-01",
+      "to": "e5-02",
+      "type": "hard"
+    },
+    {
+      "from": "e5-02",
+      "to": "e5-03",
+      "type": "hard"
+    },
+    {
+      "from": "e5-03",
+      "to": "e5-08",
+      "type": "hard"
+    },
+    {
+      "from": "e5-08",
+      "to": "e5-04",
+      "type": "hard"
+    },
+    {
+      "from": "e5-04",
+      "to": "e5-05",
+      "type": "hard"
+    },
+    {
+      "from": "e5-05",
+      "to": "e5-06",
+      "type": "hard"
+    },
+    {
+      "from": "e5-06",
+      "to": "e5-07",
+      "type": "hard"
+    },
+    {
+      "from": "e5-07",
+      "to": "e5-09",
+      "type": "hard"
+    },
+    {
+      "from": "e5-09",
+      "to": "e6-05",
+      "type": "hard"
+    },
+    {
+      "from": "e6-05",
+      "to": "e6-06",
+      "type": "hard"
+    },
+    {
+      "from": "e6-06",
+      "to": "e6-07",
+      "type": "hard"
+    },
+    {
+      "from": "e6-07",
+      "to": "e6-09",
+      "type": "hard"
+    },
+    {
+      "from": "e6-09",
+      "to": "e6-01",
+      "type": "hard"
+    },
+    {
+      "from": "e6-01",
+      "to": "e6-02",
+      "type": "hard"
+    },
+    {
+      "from": "e6-02",
+      "to": "e6-03",
+      "type": "hard"
+    },
+    {
+      "from": "e6-03",
+      "to": "e6-04",
+      "type": "hard"
+    },
+    {
+      "from": "e6-04",
+      "to": "e6-08",
+      "type": "hard"
+    },
+    {
+      "from": "e6-08",
+      "to": "ej-01",
+      "type": "hard"
+    },
+    {
+      "from": "ej-01",
+      "to": "ej-02",
+      "type": "hard"
+    },
+    {
+      "from": "ej-02",
+      "to": "ej-05",
+      "type": "hard"
+    },
+    {
+      "from": "ej-05",
+      "to": "ej-11",
+      "type": "hard"
+    },
+    {
+      "from": "ej-11",
+      "to": "ej-17",
+      "type": "hard"
+    },
+    {
+      "from": "ej-17",
+      "to": "ej-18",
+      "type": "hard"
+    },
+    {
+      "from": "ej-18",
+      "to": "ej-23",
+      "type": "hard"
+    },
+    {
+      "from": "ej-23",
+      "to": "ej-38",
+      "type": "hard"
+    },
+    {
+      "from": "ej-38",
+      "to": "ej-40",
+      "type": "hard"
+    },
+    {
+      "from": "ej-40",
+      "to": "ej-03",
+      "type": "hard"
+    },
+    {
+      "from": "ej-03",
+      "to": "ej-06",
+      "type": "hard"
+    },
+    {
+      "from": "ej-06",
+      "to": "ej-08",
+      "type": "hard"
+    },
+    {
+      "from": "ej-08",
+      "to": "ej-10",
+      "type": "hard"
+    },
+    {
+      "from": "ej-10",
+      "to": "ej-24",
+      "type": "hard"
+    },
+    {
+      "from": "ej-24",
+      "to": "ej-25",
+      "type": "hard"
+    },
+    {
+      "from": "ej-25",
+      "to": "ej-39",
+      "type": "hard"
+    },
+    {
+      "from": "ej-39",
+      "to": "ej-41",
+      "type": "hard"
+    },
+    {
+      "from": "ej-41",
+      "to": "ej-04",
+      "type": "hard"
+    },
+    {
+      "from": "ej-04",
+      "to": "ej-07",
+      "type": "hard"
+    },
+    {
+      "from": "ej-07",
+      "to": "ej-12",
+      "type": "hard"
+    },
+    {
+      "from": "ej-12",
+      "to": "ej-13",
+      "type": "hard"
+    },
+    {
+      "from": "ej-13",
+      "to": "ej-14",
+      "type": "hard"
+    },
+    {
+      "from": "ej-14",
+      "to": "ej-26",
+      "type": "hard"
+    },
+    {
+      "from": "ej-26",
+      "to": "ej-33",
+      "type": "hard"
+    },
+    {
+      "from": "ej-33",
+      "to": "ej-34",
+      "type": "hard"
+    },
+    {
+      "from": "ej-34",
+      "to": "ej-43",
+      "type": "hard"
+    },
+    {
+      "from": "ej-43",
+      "to": "ej-09",
+      "type": "hard"
+    },
+    {
+      "from": "ej-09",
+      "to": "ej-15",
+      "type": "hard"
+    },
+    {
+      "from": "ej-15",
+      "to": "ej-16",
+      "type": "hard"
+    },
+    {
+      "from": "ej-16",
+      "to": "ej-19",
+      "type": "hard"
+    },
+    {
+      "from": "ej-19",
+      "to": "ej-20",
+      "type": "hard"
+    },
+    {
+      "from": "ej-20",
+      "to": "ej-21",
+      "type": "hard"
+    },
+    {
+      "from": "ej-21",
+      "to": "ej-27",
+      "type": "hard"
+    },
+    {
+      "from": "ej-27",
+      "to": "ej-28",
+      "type": "hard"
+    },
+    {
+      "from": "ej-28",
+      "to": "ej-35",
+      "type": "hard"
+    },
+    {
+      "from": "ej-35",
+      "to": "ej-36",
+      "type": "hard"
+    },
+    {
+      "from": "ej-36",
+      "to": "ej-42",
+      "type": "hard"
+    },
+    {
+      "from": "ej-42",
+      "to": "ej-47",
+      "type": "hard"
+    },
+    {
+      "from": "ej-47",
+      "to": "ej-22",
+      "type": "hard"
+    },
+    {
+      "from": "ej-22",
+      "to": "ej-29",
+      "type": "hard"
+    },
+    {
+      "from": "ej-29",
+      "to": "ej-30",
+      "type": "hard"
+    },
+    {
+      "from": "ej-30",
+      "to": "ej-31",
+      "type": "hard"
+    },
+    {
+      "from": "ej-31",
+      "to": "ej-37",
+      "type": "hard"
+    },
+    {
+      "from": "ej-37",
+      "to": "ej-44",
+      "type": "hard"
+    },
+    {
+      "from": "ej-44",
+      "to": "ej-45",
+      "type": "hard"
+    },
+    {
+      "from": "ej-45",
+      "to": "ej-46",
+      "type": "hard"
+    },
+    {
+      "from": "ej-46",
+      "to": "ej-32",
+      "type": "hard"
+    },
+    {
+      "from": "ej-32",
+      "to": "ej-48",
+      "type": "hard"
+    },
+    {
+      "from": "ej-48",
+      "to": "ej-49",
+      "type": "hard"
+    },
+    {
+      "from": "ej-49",
+      "to": "ej-50",
+      "type": "hard"
+    },
+    {
+      "from": "e5-02",
+      "to": "ej-23",
+      "type": "hard"
+    },
+    {
+      "from": "e6-01",
+      "to": "ej-25",
+      "type": "hard"
+    },
+    {
+      "from": "e6-02",
+      "to": "ej-25",
+      "type": "soft"
+    },
+    {
+      "from": "e6-03",
+      "to": "ej-13",
+      "type": "hard"
+    },
+    {
+      "from": "e5-04",
+      "to": "ej-24",
+      "type": "hard"
+    },
+    {
+      "from": "e6-04",
+      "to": "ej-26",
+      "type": "soft"
+    },
+    {
+      "from": "e5-05",
+      "to": "ej-39",
+      "type": "soft"
+    },
+    {
+      "from": "e6-07",
+      "to": "ej-40",
+      "type": "hard"
+    },
+    {
+      "from": "e5-06",
+      "to": "ej-41",
+      "type": "hard"
+    },
+    {
+      "from": "e4-06",
+      "to": "ej-18",
+      "type": "hard"
+    },
+    {
+      "from": "e6-06",
+      "to": "ej-17",
+      "type": "hard"
+    },
+    {
+      "from": "e6-09",
+      "to": "ej-19",
+      "type": "soft"
+    },
+    {
+      "from": "e3-04",
+      "to": "ej-03",
+      "type": "soft"
+    },
+    {
+      "from": "e4-02",
+      "to": "ej-39",
+      "type": "hard"
+    },
+    {
+      "from": "ev-08",
+      "to": "e5-01",
+      "type": "soft"
+    },
+    {
+      "from": "ev-13",
+      "to": "ej-13",
+      "type": "soft"
+    }
+  ]
+}
