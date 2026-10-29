@@ -1,0 +1,784 @@
+{
+  "questions": [
+    {
+      "id": "qe3-01-1",
+      "topic": "e3-01",
+      "level": 1,
+      "stem": "字母 B 的小写是",
+      "options": [
+        "p",
+        "b",
+        "d"
+      ],
+      "answer": 1,
+      "explain": "注意与 d、p 的书写区别。"
+    },
+    {
+      "id": "qe3-01-2",
+      "topic": "e3-01",
+      "level": 1,
+      "stem": "字母表中第一个字母是",
+      "options": [
+        "B",
+        "Z",
+        "A"
+      ],
+      "answer": 2,
+      "explain": "字母表以 A 开头。"
+    },
+    {
+      "id": "qe3-02-1",
+      "topic": "e3-02",
+      "level": 1,
+      "stem": "下列全是元音字母的一组是",
+      "options": [
+        "a e i o u",
+        "a b c d e",
+        "b c d f g"
+      ],
+      "answer": 0,
+      "explain": "英语有 5 个元音字母。"
+    },
+    {
+      "id": "qe3-02-2",
+      "topic": "e3-02",
+      "level": 1,
+      "stem": "bag 中 a 的读音与 cake 中 a 的读音",
+      "options": [
+        "都是 /eɪ/",
+        "不同",
+        "相同"
+      ],
+      "answer": 1,
+      "explain": "bag 是短音 /æ/，cake 是 /eɪ/。"
+    },
+    {
+      "id": "qe3-03-1",
+      "topic": "e3-03",
+      "level": 1,
+      "stem": "book 的复数形式是",
+      "options": [
+        "bookes",
+        "book",
+        "books"
+      ],
+      "answer": 2,
+      "explain": "一般直接加 -s。"
+    },
+    {
+      "id": "qe3-03-2",
+      "topic": "e3-03",
+      "level": 1,
+      "stem": "box 的复数形式是",
+      "options": [
+        "boxes",
+        "boxs",
+        "boxies"
+      ],
+      "answer": 0,
+      "explain": "以 x 结尾加 -es。"
+    },
+    {
+      "id": "qe3-04-1",
+      "topic": "e3-04",
+      "level": 1,
+      "stem": "This is ___ apple.",
+      "options": [
+        "the",
+        "an",
+        "a"
+      ],
+      "answer": 1,
+      "explain": "apple 以元音音素开头。"
+    },
+    {
+      "id": "qe3-04-2",
+      "topic": "e3-04",
+      "level": 1,
+      "stem": "This is ___ book.",
+      "options": [
+        "an",
+        "/",
+        "a"
+      ],
+      "answer": 2,
+      "explain": "book 以辅音音素开头。"
+    },
+    {
+      "id": "qe3-05-1",
+      "topic": "e3-05",
+      "level": 1,
+      "stem": "ship 中 sh 的读音是",
+      "options": [
+        "/ʃ/",
+        "/s/",
+        "/tʃ/"
+      ],
+      "answer": 0,
+      "explain": "sh 通常读 /ʃ/。"
+    },
+    {
+      "id": "qe3-05-2",
+      "topic": "e3-05",
+      "level": 1,
+      "stem": "see 中 ee 的读音是",
+      "options": [
+        "/eɪ/",
+        "/iː/",
+        "/e/"
+      ],
+      "answer": 1,
+      "explain": "ee 常读长音 /iː/。"
+    },
+    {
+      "id": "qe4-01-1",
+      "topic": "e4-01",
+      "level": 1,
+      "stem": "___ am a student.",
+      "options": [
+        "He",
+        "They",
+        "I"
+      ],
+      "answer": 2,
+      "explain": "am 只能与 I 搭配。"
+    },
+    {
+      "id": "qe4-01-2",
+      "topic": "e4-01",
+      "level": 1,
+      "stem": "___ is my sister.",
+      "options": [
+        "She",
+        "They",
+        "We"
+      ],
+      "answer": 0,
+      "explain": "单数女性用 she。"
+    },
+    {
+      "id": "qe4-02-1",
+      "topic": "e4-02",
+      "level": 1,
+      "stem": "They ___ my friends.",
+      "options": [
+        "am",
+        "are",
+        "is"
+      ],
+      "answer": 1,
+      "explain": "复数主语用 are。"
+    },
+    {
+      "id": "qe4-02-2",
+      "topic": "e4-02",
+      "level": 1,
+      "stem": "He ___ ten.",
+      "options": [
+        "are",
+        "am",
+        "is"
+      ],
+      "answer": 2,
+      "explain": "第三人称单数用 is。"
+    },
+    {
+      "id": "qe4-03-1",
+      "topic": "e4-03",
+      "level": 1,
+      "stem": "This is ___ book.（我的）",
+      "options": [
+        "my",
+        "I",
+        "me"
+      ],
+      "answer": 0,
+      "explain": "名词前用形容词性物主代词。"
+    },
+    {
+      "id": "qe4-03-2",
+      "topic": "e4-03",
+      "level": 1,
+      "stem": "___ name is Lily.（她的）",
+      "options": [
+        "Hers",
+        "Her",
+        "She"
+      ],
+      "answer": 1,
+      "explain": "后接名词用 her。"
+    },
+    {
+      "id": "qe4-04-1",
+      "topic": "e4-04",
+      "level": 1,
+      "stem": "___ are my pens.（这些）",
+      "options": [
+        "This",
+        "That",
+        "These"
+      ],
+      "answer": 2,
+      "explain": "复数近指用 these。"
+    },
+    {
+      "id": "qe4-04-2",
+      "topic": "e4-04",
+      "level": 1,
+      "stem": "___ is a cat.（那个）",
+      "options": [
+        "That",
+        "These",
+        "Those"
+      ],
+      "answer": 0,
+      "explain": "单数远指用 that。"
+    },
+    {
+      "id": "qe4-05-1",
+      "topic": "e4-05",
+      "level": 1,
+      "stem": "30 的英文是",
+      "options": [
+        "three",
+        "thirty",
+        "thirteen"
+      ],
+      "answer": 1,
+      "explain": "13 是 thirteen。"
+    },
+    {
+      "id": "qe4-05-2",
+      "topic": "e4-05",
+      "level": 1,
+      "stem": "45 的正确写法是",
+      "options": [
+        "forty five",
+        "fourty-five",
+        "forty-five"
+      ],
+      "answer": 2,
+      "explain": "forty 没有 u，中间加连字符。"
+    },
+    {
+      "id": "qe4-06-1",
+      "topic": "e4-06",
+      "level": 1,
+      "stem": "The cat is ___ the box.（在盒子里）",
+      "options": [
+        "in",
+        "on",
+        "under"
+      ],
+      "answer": 0,
+      "explain": "在内部用 in。"
+    },
+    {
+      "id": "qe4-06-2",
+      "topic": "e4-06",
+      "level": 1,
+      "stem": "The book is ___ the desk.（在桌面上）",
+      "options": [
+        "under",
+        "on",
+        "in"
+      ],
+      "answer": 1,
+      "explain": "接触表面用 on。"
+    },
+    {
+      "id": "qe4-07-1",
+      "topic": "e4-07",
+      "level": 1,
+      "stem": "下列名词中，属于不可数名词的是",
+      "options": [
+        "apple",
+        "book",
+        "water"
+      ],
+      "answer": 2,
+      "explain": "water 不能直接加 -s。"
+    },
+    {
+      "id": "qe4-07-2",
+      "topic": "e4-07",
+      "level": 1,
+      "stem": "two ___ of milk",
+      "options": [
+        "glasses",
+        "glass",
+        "glasss"
+      ],
+      "answer": 0,
+      "explain": "不可数名词借用量词复数。"
+    },
+    {
+      "id": "qe5-01-1",
+      "topic": "e5-01",
+      "level": 1,
+      "stem": "I ___ to school every day.",
+      "options": [
+        "going",
+        "go",
+        "goes"
+      ],
+      "answer": 1,
+      "explain": "主语 I 用原形。"
+    },
+    {
+      "id": "qe5-01-2",
+      "topic": "e5-01",
+      "level": 1,
+      "stem": "They ___ football.",
+      "options": [
+        "plays",
+        "playing",
+        "play"
+      ],
+      "answer": 2,
+      "explain": "复数主语用原形。"
+    },
+    {
+      "id": "qe5-02-1",
+      "topic": "e5-02",
+      "level": 2,
+      "stem": "She ___ music.（like）",
+      "options": [
+        "likes",
+        "like",
+        "liking"
+      ],
+      "answer": 0,
+      "explain": "第三人称单数加 -s。"
+    },
+    {
+      "id": "qe5-02-2",
+      "topic": "e5-02",
+      "level": 2,
+      "stem": "He ___ home.（go）",
+      "options": [
+        "going",
+        "goes",
+        "gos"
+      ],
+      "answer": 1,
+      "explain": "以 o 结尾加 -es。"
+    },
+    {
+      "id": "qe5-03-1",
+      "topic": "e5-03",
+      "level": 1,
+      "stem": "I can ___ English.",
+      "options": [
+        "speaks",
+        "speaking",
+        "speak"
+      ],
+      "answer": 2,
+      "explain": "情态动词后接原形。"
+    },
+    {
+      "id": "qe5-03-2",
+      "topic": "e5-03",
+      "level": 1,
+      "stem": "She can't ___.",
+      "options": [
+        "swim",
+        "swims",
+        "swimming"
+      ],
+      "answer": 0,
+      "explain": "can't 后接原形。"
+    },
+    {
+      "id": "qe5-04-1",
+      "topic": "e5-04",
+      "level": 1,
+      "stem": "Look! He ___.",
+      "options": [
+        "run",
+        "is running",
+        "runs"
+      ],
+      "answer": 1,
+      "explain": "正在进行用 be + doing。"
+    },
+    {
+      "id": "qe5-04-2",
+      "topic": "e5-04",
+      "level": 1,
+      "stem": "They ___ now.",
+      "options": [
+        "sing",
+        "sings",
+        "are singing"
+      ],
+      "answer": 2,
+      "explain": "复数主语用 are + doing。"
+    },
+    {
+      "id": "qe5-05-1",
+      "topic": "e5-05",
+      "level": 1,
+      "stem": "There ___ a book on the desk.",
+      "options": [
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": 0,
+      "explain": "单数用 is。"
+    },
+    {
+      "id": "qe5-05-2",
+      "topic": "e5-05",
+      "level": 1,
+      "stem": "There ___ two cats.",
+      "options": [
+        "be",
+        "are",
+        "is"
+      ],
+      "answer": 1,
+      "explain": "复数用 are。"
+    },
+    {
+      "id": "qe5-06-1",
+      "topic": "e5-06",
+      "level": 1,
+      "stem": "___ is your name?",
+      "options": [
+        "Where",
+        "Who",
+        "What"
+      ],
+      "answer": 2,
+      "explain": "问名字用 what。"
+    },
+    {
+      "id": "qe5-06-2",
+      "topic": "e5-06",
+      "level": 1,
+      "stem": "___ are you from?",
+      "options": [
+        "Where",
+        "What",
+        "Who"
+      ],
+      "answer": 0,
+      "explain": "问地点用 where。"
+    },
+    {
+      "id": "qe5-07-1",
+      "topic": "e5-07",
+      "level": 2,
+      "stem": "child 的复数形式是",
+      "options": [
+        "childes",
+        "children",
+        "childs"
+      ],
+      "answer": 1,
+      "explain": "不规则变化。"
+    },
+    {
+      "id": "qe5-07-2",
+      "topic": "e5-07",
+      "level": 2,
+      "stem": "foot 的复数形式是",
+      "options": [
+        "foots",
+        "feets",
+        "feet"
+      ],
+      "answer": 2,
+      "explain": "oo 变 ee。"
+    },
+    {
+      "id": "qe5-08-1",
+      "topic": "e5-08",
+      "level": 1,
+      "stem": "Tom 的书，正确写法是",
+      "options": [
+        "Tom's book",
+        "Toms book",
+        "Tom book"
+      ],
+      "answer": 0,
+      "explain": "单数名词加 's。"
+    },
+    {
+      "id": "qe5-08-2",
+      "topic": "e5-08",
+      "level": 2,
+      "stem": "the students 的所有格是",
+      "options": [
+        "the students's books",
+        "the students' books",
+        "the student's books"
+      ],
+      "answer": 1,
+      "explain": "以 s 结尾的复数只加 '。"
+    },
+    {
+      "id": "qe5-09-1",
+      "topic": "e5-09",
+      "level": 1,
+      "stem": "___ apples do you have?",
+      "options": [
+        "How much",
+        "How old",
+        "How many"
+      ],
+      "answer": 2,
+      "explain": "可数名词复数用 how many。"
+    },
+    {
+      "id": "qe5-09-2",
+      "topic": "e5-09",
+      "level": 1,
+      "stem": "___ water is there?",
+      "options": [
+        "How much",
+        "How many",
+        "How long"
+      ],
+      "answer": 0,
+      "explain": "不可数名词用 how much。"
+    },
+    {
+      "id": "qe6-01-1",
+      "topic": "e6-01",
+      "level": 1,
+      "stem": "He ___ football yesterday.（play）",
+      "options": [
+        "play",
+        "played",
+        "plays"
+      ],
+      "answer": 1,
+      "explain": "过去时加 -ed。"
+    },
+    {
+      "id": "qe6-01-2",
+      "topic": "e6-01",
+      "level": 2,
+      "stem": "Did you ___ TV?（watch）",
+      "options": [
+        "watched",
+        "watching",
+        "watch"
+      ],
+      "answer": 2,
+      "explain": "did 后用原形。"
+    },
+    {
+      "id": "qe6-02-1",
+      "topic": "e6-02",
+      "level": 1,
+      "stem": "I ___ to Beijing last year.（go）",
+      "options": [
+        "went",
+        "goed",
+        "go"
+      ],
+      "answer": 0,
+      "explain": "go 的过去式是 went。"
+    },
+    {
+      "id": "qe6-02-2",
+      "topic": "e6-02",
+      "level": 1,
+      "stem": "She ___ a film yesterday.（see）",
+      "options": [
+        "sees",
+        "saw",
+        "seed"
+      ],
+      "answer": 1,
+      "explain": "see 的过去式是 saw。"
+    },
+    {
+      "id": "qe6-03-1",
+      "topic": "e6-03",
+      "level": 1,
+      "stem": "Tom is ___ than Jim.",
+      "options": [
+        "tall",
+        "tallest",
+        "taller"
+      ],
+      "answer": 2,
+      "explain": "比较级加 -er。"
+    },
+    {
+      "id": "qe6-03-2",
+      "topic": "e6-03",
+      "level": 2,
+      "stem": "This book is ___ than that one.",
+      "options": [
+        "more interesting",
+        "interestinger",
+        "most interesting"
+      ],
+      "answer": 0,
+      "explain": "多音节词前加 more。"
+    },
+    {
+      "id": "qe6-04-1",
+      "topic": "e6-04",
+      "level": 1,
+      "stem": "I ___ visit my grandma tomorrow.",
+      "options": [
+        "going to",
+        "am going to",
+        "is going to"
+      ],
+      "answer": 1,
+      "explain": "I 搭配 am。"
+    },
+    {
+      "id": "qe6-04-2",
+      "topic": "e6-04",
+      "level": 1,
+      "stem": "They ___ play basketball.",
+      "options": [
+        "is going to",
+        "am going to",
+        "are going to"
+      ],
+      "answer": 2,
+      "explain": "复数主语搭配 are。"
+    },
+    {
+      "id": "qe6-05-1",
+      "topic": "e6-05",
+      "level": 1,
+      "stem": "___ the door, please.",
+      "options": [
+        "Open",
+        "Opens",
+        "Opening"
+      ],
+      "answer": 0,
+      "explain": "祈使句以原形开头。"
+    },
+    {
+      "id": "qe6-05-2",
+      "topic": "e6-05",
+      "level": 1,
+      "stem": "___ be late.",
+      "options": [
+        "No",
+        "Don't",
+        "Not"
+      ],
+      "answer": 1,
+      "explain": "否定祈使句用 Don't。"
+    },
+    {
+      "id": "qe6-06-1",
+      "topic": "e6-06",
+      "level": 1,
+      "stem": "I get up ___ 7:00.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 2,
+      "explain": "具体时刻用 at。"
+    },
+    {
+      "id": "qe6-06-2",
+      "topic": "e6-06",
+      "level": 1,
+      "stem": "We go to school ___ Monday.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 0,
+      "explain": "具体某天用 on。"
+    },
+    {
+      "id": "qe6-07-1",
+      "topic": "e6-07",
+      "level": 1,
+      "stem": "___ you like apples?",
+      "options": [
+        "Are",
+        "Do",
+        "Does"
+      ],
+      "answer": 1,
+      "explain": "主语 you 用 do。"
+    },
+    {
+      "id": "qe6-07-2",
+      "topic": "e6-07",
+      "level": 1,
+      "stem": "___ he play football?",
+      "options": [
+        "Do",
+        "Is",
+        "Does"
+      ],
+      "answer": 2,
+      "explain": "第三人称单数用 does。"
+    },
+    {
+      "id": "qe6-08-1",
+      "topic": "e6-08",
+      "level": 1,
+      "stem": "You ___ finish your homework first.",
+      "options": [
+        "must",
+        "can to",
+        "should to"
+      ],
+      "answer": 0,
+      "explain": "情态动词后直接接原形。"
+    },
+    {
+      "id": "qe6-08-2",
+      "topic": "e6-08",
+      "level": 1,
+      "stem": "You look ill. You ___ see a doctor.",
+      "options": [
+        "should to",
+        "should",
+        "shoulds"
+      ],
+      "answer": 1,
+      "explain": "should 表建议，无词形变化。"
+    },
+    {
+      "id": "qe6-09-1",
+      "topic": "e6-09",
+      "level": 1,
+      "stem": "I like tea ___ coffee.",
+      "options": [
+        "but",
+        "or",
+        "and"
+      ],
+      "answer": 2,
+      "explain": "并列用 and。"
+    },
+    {
+      "id": "qe6-09-2",
+      "topic": "e6-09",
+      "level": 1,
+      "stem": "He is old, ___ he is strong.",
+      "options": [
+        "but",
+        "and",
+        "or"
+      ],
+      "answer": 0,
+      "explain": "转折用 but。"
+    }
+  ]
+}
