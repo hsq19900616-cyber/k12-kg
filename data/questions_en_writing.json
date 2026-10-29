@@ -1,0 +1,420 @@
+{
+  "questions": [
+    {
+      "id": "qw-01-1",
+      "topic": "ew-01",
+      "level": 2,
+      "stem": "写书面表达，第一步应该",
+      "options": [
+        "先凑够字数",
+        "审题并列出要点",
+        "先写开头句"
+      ],
+      "answer": 1,
+      "explain": "要点决定得分骨架。"
+    },
+    {
+      "id": "qw-01-2",
+      "topic": "ew-01",
+      "level": 2,
+      "stem": "漏掉题目要求的要点，后果是",
+      "options": [
+        "没有影响",
+        "反而加分",
+        "直接扣分"
+      ],
+      "answer": 2,
+      "explain": "要点分是硬指标。"
+    },
+    {
+      "id": "qw-02-1",
+      "topic": "ew-02",
+      "level": 1,
+      "stem": "英文书信的称呼通常用",
+      "options": [
+        "Dear ...",
+        "Hello ...",
+        "Hi, sir"
+      ],
+      "answer": 0,
+      "explain": "Dear + 姓名/称谓。"
+    },
+    {
+      "id": "qw-02-2",
+      "topic": "ew-02",
+      "level": 1,
+      "stem": "英文书信结尾常用",
+      "options": [
+        "Thanks you",
+        "Yours,",
+        "Bye"
+      ],
+      "answer": 1,
+      "explain": "Yours/Best wishes 后署名。"
+    },
+    {
+      "id": "qw-03-1",
+      "topic": "ew-03",
+      "level": 2,
+      "stem": "英文通知的标题常用",
+      "options": [
+        "Dear",
+        "Yours",
+        "Notice"
+      ],
+      "answer": 2,
+      "explain": "标题居中写 Notice。"
+    },
+    {
+      "id": "qw-03-2",
+      "topic": "ew-03",
+      "level": 2,
+      "stem": "说明活动将举办，常用",
+      "options": [
+        "will be held",
+        "hold",
+        "holding"
+      ],
+      "answer": 0,
+      "explain": "被动语态更正式。"
+    },
+    {
+      "id": "qw-04-1",
+      "topic": "ew-04",
+      "level": 1,
+      "stem": "写日记记录昨天的事，时态用",
+      "options": [
+        "一般将来时",
+        "一般过去时",
+        "一般现在时"
+      ],
+      "answer": 1,
+      "explain": "已发生的事用过去时。"
+    },
+    {
+      "id": "qw-04-2",
+      "topic": "ew-04",
+      "level": 2,
+      "stem": "记叙文一般应交代的要素不包括",
+      "options": [
+        "时间地点",
+        "人物事件",
+        "作者收入"
+      ],
+      "answer": 2,
+      "explain": "五要素是 who/when/where/what/how。"
+    },
+    {
+      "id": "qw-05-1",
+      "topic": "ew-05",
+      "level": 2,
+      "stem": "介绍一个地方，最常用的句型是",
+      "options": [
+        "there be 句型",
+        "虚拟语气",
+        "倒装句"
+      ],
+      "answer": 0,
+      "explain": "表存在最直接。"
+    },
+    {
+      "id": "qw-05-2",
+      "topic": "ew-05",
+      "level": 2,
+      "stem": "介绍地点通常不需要写",
+      "options": [
+        "特色",
+        "个人收入",
+        "位置"
+      ],
+      "answer": 1,
+      "explain": "位置、历史、特色、活动四要素。"
+    },
+    {
+      "id": "qw-06-1",
+      "topic": "ew-06",
+      "level": 2,
+      "stem": "议论文第一段应该",
+      "options": [
+        "先写结尾",
+        "只举反例",
+        "亮明观点"
+      ],
+      "answer": 2,
+      "explain": "开门见山。"
+    },
+    {
+      "id": "qw-06-2",
+      "topic": "ew-06",
+      "level": 2,
+      "stem": "表示「此外、而且」用",
+      "options": [
+        "What's more",
+        "In short",
+        "However"
+      ],
+      "answer": 0,
+      "explain": "In short 表总结，However 表转折。"
+    },
+    {
+      "id": "qw-07-1",
+      "topic": "ew-07",
+      "level": 3,
+      "stem": "描述数据「上升」用",
+      "options": [
+        "remain",
+        "increase",
+        "decrease"
+      ],
+      "answer": 1,
+      "explain": "decrease 下降，remain 持平。"
+    },
+    {
+      "id": "qw-07-2",
+      "topic": "ew-07",
+      "level": 3,
+      "stem": "表示「百分比」的词是",
+      "options": [
+        "number",
+        "times",
+        "percent"
+      ],
+      "answer": 2,
+      "explain": "60 percent 表示 60%。"
+    },
+    {
+      "id": "qw-08-1",
+      "topic": "ew-08",
+      "level": 2,
+      "stem": "段落的主题句一般放在",
+      "options": [
+        "段首",
+        "段中",
+        "段末"
+      ],
+      "answer": 0,
+      "explain": "先总后分最清晰。"
+    },
+    {
+      "id": "qw-08-2",
+      "topic": "ew-08",
+      "level": 2,
+      "stem": "一个段落应围绕几个中心",
+      "options": [
+        "越多越好",
+        "一个",
+        "三个"
+      ],
+      "answer": 1,
+      "explain": "一段一中心。"
+    },
+    {
+      "id": "qw-09-1",
+      "topic": "ew-09",
+      "level": 2,
+      "stem": "下列连接词中，用来表示转折关系的是",
+      "options": [
+        "therefore",
+        "first",
+        "however"
+      ],
+      "answer": 2,
+      "explain": "therefore 表因果。"
+    },
+    {
+      "id": "qw-09-2",
+      "topic": "ew-09",
+      "level": 2,
+      "stem": "表示因果的连接词是",
+      "options": [
+        "therefore",
+        "however",
+        "besides"
+      ],
+      "answer": 0,
+      "explain": "besides 表递进。"
+    },
+    {
+      "id": "qw-10-1",
+      "topic": "ew-10",
+      "level": 1,
+      "stem": "There ___ two books on the desk.",
+      "options": [
+        "be",
+        "are",
+        "is"
+      ],
+      "answer": 1,
+      "explain": "复数用 are。"
+    },
+    {
+      "id": "qw-10-2",
+      "topic": "ew-10",
+      "level": 2,
+      "stem": "It is important ___ us to learn English.",
+      "options": [
+        "of",
+        "to",
+        "for"
+      ],
+      "answer": 2,
+      "explain": "It is + adj. + for sb + to do。"
+    },
+    {
+      "id": "qw-11-1",
+      "topic": "ew-11",
+      "level": 3,
+      "stem": "Not only ___ he sing well, but also he dances well.",
+      "options": [
+        "does",
+        "do",
+        "is"
+      ],
+      "answer": 0,
+      "explain": "not only 置句首，前半句部分倒装。"
+    },
+    {
+      "id": "qw-11-2",
+      "topic": "ew-11",
+      "level": 2,
+      "stem": "He was ___ tired that he fell asleep at once.",
+      "options": [
+        "very",
+        "so",
+        "such"
+      ],
+      "answer": 1,
+      "explain": "so + adj. + that。"
+    },
+    {
+      "id": "qw-12-1",
+      "topic": "ew-12",
+      "level": 2,
+      "stem": "叙事类作文的主时态是",
+      "options": [
+        "一般现在时",
+        "现在完成时",
+        "一般过去时"
+      ],
+      "answer": 2,
+      "explain": "已发生的事用过去时。"
+    },
+    {
+      "id": "qw-12-2",
+      "topic": "ew-12",
+      "level": 2,
+      "stem": "全篇时态频繁切换会",
+      "options": [
+        "被扣分",
+        "加分",
+        "没有影响"
+      ],
+      "answer": 0,
+      "explain": "时态一致是评分项。"
+    },
+    {
+      "id": "qw-13-1",
+      "topic": "ew-13",
+      "level": 2,
+      "stem": "写完作文最该先检查",
+      "options": [
+        "字体好不好",
+        "主谓一致和名词单复数",
+        "字数够不够"
+      ],
+      "answer": 1,
+      "explain": "这是最常见的扣分点。"
+    },
+    {
+      "id": "qw-13-2",
+      "topic": "ew-13",
+      "level": 1,
+      "stem": "Three students ___ here now.",
+      "options": [
+        "is",
+        "was",
+        "are"
+      ],
+      "answer": 2,
+      "explain": "复数主语用 are。"
+    },
+    {
+      "id": "qw-14-1",
+      "topic": "ew-14",
+      "level": 1,
+      "stem": "句子第一个字母必须",
+      "options": [
+        "大写",
+        "小写",
+        "随意"
+      ],
+      "answer": 0,
+      "explain": "基本书写规范。"
+    },
+    {
+      "id": "qw-14-2",
+      "topic": "ew-14",
+      "level": 1,
+      "stem": "英语中的「我」在句中写作",
+      "options": [
+        "me",
+        "I",
+        "i"
+      ],
+      "answer": 1,
+      "explain": "永远大写。"
+    },
+    {
+      "id": "qw-15-1",
+      "topic": "ew-15",
+      "level": 2,
+      "stem": "要求 80 词左右，合理范围是",
+      "options": [
+        "越少越好",
+        "越多越好",
+        "约 72—88 词"
+      ],
+      "answer": 2,
+      "explain": "上下浮动 10% 较稳妥。"
+    },
+    {
+      "id": "qw-15-2",
+      "topic": "ew-15",
+      "level": 2,
+      "stem": "初中英语作文通常分",
+      "options": [
+        "3 段左右",
+        "1 段",
+        "越多越好"
+      ],
+      "answer": 0,
+      "explain": "开头、主体、结尾。"
+    },
+    {
+      "id": "qw-16-1",
+      "topic": "ew-16",
+      "level": 3,
+      "stem": "「我非常喜欢它」的正确表达是",
+      "options": [
+        "I like very it",
+        "I like it very much",
+        "I very like it"
+      ],
+      "answer": 1,
+      "explain": "very much 放句末。"
+    },
+    {
+      "id": "qw-16-2",
+      "topic": "ew-16",
+      "level": 3,
+      "stem": "「开灯」的正确表达是",
+      "options": [
+        "open the light",
+        "open light",
+        "turn on the light"
+      ],
+      "answer": 2,
+      "explain": "light 用 turn on/off。"
+    }
+  ]
+}
